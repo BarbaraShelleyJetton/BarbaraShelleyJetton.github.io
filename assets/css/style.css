@@ -466,6 +466,16 @@ section {
   background-color: #149ddd;
 }
 
+/* Increase the size of project icons */
+.projects .icon i {
+  font-size: 32px;
+}
+
+/* Center the blurbs/icons */
+.projects .icon {
+  text-align: center;
+}
+
 /*--------------------------------------------------------------
 # Resume
 --------------------------------------------------------------*/

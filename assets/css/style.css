@@ -567,10 +567,8 @@ section {
 }
 
 .photos .photos-wrap {
-  transition: 0.3s;
   position: relative;
   overflow: hidden;
-  z-index: 1;
 }
 
 .photos .photos-wrap::before {
@@ -628,14 +626,18 @@ section {
   bottom: 0;
 }
 
-.photos-info {
+.photos .photos-info {
   position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 10px;
+  border-top: 1px solid #ccc;
+  border-radius: 5px 5px 0 0;
+  box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
   opacity: 0;
   transition: opacity 0.3s ease;
-  text-align: center;
 }
 
 .photos-item:hover .photos-info {

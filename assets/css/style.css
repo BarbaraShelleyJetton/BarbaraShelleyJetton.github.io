@@ -311,8 +311,29 @@ section {
   overflow: hidden;
 }
 
-.section-bg {
-  background: #f5f8fd;
+/* About Section */
+.about {
+  background: #fff; /* Set background color to white */
+}
+
+/* Projects Section */
+.projects {
+  background: #f5f8fd; /* Set background color to blue/gray */
+}
+
+/* Resume Section */
+.Resume {
+  background: #fff; /* Set background color to white */
+}
+
+/* Photos Section */
+.photos {
+  background: #f5f8fd; /* Set background color to blue/gray */
+}
+
+/* Contact Section */
+.contact {
+  background: #fff; /* Set background color to white */
 }
 
 .section-title {

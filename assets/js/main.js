@@ -102,9 +102,10 @@
    * Scrool with ofset on links with a class name .scrollto
    */
   on('click', '.scrollto', function(e) {
-    if (select(this.hash)) {
-      e.preventDefault()
-
+    if (this.hash === '#projects' || this.hash.includes('#projects')) {
+      e.preventDefault():
+    }
+    if(select(this.hash)) {
       let body = select('body')
       if (body.classList.contains('mobile-nav-active')) {
         body.classList.remove('mobile-nav-active')

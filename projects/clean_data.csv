@@ -1,0 +1,2044 @@
+year,disaster_type,disaster_subtype,country,latitude,longitude,start_year,start_month,start_day,total_deaths,total_damages,event_name,associated_dis,dis_mag_scale,dis_mag_value
+1902,Earthquake,Ground movement,Guatemala,14,-91,1902,4,18,2000,25000,NA,Tsunami/Tidal wave,Richter,8
+1905,Earthquake,Ground movement,India,32.04,76.16,1905,4,4,20000,25000,NA,NA,Richter,8
+1906,Earthquake,Ground movement,Chile,33.05,71.4,1906,8,16,20000,100000,NA,Tsunami/Tidal wave,Richter,8
+1907,Earthquake,Ground movement,China,38.5,69.9,1907,10,21,12000,NA,NA,NA,Richter,7
+1909,Earthquake,Ground movement,France,44.05,6.14,1909,6,11,46,NA,NA,NA,Richter,6
+1910,Earthquake,Ground movement,Costa Rica,9.8,-84,1910,4,13,1750,NA,NA,NA,Richter,NA
+1910,Earthquake,Ground movement,Algeria,36,4,1910,6,24,12,NA,NA,NA,Richter,6
+1914,Earthquake,Ground movement,Indonesia,-3.924,101.82,1914,6,26,20,NA,NA,Tsunami/Tidal wave,Richter,8
+1917,Earthquake,Ground movement,China,28,104,1917,7,31,1800,NA,NA,NA,Richter,7
+1917,Earthquake,Ground movement,Guatemala,14.38,-90.22,1917,12,25,2650,NA,NA,NA,Richter,6
+1917,Earthquake,Ground movement,Indonesia,-7,116,1917,1,21,15000,NA,NA,NA,Richter,7
+1918,Earthquake,Ground movement,China,23.5,117,1918,2,13,10000,NA,NA,Tsunami/Tidal wave,Richter,7
+1920,Earthquake,Ground movement,China,36.888,105.606,1920,12,16,180000,25000,NA,"Slide (land, mud, snow, rock)",Richter,9
+1922,Earthquake,Ground movement,Chile,-28.553,-70.755,1922,11,11,1000,NA,NA,Tsunami/Tidal wave,Richter,9
+1923,Earthquake,Ground movement,China,31.295,100.75,1923,3,24,5000,NA,NA,NA,Richter,7
+1924,Earthquake,Ground movement,Ecuador,-1.29,-78.52,1924,3,3,40,NA,NA,NA,Richter,7
+1924,Earthquake,Ground movement,Indonesia,-7.21,109.56,1924,12,2,727,NA,NA,NA,Richter,NA
+1925,Earthquake,Ground movement,China,25.713,100.422,1925,3,16,5000,NA,NA,NA,Richter,7
+1927,Earthquake,Ground movement,Indonesia,-0.842,120.764,1927,12,1,50,NA,NA,Tsunami/Tidal wave,Richter,6
+1927,Earthquake,Ground movement,China,37.645,102.489,1927,5,23,40912,NA,NA,NA,Richter,8
+1932,Earthquake,Ground movement,Indonesia,0.5,126,1932,5,14,6,NA,NA,NA,Richter,7
+1933,Earthquake,Ground movement,China,31.9,103.4,1933,8,25,10000,NA,NA,NA,Richter,8
+1936,Earthquake,Ground movement,Indonesia,6.1,94.7,1936,8,24,9,NA,NA,Tsunami/Tidal wave,Richter,7
+1936,Earthquake,Ground movement,Indonesia,3.5,97.5,1936,9,9,17,NA,NA,NA,Richter,NA
+1939,Earthquake,Ground movement,Chile,-36.305,-72.315,1939,1,24,30000,920000,NA,Tsunami/Tidal wave,Richter,8
+1939,Earthquake,Ground movement,Ghana,5.552,-0.628,1939,6,22,22,NA,NA,Tsunami/Tidal wave,Richter,6
+1942,Earthquake,Ground movement,Ecuador,-0.025,-79.955,1942,5,13,200,2500,NA,NA,Richter,NA
+1943,Earthquake,Ground movement,Chile,-31.432,-71.475,1943,4,6,12,100000,NA,Tsunami/Tidal wave,Richter,8
+1943,Earthquake,Ground movement,Indonesia,-8.591,109.803,1943,7,23,213,NA,NA,NA,Richter,7
+1944,Earthquake,Ground movement,Argentina,-31.372,68.436,1944,1,15,10000,100000,NA,NA,Richter,7
+1946,Earthquake,Ground movement,Chile,-26.5,-70.5,1946,8,2,2,NA,NA,Tsunami/Tidal wave,Richter,8
+1946,Earthquake,Ground movement,Dominican Republic (the),19.25,-69,1946,8,4,73,NA,NA,Tsunami/Tidal wave,Richter,8
+1946,Earthquake,Ground movement,Algeria,35.75,5,1946,2,12,276,NA,NA,NA,Richter,NA
+1949,Earthquake,Ground movement,Ecuador,-1.5,-78.2,1949,8,5,6000,20000,NA,"Slide (land, mud, snow, rock)",Richter,7
+1949,Earthquake,Ground movement,Chile,-38,-73.5,1949,4,19,35,39000,NA,Tsunami/Tidal wave,Richter,7
+1949,Earthquake,Ground movement,Chile,-54,-71,1949,12,17,6,5200,NA,Tsunami/Tidal wave,Richter,8
+1950,Earthquake,Ground movement,India,28.5,96.5,1950,8,15,1500,20000,NA,"Slide (land, mud, snow, rock)",Richter,9
+1950,Earthquake,Ground movement,Colombia,7.8,-72.5,1950,7,8,211,5000,NA,NA,Richter,NA
+1952,Earthquake,Ground movement,Haiti,18.3,73.2,1952,10,27,6,20000,NA,NA,Richter,NA
+1953,Earthquake,Ground movement,Chile,-37.093,-72.866,1953,5,6,12,500000,NA,Tsunami/Tidal wave,Richter,8
+1953,Earthquake,Ground movement,Cyprus,34.741,32.335,1953,9,10,40,NA,NA,Tsunami/Tidal wave,Richter,6
+1953,Earthquake,Ground movement,Greece,38.182,20.942,1953,8,12,476,100000,NA,Tsunami/Tidal wave,Richter,7
+1953,Earthquake,Ground movement,Chile,-22.1,-68.7,1953,12,6,3,7310,NA,NA,Richter,7
+1954,Earthquake,Ground movement,Algeria,36.283,1.467,1954,9,9,1250,6000,NA,Tsunami/Tidal wave,Richter,7
+1954,Earthquake,Ground movement,Afghanistan,36,66,1954,6,10,2000,NA,NA,NA,Richter,NA
+1954,Earthquake,Ground movement,Greece,39.3,22.2,1954,4,30,31,3150,NA,NA,Richter,7
+1955,Earthquake,Ground movement,China,30,101.8,1955,4,14,39,NA,NA,NA,Richter,8
+1955,Earthquake,Ground movement,Egypt,32.2,29.6,1955,9,12,20,NA,NA,NA,Richter,6
+1956,Earthquake,Ground movement,Greece,36.664,25.957,1956,7,9,53,NA,NA,Tsunami/Tidal wave,Richter,8
+1956,Earthquake,Ground movement,Afghanistan,35.1,67.5,1956,6,10,100,25000,NA,NA,Richter,8
+1956,Earthquake,Ground movement,Spain,37,-4,1956,4,19,11,NA,NA,NA,Richter,NA
+1956,Earthquake,Ground movement,India,23,70,1956,7,21,113,NA,NA,NA,Richter,6
+1958,Earthquake,Ground movement,Indonesia,-9.5,112.5,1958,10,20,8,NA,NA,NA,Richter,7
+1960,Earthquake,Tsunami,Chile,-38.143,-73.407,1960,5,22,6000,550000,NA,Volcanic activity,Richter,10
+1960,Earthquake,Ground movement,Algeria,36,4.1,1960,2,21,57,NA,NA,NA,Richter,6
+1961,Earthquake,Ground movement,Ethiopia,10.4,39.9,1961,6,2,30,NA,NA,NA,Richter,7
+1962,Earthquake,Ground movement,Albania,40.9,19.5,1962,3,18,15,NA,NA,NA,Richter,6
+1962,Earthquake,Ground movement,Colombia,5.173,-76.352,1962,7,30,47,NA,NA,NA,Richter,7
+1965,Earthquake,Ground movement,Indonesia,-2.608,-125.952,1965,1,24,71,NA,NA,Tsunami/Tidal wave,Richter,8
+1965,Earthquake,Ground movement,Chile,-32.522,-71.233,1965,3,28,400,125000,NA,NA,Richter,7
+1965,Earthquake,Ground movement,Algeria,35.7,4.4,1965,1,1,2,2000,NA,NA,Richter,6
+1965,Earthquake,Ground movement,Greece,39.4,24,1965,3,9,38,8000,NA,NA,Richter,6
+1966,Earthquake,Ground movement,Chile,-25.494,-70.55,1966,12,28,4,400,NA,NA,Richter,8
+1966,Earthquake,Ground movement,Greece,39.2,22,1966,2,5,1,4000,NA,NA,Richter,6
+1966,Earthquake,Ground movement,Greece,37.5,22.1,1966,9,1,1,14000,NA,NA,Richter,6
+1967,Earthquake,Ground movement,Indonesia,-3.7,119.3,1967,4,11,71,NA,NA,Tsunami/Tidal wave,Richter,6
+1967,Earthquake,Ground movement,Albania,41.386,20.532,1967,11,30,11,20000,NA,NA,Richter,7
+1967,Earthquake,Ground movement,Colombia,2.849,-74.798,1967,2,9,61,600,NA,NA,Richter,7
+1967,Earthquake,Ground movement,France,43.2,-0.5,1967,8,13,1,NA,NA,NA,Richter,5
+1967,Earthquake,Ground movement,Greece,39.5,21.2,1967,5,1,9,5000,NA,NA,Richter,6
+1967,Earthquake,Ground movement,Indonesia,-8.965,113.017,1967,2,20,54,NA,NA,NA,Richter,6
+1967,Earthquake,Ground movement,India,17.412,73.885,1967,12,11,177,400,NA,NA,Richter,7
+1968,Earthquake,Ground movement,Greece,39.368,24.957,1968,2,20,19,600,NA,Tsunami/Tidal wave,Richter,7
+1968,Earthquake,Ground movement,Australia,-31.566,117.071,1968,10,14,NA,2600,NA,NA,Richter,7
+1968,Earthquake,Tsunami,Indonesia,0.157,119.802,1968,8,15,200,NA,NA,NA,Richter,8
+1969,Earthquake,Ground movement,China,22.317,111.8,1969,7,26,3000,NA,NA,NA,Richter,6
+1969,Earthquake,Ground movement,Ethiopia,11.9,41.21,1969,3,29,24,320,NA,NA,Richter,6
+1969,Earthquake,Tsunami,Indonesia,-3.201,118.904,1969,2,23,64,NA,NA,NA,Richter,7
+1970,Earthquake,Ground movement,China,24.185,102.543,1970,1,4,10000,NA,NA,NA,Richter,7
+1970,Earthquake,Ground movement,Colombia,6.375,-77.438,1970,9,25,NA,400,NA,NA,Richter,7
+1970,Earthquake,Ground movement,Ecuador,-4.026,-80.542,1970,12,9,29,4000,NA,NA,Richter,7
+1970,Earthquake,Ground movement,India,21.7,73,1970,3,23,26,NA,NA,NA,Richter,5
+1971,Earthquake,Ground movement,Chile,-32.601,-71.076,1971,7,9,85,236400,NA,Tsunami/Tidal wave,Richter,8
+1973,Earthquake,Ground movement,Costa Rica,10.679,-84.759,1973,4,14,21,200,NA,NA,Richter,7
+1974,Earthquake,Ground movement,China,28.4,104.1,1974,5,11,20000,NA,NA,NA,Richter,7
+1975,Earthquake,Ground movement,China,40.641,122.58,1975,2,4,2000,NA,NA,NA,Richter,7
+1975,Earthquake,Ground movement,India,32.455,78.43,1975,1,19,47,NA,NA,NA,Richter,7
+1976,Earthquake,Ground movement,Afghanistan,36.61,67.79,1976,3,19,50,NA,NA,NA,Richter,6
+1976,Earthquake,Ground movement,China,39.57,117.978,1976,7,28,242000,5600000,NA,NA,Richter,8
+1976,Earthquake,Ground movement,Ecuador,0.782,79.804,1976,4,9,10,4000,NA,NA,Richter,7
+1976,Volcanic activity,Ash fall,Ecuador,-0.677,-78.436,1976,12,NA,1,NA,Cotopaxi,NA,NA,NA
+1976,Earthquake,Ground movement,Guatemala,15.324,-89.101,1976,2,4,23000,1000000,NA,NA,Richter,8
+1976,Earthquake,Ground movement,Indonesia,-4.603,140.091,1976,6,26,420,25000,NA,NA,Richter,7
+1976,Earthquake,Ground movement,Indonesia,-8.17,114.888,1976,7,14,573,195000,NA,NA,Richter,7
+1976,Earthquake,Ground movement,Indonesia,-4.517,139.918,1976,10,29,133,NA,NA,NA,Richter,7
+1977,Earthquake,Ground movement,Indonesia,-11.164,118.378,1977,8,19,185,1200,NA,Tsunami/Tidal wave,Richter,8
+1977,Earthquake,Ground movement,Argentina,-31.028,-67.767,1977,11,23,70,80000,NA,NA,Richter,7
+1978,Earthquake,Ground movement,Greece,40.739,23.229,1978,6,20,50,250000,NA,NA,Richter,6
+1901,Earthquake,Tsunami,Japan,40.5,142.5,1901,8,10,18,NA,NA,Tsunami/Tidal wave,Richter,8
+1902,Earthquake,Ground movement,Soviet Union,40.8,72.3,1902,12,16,4562,NA,NA,NA,Richter,6
+1903,Earthquake,Ground movement,Turkey,39.09,42.3,1903,4,29,3560,NA,NA,NA,Richter,6
+1905,Earthquake,Tsunami,Japan,37.4,142.6,1907,7,7,41,NA,NA,Tsunami/Tidal wave,Richter,7
+1905,Earthquake,Ground movement,Italy,38.67,16.07,1905,9,8,557,NA,NA,NA,Richter,7
+1906,Earthquake,Ground movement,United States of America (the),37.67,-122.48,1906,4,18,700,524000,NA,Fire,Richter,8
+1906,Volcanic activity,Ash fall,Italy,40.821,14.426,1906,4,18,700,NA,Mt. Vesuve,NA,NA,NA
+1906,Earthquake,Ground movement,Taiwan (Province of China),23.6,170.5,1906,3,17,1258,NA,NA,NA,Richter,7
+1907,Earthquake,Ground movement,Jamaica,18.2,-76.8,1907,1,14,1200,30000,NA,NA,Richter,7
+1908,Earthquake,Ground movement,Italy,38.17,15.58,1908,12,28,75000,116000,NA,Tsunami/Tidal wave,Richter,7
+1909,Earthquake,Ground movement,Iran (Islamic Republic of),33.55,48.48,1909,1,23,5000,NA,NA,NA,Richter,8
+1909,Earthquake,Ground movement,Morocco,35.34,-5.22,1909,1,29,100,NA,NA,NA,Richter,NA
+1912,Earthquake,Ground movement,Turkey,40.41,27.15,1912,8,9,923,NA,NA,Tsunami/Tidal wave,Richter,8
+1913,Earthquake,Ground movement,Peru,-14.2,-72.9,1913,11,4,150,NA,NA,NA,Richter,6
+1914,Earthquake,Ground movement,Japan,39.2,139.8,1914,3,16,94,NA,NA,NA,Richter,7
+1915,Earthquake,Ground movement,Italy,42.02,13.26,1915,1,13,29980,60000,NA,NA,Richter,8
+1915,Earthquake,Ground movement,United States of America (the),32.47,-115.33,1915,6,22,6,1000,NA,NA,Richter,6
+1918,Earthquake,Ground movement,Philippines (the),8.29,124.4,1918,8,15,100,NA,NA,Tsunami/Tidal wave,Richter,8
+1918,Earthquake,Ground movement,Puerto Rico,18.06,-67.54,1918,10,11,116,29000,NA,Tsunami/Tidal wave,Richter,8
+1920,Earthquake,Ground movement,Italy,44.3,10.3,1920,9,7,1400,NA,NA,NA,Richter,6
+1923,Earthquake,Ground movement,Japan,35.413,139.298,1923,9,1,143000,600000,NA,Fire,Richter,8
+1923,Earthquake,Ground movement,Iran (Islamic Republic of),35.2,59.2,1923,5,26,2200,NA,NA,NA,Richter,6
+1927,Earthquake,Ground movement,Jordan,31.922,35.633,1927,7,11,268,NA,NA,NA,Richter,6
+1927,Earthquake,Ground movement,Japan,35.632,135.013,1927,3,7,3022,40000,NA,NA,Richter,7
+1929,Earthquake,Ground movement,New Zealand,-41.55,172.25,1929,6,17,17,NA,NA,"Slide (land, mud, snow, rock)",Richter,8
+1929,Earthquake,Ground movement,Iran (Islamic Republic of),37.8,57.8,1929,5,1,3253,NA,NA,NA,Richter,7
+1930,Earthquake,Ground movement,Myanmar,17.86,96.43,1930,5,5,500,NA,NA,Tsunami/Tidal wave,Richter,8
+1930,Earthquake,Ground movement,Iran (Islamic Republic of),38.087,44.781,1930,5,6,1360,NA,NA,NA,Richter,7
+1930,Earthquake,Ground movement,Italy,40.922,15.377,1930,7,23,1883,5000,NA,NA,Richter,6
+1930,Earthquake,Ground movement,Japan,35.05,139.129,1930,11,26,259,NA,NA,NA,Richter,7
+1930,Earthquake,Ground movement,Myanmar,18.233,96.298,1930,12,4,36,NA,NA,NA,Richter,7
+1931,Earthquake,Ground movement,Nicaragua,13.2,-85.7,1931,3,31,1000,15000,NA,NA,Richter,6
+1931,Earthquake,Ground movement,New Zealand,-39.659,176.42,1931,2,3,256,25000,NA,NA,Richter,7
+1931,Earthquake,Tsunami,Solomon Islands,11.117,161.11,1931,10,4,50,NA,NA,NA,Richter,8
+1933,Earthquake,Ground movement,United States of America (the),33.62,117.97,1933,3,10,116,38500,NA,Tsunami/Tidal wave,Richter,6
+1933,Earthquake,Tsunami,Japan,39.224,144.622,1933,3,3,3000,NA,NA,NA,Richter,8
+1935,Earthquake,Ground movement,Pakistan,29.5,66.8,1935,5,31,60000,NA,NA,Tsunami/Tidal wave,Richter,8
+1935,Earthquake,Ground movement,Taiwan (Province of China),24.3,124.3,1935,4,21,3276,NA,NA,NA,Richter,6
+1935,Earthquake,Ground movement,Taiwan (Province of China),24.6,120.8,1935,7,17,2746,NA,NA,NA,Richter,7
+1938,Earthquake,Ground movement,Turkey,39.508,33.872,1938,4,19,149,NA,NA,NA,Richter,7
+1939,Earthquake,Ground movement,Turkey,39.771,39.57,1939,12,27,32962,20000,NA,Tsunami/Tidal wave,Richter,8
+1939,Earthquake,Ground movement,Turkey,39.7,10.4,1939,11,21,13,NA,NA,NA,Richter,6
+1939,Earthquake,Ground movement,Turkey,39.209,27.164,1939,9,22,60,NA,NA,NA,Richter,6
+1940,Earthquake,Ground movement,Peru,-10.5,-77,1940,5,24,179,NA,NA,Tsunami/Tidal wave,Richter,8
+1940,Earthquake,Ground movement,Romania,45.8,26.8,1940,11,10,980,10000,NA,NA,Richter,7
+1940,Earthquake,Ground movement,Turkey,38.4,35.5,1940,2,20,37,NA,NA,NA,Richter,NA
+1940,Earthquake,Ground movement,United States of America (the),32.733,-115.5,1940,5,18,9,33000,NA,NA,Richter,7
+1941,Earthquake,Ground movement,Myanmar,22.408,99.814,1941,12,26,15,NA,NA,NA,Richter,7
+1942,Earthquake,Ground movement,Turkey,40.87,36.732,1942,12,20,3000,NA,NA,NA,Richter,7
+1943,Earthquake,Ground movement,Japan,35.448,133.993,1943,9,10,1400,NA,NA,NA,Richter,7
+1943,Earthquake,Ground movement,Peru,-14.2,-71.5,1943,1,30,200,NA,NA,NA,Richter,5
+1943,Earthquake,Ground movement,Turkey,40.916,33.562,1943,11,27,4020,40000,NA,NA,Richter,8
+1944,Earthquake,Tsunami,Japan,33.682,36.204,1944,12,7,1223,NA,NA,Tsunami/Tidal wave,Richter,8
+1944,Volcanic activity,Ash fall,Italy,40.821,14.426,1944,3,18,26,NA,Mt. Vesuve,NA,NA,NA
+1944,Earthquake,Ground movement,Turkey,40.696,32.992,1944,2,1,3959,NA,NA,NA,Richter,8
+1944,Earthquake,Ground movement,Turkey,39.502,26.596,1944,10,6,27,NA,NA,NA,Richter,7
+1945,Earthquake,Ground movement,Japan,34.612,137.064,1945,1,13,2306,NA,NA,Tsunami/Tidal wave,Richter,7
+1945,Earthquake,Ground movement,Pakistan,24.927,63.601,1945,11,28,4000,25000,NA,Tsunami/Tidal wave,Richter,8
+1946,Earthquake,Ground movement,Japan,33.116,135.895,1946,12,21,2000,NA,NA,Tsunami/Tidal wave,Richter,8
+1946,Earthquake,Tsunami,United States of America (the),53.492,-162.832,1946,4,1,165,25000,NA,Tsunami/Tidal wave,Richter,9
+1946,Earthquake,Ground movement,Peru,-8.41,-77.535,1946,11,10,1400,NA,NA,NA,Richter,7
+1946,Earthquake,Ground movement,Soviet Union,39.826,54.648,1946,11,4,400,NA,NA,NA,Richter,7
+1946,Earthquake,Ground movement,Turkey,39.3,41.2,1946,5,31,840,NA,NA,NA,Richter,6
+1947,Earthquake,Ground movement,Iran (Islamic Republic of),33.621,58.643,1947,9,23,400,NA,NA,NA,Richter,7
+1947,Earthquake,Ground movement,Peru,-10.973,-74.725,1947,11,1,233,NA,NA,NA,Richter,8
+1948,Earthquake,Ground movement,Japan,36.5,136,1948,6,28,5131,1000000,NA,NA,Richter,7
+1948,Earthquake,Ground movement,Philippines (the),10.5,122,1948,1,25,72,3500,NA,NA,Richter,8
+1948,Earthquake,Ground movement,Soviet Union,37.95,58.32,1948,10,5,110000,25000,NA,NA,Richter,7
+1949,Earthquake,Ground movement,Soviet Union,39.2,70.8,1949,7,10,3500,NA,NA,NA,Richter,7
+1949,Earthquake,Ground movement,Turkey,39,40.5,1949,8,17,320,NA,NA,NA,Richter,7
+1949,Earthquake,Ground movement,United States of America (the),47.167,-122.617,1949,4,13,8,25000,NA,NA,Richter,7
+1950,Earthquake,Ground movement,Peru,-13.5,-72,1950,5,21,83,NA,NA,NA,Richter,6
+1951,Earthquake,Ground movement,Nicaragua,13,-87.5,1951,8,3,500,NA,NA,Tsunami/Tidal wave,Richter,6
+1951,Earthquake,Ground movement,El Salvador,13.3,-87.8,1951,5,6,1100,23000,NA,NA,Richter,7
+1951,Earthquake,Ground movement,Turkey,40.8,33.4,1951,8,13,54,NA,NA,NA,Richter,7
+1952,Earthquake,Ground movement,Japan,42.084,143.899,1952,3,4,33,NA,NA,Tsunami/Tidal wave,Richter,8
+1952,Earthquake,Ground movement,Turkey,36.5,35.5,1952,10,22,20,NA,NA,NA,Richter,5
+1952,Earthquake,Ground movement,Turkey,39.9,41.7,1952,1,3,103,NA,NA,NA,Richter,6
+1952,Earthquake,Ground movement,United States of America (the),34.958,-118.998,1952,7,21,12,60000,NA,NA,Richter,8
+1952,Earthquake,Ground movement,United States of America (the),35.333,-118.917,1952,8,22,2,10000,NA,NA,Richter,6
+1953,Earthquake,Ground movement,Iran (Islamic Republic of),35.385,54.979,1953,2,12,970,NA,NA,NA,Richter,7
+1953,Earthquake,Ground movement,Peru,-3.552,-80.636,1953,12,12,9,NA,NA,NA,Richter,7
+1953,Earthquake,Ground movement,Turkey,40.175,27.648,1953,3,18,1200,3570,NA,NA,Richter,7
+1954,Earthquake,Ground movement,Philippines (the),13,123.9,1954,7,2,13,NA,NA,NA,Richter,7
+1955,Earthquake,Ground movement,Philippines (the),7.674,124.081,1955,4,1,400,5000,NA,NA,Richter,6
+1956,Earthquake,Ground movement,Iran (Islamic Republic of),27.407,54.462,1956,10,31,350,NA,NA,NA,Richter,6
+1956,Earthquake,Ground movement,Lebanon,35.5,35.5,1956,3,16,136,NA,NA,NA,Richter,6
+1957,Earthquake,Ground movement,Mexico,16.5,-99.1,1957,7,28,160,25000,NA,Tsunami/Tidal wave,Richter,8
+1957,Earthquake,Ground movement,Iran (Islamic Republic of),33.4,52.5,1957,4,23,44,NA,NA,Flood,Richter,NA
+1957,Earthquake,Ground movement,Iran (Islamic Republic of),36100,52700,1957,7,2,2500,15000,NA,NA,Richter,7
+1957,Earthquake,Ground movement,Iran (Islamic Republic of),34.3,47.8,1957,12,13,3000,5000,NA,NA,Richter,7
+1957,Earthquake,Ground movement,Mongolia,45.5,99.5,1957,12,4,1200,NA,NA,NA,Richter,8
+1957,Earthquake,Ground movement,Tunisia,36.2,8.9,1957,2,20,13,NA,NA,NA,Richter,6
+1957,Earthquake,Ground movement,Turkey,40.7,30.9,1957,5,26,53,NA,NA,NA,Richter,7
+1958,Earthquake,Ground movement,Iran (Islamic Republic of),34.4,47.9,1958,8,16,191,NA,NA,NA,Richter,7
+1958,Earthquake,Ground movement,Peru,-16.5,-72,1958,1,15,28,NA,NA,NA,Richter,7
+1959,Earthquake,Ground movement,United States of America (the),44.712,-111.215,1959,8,17,28,11000,NA,Tsunami/Tidal wave,Richter,7
+1959,Earthquake,Ground movement,Mexico,18.22,-94.416,1959,8,26,25,NA,NA,NA,Richter,6
+1960,Earthquake,Ground movement,Morocco,30.45,-9.62,1960,2,29,12000,120000,NA,Tsunami/Tidal wave,Richter,6
+1960,Earthquake,Ground movement,Peru,-15.75,-72.75,1960,1,13,63,NA,NA,Tsunami/Tidal wave,Richter,8
+1960,Earthquake,Ground movement,Iran (Islamic Republic of),28,54.5,1960,4,24,480,20000,NA,NA,Richter,6
+1962,Earthquake,Ground movement,Iran (Islamic Republic of),35.656,49.843,1962,9,1,12000,30000,NA,NA,Richter,7
+1962,Earthquake,Ground movement,Italy,41.4,15.5,1962,8,21,16,NA,NA,NA,Richter,6
+1963,Earthquake,Ground movement,Libya,32.6,21,1963,2,21,300,5000,NA,NA,Richter,5
+1964,Earthquake,Tsunami,Japan,38.67,139.195,1964,6,16,25,800000,NA,Tsunami/Tidal wave,Richter,7
+1964,Earthquake,Tsunami,United States of America (the),60.908,-147.339,1964,3,27,131,311000,NA,Tsunami/Tidal wave,Richter,9
+1964,Earthquake,Ground movement,Mexico,18.136,-100.605,1964,7,6,45,3000,NA,NA,Richter,7
+1964,Earthquake,Ground movement,Turkey,40.203,28.206,1964,10,6,23,5000,NA,NA,Richter,7
+1964,Earthquake,Ground movement,Taiwan (Province of China),23.2,120.6,1964,1,18,107,NA,NA,NA,Richter,7
+1965,Earthquake,Ground movement,El Salvador,13.5,-89.3,1965,5,3,125,35000,NA,NA,Richter,6
+1965,Earthquake,Ground movement,United States of America (the),47.4,-122.3,1965,4,29,7,28000,NA,NA,Richter,7
+1966,Earthquake,Ground movement,Peru,-10.665,-78.228,1966,10,17,120,15000,NA,Tsunami/Tidal wave,Richter,8
+1966,Earthquake,Ground movement,Nepal,29.706,80.935,1966,6,27,80,1000,NA,NA,Richter,6
+1966,Earthquake,Ground movement,Soviet Union,41.2,69.1,1966,4,26,10,300000,NA,NA,Richter,NA
+1966,Earthquake,Ground movement,Turkey,38.5,41.3,1966,7,3,14,NA,NA,NA,Richter,NA
+1966,Earthquake,Ground movement,Turkey,39.235,41.572,1966,8,19,2394,20000,NA,NA,Richter,7
+1966,Earthquake,Ground movement,Uganda,0.622,29.863,1966,3,20,104,1500,NA,NA,Richter,1
+1967,Earthquake,Ground movement,Turkey,40.751,30.8,1967,7,22,183,3000,NA,NA,Richter,7
+1968,Earthquake,Ground movement,Japan,40.5,140.43,1968,5,17,47,131000,NA,Tsunami/Tidal wave,Richter,7
+1968,Earthquake,Ground movement,Mexico,15.5,-92.7,1968,9,25,15,NA,NA,Tsunami/Tidal wave,Richter,6
+1968,Earthquake,Ground movement,Philippines (the),16.316,122.067,1968,8,2,271,5000,NA,Tsunami/Tidal wave,Richter,NA
+1968,Earthquake,Ground movement,Turkey,41.86,32.463,1968,9,3,24,NA,NA,Tsunami/Tidal wave,Richter,7
+1968,Earthquake,Ground movement,Iran (Islamic Republic of),39.2,44.3,1968,4,29,38,1000,NA,NA,Richter,5
+1968,Earthquake,Ground movement,Iran (Islamic Republic of),34.158,59.083,1968,8,31,10000,35000,NA,NA,Richter,7
+1968,Earthquake,Ground movement,Italy,37.702,13.033,1968,1,15,224,250000,NA,NA,Richter,6
+1968,Earthquake,Ground movement,Nicaragua,12.1,-86.2,1968,1,4,NA,2000,NA,NA,Richter,5
+1968,Earthquake,Ground movement,New Zealand,-41.659,172.02,1968,5,24,3,2669,NA,NA,Richter,7
+1968,Earthquake,Ground movement,Peru,-5.61,-77.086,1968,6,19,11,100,NA,NA,Richter,7
+1969,Earthquake,Ground movement,Iran (Islamic Republic of),37.1,57.9,1969,1,3,50,NA,NA,NA,Richter,6
+1969,Earthquake,Ground movement,Peru,-11.841,-75.051,1969,10,1,150,5000,NA,NA,Richter,7
+1969,Earthquake,Ground movement,Turkey,38.515,28.546,1969,3,28,53,NA,NA,NA,Richter,7
+1970,Earthquake,Ground movement,Peru,-9.183,-78.737,1970,5,31,66794,530000,NA,"Slide (land, mud, snow, rock)",Richter,8
+1970,Earthquake,Ground movement,Papua New Guinea,-4.999,145.396,1970,11,1,15,1750,NA,"Slide (land, mud, snow, rock)",Richter,7
+1970,Earthquake,Ground movement,Iran (Islamic Republic of),37.733,55.885,1970,7,30,176,8000,NA,NA,Richter,7
+1970,Earthquake,Ground movement,Peru,-4.026,-80.542,1970,12,9,29,2000,NA,NA,Richter,7
+1970,Earthquake,Ground movement,Philippines (the),15.791,121.63,1970,4,7,14,NA,NA,NA,Richter,NA
+1970,Earthquake,Ground movement,Turkey,39.098,29.57,1970,3,28,1086,55600,NA,NA,Richter,7
+1971,Earthquake,Ground movement,Italy,42.5,11.8,1971,2,6,22,41600,NA,NA,Richter,5
+1971,Earthquake,Ground movement,Turkey,37.6,29.8,1971,5,12,57,NA,NA,NA,Richter,6
+1971,Earthquake,Ground movement,Turkey,38.934,40.653,1971,5,22,878,5000,NA,NA,Richter,7
+1971,Earthquake,Ground movement,United States of America (the),34.416,-118.37,1971,2,9,65,553000,NA,NA,Richter,7
+1972,Earthquake,Ground movement,Iran (Islamic Republic of),28.415,52.765,1972,4,10,5057,1000,NA,NA,Richter,7
+1972,Earthquake,Ground movement,Italy,43.8,13.3,1972,2,4,1,NA,NA,NA,Richter,5
+1972,Earthquake,Ground movement,Nicaragua,12.184,-86.223,1972,12,23,10000,845000,NA,NA,Richter,6
+1972,Earthquake,Ground movement,Pakistan,36,73.4,1972,9,3,100,NA,NA,NA,Richter,6
+1972,Earthquake,Ground movement,Peru,-6.855,-76.726,1972,3,20,12,20000,NA,NA,Richter,6
+1973,Earthquake,Ground movement,Mexico,18.481,-102.996,1973,1,30,56,NA,NA,NA,Richter,8
+1973,Earthquake,Ground movement,Mexico,18.267,-96.598,1973,8,28,500,NA,NA,NA,Richter,7
+1973,Earthquake,Ground movement,Philippines (the),13.372,122.787,1973,3,17,14,450,NA,NA,Richter,7
+1974,Earthquake,Ground movement,Japan,34.522,138.74,1974,5,9,30,NA,NA,Tsunami/Tidal wave,Richter,7
+1974,Earthquake,Ground movement,Pakistan,35.1,72.9,1974,12,28,4700,3255,NA,Tsunami/Tidal wave,Richter,6
+1974,Earthquake,Ground movement,Peru,-12.265,-77.795,1974,10,4,78,10000,NA,Tsunami/Tidal wave,Richter,8
+1975,Earthquake,Tsunami,Solomon Islands,-7.104,155.152,1975,7,21,200,NA,NA,NA,Richter,8
+1975,Earthquake,Ground movement,Turkey,38.474,40.723,1975,9,6,2385,17000,NA,NA,Richter,7
+1976,Earthquake,Ground movement,Philippines (the),6.262,124.023,1976,8,17,6000,134000,NA,Tsunami/Tidal wave,Richter,8
+1976,Earthquake,Ground movement,Iran (Islamic Republic of),33.8,59.15,1976,11,6,16,NA,NA,NA,Richter,6
+1976,Earthquake,Ground movement,Iceland,66.157,-16.582,1976,1,13,1,NA,NA,NA,Richter,6
+1976,Earthquake,Ground movement,Italy,46.356,13.275,1976,5,6,922,3600000,NA,NA,Richter,7
+1976,Earthquake,Ground movement,Soviet Union,40.381,63.472,1976,5,17,NA,85000,NA,NA,Richter,7
+1976,Earthquake,Ground movement,Turkey,41.13,43.01,1976,3,25,2,NA,NA,NA,Richter,5
+1976,Earthquake,Ground movement,Turkey,37.7,28.89,1976,8,19,4,NA,NA,NA,Richter,5
+1976,Earthquake,Ground movement,Turkey,39.121,44.029,1976,11,24,3840,25000,NA,NA,Richter,7
+1977,Earthquake,Ground movement,Solomon Islands,-9.828,160.323,1977,4,21,34,NA,NA,Tsunami/Tidal wave,Richter,7
+1977,Earthquake,Ground movement,Iran (Islamic Republic of),27.609,56.393,1977,3,22,167,NA,NA,NA,Richter,7
+1977,Earthquake,Ground movement,Iran (Islamic Republic of),31.98,50.68,1977,4,7,352,NA,NA,NA,Richter,6
+1977,Earthquake,Ground movement,Iran (Islamic Republic of),38.934,44.38,1977,5,26,3,NA,NA,NA,Richter,5
+1977,Earthquake,Ground movement,Iran (Islamic Republic of),30.95,56.47,1977,12,20,589,NA,NA,NA,Richter,6
+1977,Earthquake,Ground movement,Philippines (the),16.773,122.327,1977,3,19,1,100,NA,NA,Richter,7
+1977,Earthquake,Ground movement,Romania,45.772,26.761,1977,3,4,1641,2000000,NA,NA,Richter,8
+1977,Earthquake,Ground movement,Tonga,-22.878,-175.9,1977,6,23,1,1200,NA,NA,Richter,7
+1977,Earthquake,Ground movement,Turkey,38.56,40.02,1977,3,25,30,NA,NA,NA,Richter,5
+1978,Earthquake,Ground movement,Japan,34.809,139.259,1978,1,14,25,NA,NA,Tsunami/Tidal wave,Richter,7
+1978,Earthquake,Ground movement,Italy,38.391,15.066,1978,4,16,5,NA,NA,NA,Richter,6
+1978,Earthquake,Ground movement,Japan,38.19,142.028,1978,6,12,28,865000,NA,NA,Richter,8
+1941,Earthquake,Ground movement,Yemen Arab Rep,16.4,43.5,1941,1,11,1200,NA,NA,NA,Richter,6
+1950,Earthquake,Ground movement,Venezuela (Bolivarian Republic of),10.5,-68,1950,8,3,100,NA,NA,Tsunami/Tidal wave,Richter,7
+1963,Earthquake,Ground movement,Yugoslavia,42.1,21.3,1963,7,26,1070,1000000,NA,NA,Richter,6
+1967,Earthquake,Ground movement,Venezuela (Bolivarian Republic of),10.559,-67.33,1967,7,28,240,140000,NA,Tsunami/Tidal wave,Richter,7
+1967,Earthquake,Ground movement,Yugoslavia,42,21.28,1967,11,30,7,20000,NA,NA,Richter,NA
+1968,Earthquake,Ground movement,Yugoslavia,42.1,19.3,1968,11,3,1,38600,NA,NA,Richter,5
+1969,Earthquake,Ground movement,Yugoslavia,44.9,17.3,1969,10,26,15,50000,NA,NA,Richter,6
+1969,Earthquake,Ground movement,South Africa,-33.268,19.386,1969,9,29,9,24000,NA,NA,Richter,6
+1977,Volcanic activity,Ash fall,Congo (the Democratic Republic of the),-1.52,29.25,1977,1,10,147,NA,Mt. Nyiragongo,NA,NA,NA
+1978,Earthquake,Ground movement,Germany Fed Rep,48.29,9.01,1978,9,3,NA,150000,NA,NA,Richter,6
+1979,Earthquake,Ground movement,Colombia,1.598,-79.358,1979,12,12,579,8000,NA,Tsunami/Tidal wave,Richter,8
+1979,Earthquake,Ground movement,Albania,42.096,19.209,1979,4,15,35,NA,NA,NA,Richter,7
+1979,Earthquake,Ground movement,China,31.452,119.241,1979,7,9,42,NA,NA,NA,Richter,5
+1979,Earthquake,Ground movement,Colombia,4.805,-76.217,1979,11,23,60,20000,NA,NA,Richter,7
+1980,Earthquake,Ground movement,Algeria,36.195,1.354,1980,10,10,2633,5200000,NA,Tsunami/Tidal wave,Richter,7
+1980,Earthquake,Ground movement,Azores Islands,38.815,-27.78,1980,1,1,69,5000,NA,NA,Richter,7
+1980,Earthquake,Ground movement,Ecuador,-1.948,-80.017,1980,8,18,8,NA,NA,NA,Richter,6
+1980,Earthquake,Ground movement,Greece,39.203,22.729,1980,7,12,1,5000,NA,NA,Richter,6
+1981,Earthquake,Ground movement,Colombia,8.117,-72.527,1981,10,18,10,5000,NA,"Slide (land, mud, snow, rock)",Richter,5
+1981,Earthquake,Ground movement,Greece,39.481,20.699,1981,3,10,2,NA,NA,"Slide (land, mud, snow, rock)",Richter,6
+1981,Earthquake,Ground movement,China,30.927,101.098,1981,1,24,150,NA,NA,NA,Richter,7
+1981,Earthquake,Ground movement,Greece,38.222,22.934,1981,2,24,22,900000,NA,NA,Richter,7
+1982,Earthquake,Ground movement,Afghanistan,36.148,69.011,1982,12,16,500,1000,NA,NA,Richter,7
+1982,Earthquake,Ground movement,Albania,40.883,19.59,1982,11,16,1,5000,NA,NA,Richter,6
+1982,Earthquake,Ground movement,China,31.907,99.931,1982,6,16,10,NA,NA,NA,Richter,6
+1983,Earthquake,Ground movement,Costa Rica,9.652,-83.688,1983,7,3,2,5000,NA,"Slide (land, mud, snow, rock)",Richter,7
+1983,Earthquake,Ground movement,Chile,-26.535,-70.563,1983,10,4,4,1000,NA,NA,Richter,7
+1983,Earthquake,Ground movement,China,35.206,115.213,1983,11,7,34,NA,NA,NA,Richter,5
+1983,Earthquake,Ground movement,Colombia,2.461,-76.686,1983,3,31,250,410900,NA,NA,Richter,5
+1983,Earthquake,Ground movement,Costa Rica,8.717,-83.123,1983,4,2,10,1000,NA,NA,Richter,7
+1983,Earthquake,Ground movement,Guinea,11.866,-13.529,1983,12,22,275,NA,NA,NA,Richter,6
+1985,Earthquake,Ground movement,Argentina,-33.053,-68.467,1985,1,26,6,NA,NA,NA,Richter,7
+1985,Earthquake,Ground movement,Chile,-33.135,-71.871,1985,3,3,180,1500000,NA,NA,Richter,8
+1985,Earthquake,Ground movement,China,25.926,102.871,1985,4,18,22,NA,NA,NA,Richter,6
+1985,Earthquake,Ground movement,China,39.431,75.224,1985,8,23,67,NA,NA,NA,Richter,7
+1985,Earthquake,Ground movement,Algeria,36.46,6.791,1985,10,27,30,1000,NA,NA,Richter,6
+1987,Earthquake,Ground movement,Chile,-19.022,-69.991,1987,8,8,5,1000,NA,"Slide (land, mud, snow, rock)",Richter,7
+1987,Earthquake,Ground movement,Ecuador,0.151,-77.785,1987,3,5,5000,1500000,NA,"Slide (land, mud, snow, rock)",Richter,7
+1987,Earthquake,Ground movement,Ecuador,-0.978,-78.05,1987,9,22,2,NA,NA,"Slide (land, mud, snow, rock)",Richter,6
+1987,Earthquake,Ground movement,Algeria,35.964,1.374,1987,1,26,1,1000,NA,NA,Richter,4
+1988,Earthquake,Ground movement,Guatemala,13.881,-90.45,1988,11,3,5,NA,NA,"Slide (land, mud, snow, rock)",Richter,7
+1988,Earthquake,Ground movement,Bangladesh,24.688,991.57,1988,2,6,2,NA,NA,NA,Richter,6
+1988,Earthquake,Ground movement,China,22.789,99.611,1988,11,6,939,269000,NA,NA,Richter,8
+1978,Earthquake,Ground movement,Iran (Islamic Republic of),33.386,57.434,1978,9,16,25000,50000,NA,NA,Richter,7
+1978,Earthquake,Ground movement,Iran (Islamic Republic of),32.14,49.65,1978,12,14,45,NA,NA,NA,Richter,6
+1978,Earthquake,Ground movement,Mexico,16.01,-96.591,1978,11,29,9,NA,NA,NA,Richter,8
+1979,Earthquake,Ground movement,Indonesia,-1.679,136.04,1979,9,12,2,NA,NA,Tsunami/Tidal wave,Richter,8
+1979,Earthquake,Tsunami,Indonesia,8.8,123.5,1979,7,18,539,NA,NA,Tsunami/Tidal wave,Richter,NA
+1979,Earthquake,Ground movement,Indonesia,-7.656,108.252,1979,11,2,26,16000,NA,NA,Richter,6
+1979,Earthquake,Ground movement,Indonesia,-3.299,102.712,1979,12,15,5,NA,NA,NA,Richter,7
+1979,Earthquake,Ground movement,Indonesia,-8.39,115.889,1979,12,18,32,NA,NA,NA,Richter,6
+1979,Earthquake,Ground movement,Iran (Islamic Republic of),33.897,59.472,1979,1,16,199,NA,NA,NA,Richter,7
+1979,Earthquake,Ground movement,Iran (Islamic Republic of),33.918,59.741,1979,11,14,350,NA,NA,NA,Richter,7
+1979,Earthquake,Ground movement,Iran (Islamic Republic of),33.962,59.726,1979,11,27,16,NA,NA,NA,Richter,7
+1979,Earthquake,Ground movement,Italy,42.812,13.061,1979,9,19,5,NA,NA,NA,Richter,6
+1979,Volcanic activity,Ash fall,Italy,37.734,15.004,1979,9,12,9,NA,Mt. Etna,NA,NA,NA
+1979,Earthquake,Ground movement,Mexico,17.813,-101.276,1979,3,14,5,30000,NA,NA,Richter,8
+1979,Earthquake,Ground movement,Peru,-16.39,-72.658,1979,2,16,13,NA,NA,NA,Richter,7
+1980,Earthquake,Ground movement,India,32.913,75.633,1980,8,24,13,NA,NA,NA,Richter,6
+1980,Earthquake,Ground movement,Iran (Islamic Republic of),34.587,50.652,1980,12,19,20,5000,NA,NA,Richter,6
+1980,Earthquake,Ground movement,Iran (Islamic Republic of),34.503,50.59,1980,12,22,4,1000,NA,NA,Richter,5
+1980,Earthquake,Ground movement,Iran (Islamic Republic of),35.4,51.26,1980,11,30,26,NA,NA,NA,Richter,6
+1980,Earthquake,Ground movement,Italy,40.914,15.366,1980,11,23,4689,20000000,NA,NA,Richter,7
+1980,Earthquake,Ground movement,Japan,35.45,139.964,1980,9,25,2,1000,NA,NA,Richter,6
+1980,Earthquake,Ground movement,Mexico,32.2,-115.122,1980,6,9,2,NA,NA,NA,Richter,6
+1980,Earthquake,Ground movement,Mexico,18.211,-98.24,1980,10,24,65,5000,NA,NA,Richter,7
+1980,Earthquake,Ground movement,Nepal,29.598,81.092,1980,7,29,100,245000,NA,NA,Richter,7
+1980,Earthquake,Ground movement,Peru,-13.347,-74.545,1980,11,12,7,1000,NA,NA,Richter,5
+1981,Earthquake,Ground movement,Indonesia,-4.576,139.232,1981,1,19,306,5000,NA,"Slide (land, mud, snow, rock)",Richter,7
+1981,Earthquake,Ground movement,Pakistan,35.693,73.594,1981,9,12,250,5000,NA,"Slide (land, mud, snow, rock)",Richter,6
+1981,Earthquake,Ground movement,Iran (Islamic Republic of),29.913,57.715,1981,6,11,2000,5000,NA,NA,Richter,7
+1981,Earthquake,Ground movement,Iran (Islamic Republic of),30.013,57.794,1981,7,28,1200,1000000,NA,NA,Richter,7
+1981,Earthquake,Ground movement,Italy,41.051,14.601,1981,2,14,12,500,NA,NA,Richter,5
+1981,Earthquake,Ground movement,Mexico,18.048,-102.084,1981,10,24,3,NA,NA,NA,Richter,7
+1981,Earthquake,Ground movement,Pakistan,29.856,66.962,1981,12,12,6,NA,NA,NA,Richter,4
+1981,Earthquake,Ground movement,Peru,-13.166,-74.522,1981,6,22,10,NA,NA,NA,Richter,5
+1981,Earthquake,Ground movement,Peru,-13.144,-74.376,1981,4,18,8,NA,NA,NA,Richter,5
+1982,Earthquake,Ground movement,Indonesia,-8.405,123.08,1982,12,25,13,1450,NA,"Slide (land, mud, snow, rock)",Richter,6
+1982,Earthquake,Ground movement,Indonesia,4.374,97.755,1982,2,24,NA,3500,NA,Tsunami/Tidal wave,Richter,5
+1982,Earthquake,Ground movement,Japan,42.158,142.361,1982,3,21,110,1000,NA,Tsunami/Tidal wave,Richter,7
+1982,Earthquake,Ground movement,Italy,43.164,12.586,1982,10,17,NA,35000,NA,NA,Richter,4
+1982,Earthquake,Ground movement,Mexico,16.558,-98.358,1982,6,7,9,NA,NA,NA,Richter,7
+1982,Earthquake,Ground movement,Peru,-12.69,-76.065,1982,3,28,3,5000,NA,NA,Richter,6
+1983,Earthquake,Ground movement,Philippines (the),18.231,120.86,1983,8,18,19,2227,NA,"Slide (land, mud, snow, rock)",Richter,7
+1983,Earthquake,Ground movement,Iran (Islamic Republic of),35.953,52.264,1983,3,26,30,5000,NA,"Slide (land, mud, snow, rock)",Richter,5
+1983,Earthquake,Ground movement,Japan,35.5,139.07,1983,8,8,1,NA,NA,"Slide (land, mud, snow, rock)",Richter,5
+1983,Earthquake,Tsunami,Japan,40.462,139.102,1983,5,26,102,416000,NA,Tsunami/Tidal wave,Richter,8
+1983,Earthquake,Ground movement,Indonesia,5.723,94.722,1983,4,3,NA,1000,NA,NA,Richter,7
+1983,Earthquake,Ground movement,Iran (Islamic Republic of),36.948,49.18,1983,7,22,3,5000,NA,NA,Richter,6
+1983,Earthquake,Ground movement,Pakistan,36.372,70.738,1983,12,31,24,3000,NA,NA,Richter,7
+1983,Earthquake,Ground movement,Peru,-4.843,-78.103,1983,4,12,10,500,NA,NA,Richter,5
+1983,Earthquake,Ground movement,Papua New Guinea,5.392,151.868,1983,12,22,10,NA,NA,NA,Richter,6
+1985,Earthquake,Ground movement,Indonesia,-4.13,136.049,1985,9,15,10,NA,NA,NA,Richter,6
+1985,Earthquake,Ground movement,Iran (Islamic Republic of),28.399,52.997,1985,2,3,1,NA,NA,NA,Richter,5
+1985,Earthquake,Ground movement,Mexico,18.19,-102.533,1985,9,19,9500,4104000,NA,NA,Richter,8
+1985,Earthquake,Ground movement,Pakistan,36.19,70.896,1985,7,29,5,2000,NA,NA,Richter,7
+1985,Earthquake,Ground movement,Philippines (the),7.758,123.544,1985,3,19,2,NA,NA,NA,Richter,7
+1985,Earthquake,Ground movement,Papua New Guinea,-5.599,151.045,1985,5,11,NA,1000,NA,NA,Richter,7
+1987,Earthquake,Ground movement,Indonesia,-8.247,124.155,1987,11,26,125,5000,NA,"Slide (land, mud, snow, rock)",Richter,7
+1987,Earthquake,Ground movement,Papua New Guinea,-6.088,147.689,1987,2,9,1,2625,NA,"Slide (land, mud, snow, rock)",Richter,7
+1987,Earthquake,Ground movement,Indonesia,2.244,98.866,1987,4,26,2,NA,NA,NA,Richter,6
+1987,Earthquake,Ground movement,Iran (Islamic Republic of),34.076,48.266,1987,5,29,2,NA,NA,NA,Richter,5
+1987,Earthquake,Ground movement,Japan,35.38,140.214,1987,12,17,2,NA,NA,NA,Richter,6
+1987,Earthquake,Ground movement,Mexico,33.015,-115.852,1987,11,24,2,NA,NA,NA,Richter,7
+1987,Earthquake,Ground movement,New Zealand,-37.965,176.765,1987,3,2,1,210000,NA,NA,Richter,7
+1988,Earthquake,Ground movement,India,26.755,616,1988,8,21,382,71500,NA,NA,Richter,7
+1988,Earthquake,Ground movement,Iran (Islamic Republic of),29.974,51.679,1988,8,11,1,NA,NA,NA,Richter,6
+1988,Earthquake,Ground movement,Nepal,26.755,86.616,1988,8,20,709,60000,NA,NA,Richter,7
+1979,Earthquake,Ground movement,Yugoslavia,42.096,19.209,1979,4,15,121,450000,NA,Tsunami/Tidal wave,Richter,7
+1981,Earthquake,Ground movement,Yugoslavia,44.849,17.312,1981,8,13,NA,5000,NA,NA,Richter,6
+1982,Earthquake,Ground movement,El Salvador,13.332,-89.387,1982,6,19,20,5000,NA,"Slide (land, mud, snow, rock)",Richter,7
+1982,Earthquake,Ground movement,Yemen Arab Rep,14.701,44.379,1982,12,13,1507,2000000,NA,NA,Richter,6
+1983,Earthquake,Ground movement,United States of America (the),19.43,-155.454,1983,11,16,NA,6250,NA,"Slide (land, mud, snow, rock)",Richter,6
+1983,Earthquake,Ground movement,Soviet Union,39.042,48.714,1983,4,2,NA,5000,NA,NA,Richter,5
+1983,Earthquake,Ground movement,Turkey,40.33,42.187,1983,10,30,1346,25000,NA,NA,Richter,7
+1983,Earthquake,Ground movement,United States of America (the),36.219,-120.317,1983,5,2,NA,31000,NA,NA,Richter,5
+1983,Earthquake,Ground movement,United States of America (the),43.974,-113.916,1983,10,28,2,15000,NA,NA,Richter,NA
+1983,Earthquake,Ground movement,Yugoslavia,41.959,21.54,1983,2,25,12,NA,NA,NA,Richter,5
+1985,Earthquake,Ground movement,Soviet Union,40.301,69.823,1985,10,14,29,NA,NA,NA,Richter,6
+1986,Earthquake,Ground movement,Soviet Union,26,46.5,1986,8,31,1,730000,NA,NA,Richter,6
+1986,Earthquake,Ground movement,Soviet Union,41.431,43.737,1986,5,13,2,NA,NA,NA,Richter,6
+1987,Earthquake,Ground movement,United States of America (the),34.061,-118.079,1987,10,1,8,213000,NA,NA,Richter,6
+1987,Earthquake,Ground movement,United States of America (the),33.013,115.838,1987,11,24,NA,4000,NA,NA,Richter,7
+1988,Earthquake,Ground movement,Soviet Union,40.987,44.185,1988,12,7,25000,14000000,NA,NA,Richter,7
+1989,Earthquake,Ground movement,Algeria,36.788,2.448,1989,10,29,22,NA,NA,Tsunami/Tidal wave,Richter,6
+1989,Earthquake,Ground movement,Australia,-32.967,151.619,1989,12,28,12,1000000,NA,NA,Richter,5
+1989,Earthquake,Ground movement,Bangladesh,21.861,89.763,1989,6,12,1,NA,NA,NA,Richter,5
+1989,Earthquake,Ground movement,China,29.987,99.195,1989,4,15,8,164000,NA,NA,Richter,6
+1989,Earthquake,Ground movement,China,39.893,113.884,1989,10,18,29,NA,NA,NA,Richter,5
+1989,Earthquake,Ground movement,China,23.553,99.526,1989,5,7,1,54000,NA,NA,Richter,6
+1989,Earthquake,Ground movement,China,29.882,106.804,1989,11,20,4,NA,NA,NA,Richter,5
+1990,Earthquake,Ground movement,Bulgaria,45.841,26.668,1990,5,30,1,NA,NA,NA,Richter,7
+1993,Earthquake,Ground movement,Colombia,6.47,-71.21,1993,7,22,2,NA,NA,NA,Richter,6
+1989,Earthquake,Ground movement,Indonesia,-4.511,139.022,1989,8,1,120,NA,NA,"Slide (land, mud, snow, rock)",Richter,6
+1989,Earthquake,Ground movement,Iran (Islamic Republic of),30.167,50.921,1989,5,27,100,NA,NA,NA,Richter,6
+1989,Earthquake,Ground movement,Mexico,16.773,-99.328,1989,4,25,3,NA,NA,NA,Richter,7
+1990,Earthquake,Ground movement,Iran (Islamic Republic of),36.961,49.414,1990,6,21,40000,8000000,NA,"Slide (land, mud, snow, rock)",Richter,7
+1990,Earthquake,Ground movement,Philippines (the),9.725,124.625,1990,2,8,1,900,NA,Tsunami/Tidal wave,Richter,7
+1990,Earthquake,Ground movement,Peru,-6.016,-77.229,1990,5,29,200,1000,NA,Volcanic activity,Richter,7
+1990,Earthquake,Ground movement,Indonesia,1.186,122.857,1990,4,18,5,NA,NA,NA,Richter,8
+1990,Earthquake,Ground movement,Philippines (the),11.76,121.899,1990,6,14,4,NA,NA,NA,Richter,7
+1990,Earthquake,Ground movement,Romania,45.841,26.668,1990,5,30,9,NA,NA,NA,Richter,7
+1991,Earthquake,Ground movement,Pakistan,38.993,70.423,1991,1,31,300,10000,NA,NA,Richter,6
+1988,Earthquake,Ground movement,Solomon Islands,-10.199,160.855,1988,8,10,1,NA,NA,NA,Richter,7
+1989,Earthquake,Ground movement,Soviet Union,38.465,68.694,1989,1,23,274,24800,NA,"Slide (land, mud, snow, rock)",Richter,5
+1989,Earthquake,Ground movement,United States of America (the),37.036,-121.88,1989,10,18,62,5600000,NA,NA,Richter,7
+1989,Earthquake,Ground movement,United States of America (the),19.362,-155.083,1989,6,26,5,NA,NA,NA,Richter,6
+1990,Earthquake,Ground movement,Soviet Union,45.841,26.668,1990,5,30,4,NA,NA,NA,Richter,7
+1990,Earthquake,Ground movement,Soviet Union,47.892,85.12,1990,6,14,1,NA,NA,NA,Richter,7
+1991,Earthquake,Ground movement,Soviet Union,42.15,42.44,1991,4,29,270,1700000,NA,Flood,Richter,7
+1991,Earthquake,Ground movement,Soviet Union,35.883,70.423,1991,1,31,3,NA,NA,"Slide (land, mud, snow, rock)",Richter,7
+1991,Earthquake,Ground movement,Soviet Union,37.457,68.273,1991,4,18,1,NA,NA,NA,Richter,5
+1992,Earthquake,Ground movement,United States of America (the),33.961,-116.32,1992,4,22,NA,100000,NA,NA,Richter,6
+1993,Earthquake,Ground movement,United States of America (the),42.314,-122.01,1993,9,21,2,7500,NA,NA,Richter,6
+1997,Earthquake,Ground movement,Chile,-30.933,-71.22,1997,10,14,8,48000,NA,"Slide (land, mud, snow, rock)",Richter,7
+1997,Earthquake,Ground movement,Armenia,41.101,45.14,1997,7,18,NA,33333,NA,NA,Richter,4
+1998,Earthquake,Ground movement,China,41.083,114.5,1998,1,10,49,285500,NA,Fire,Richter,6
+1998,Earthquake,Ground movement,Afghanistan,37.106,70.11,1998,5,30,4700,10000,NA,"Slide (land, mud, snow, rock)",Richter,7
+1998,Earthquake,Ground movement,Afghanistan,37.075,70.089,1998,2,4,2323,10000,NA,NA,Richter,6
+1998,Earthquake,Ground movement,Azerbaijan,38.717,48.507,1998,7,9,1,NA,NA,NA,Richter,6
+1998,Earthquake,Ground movement,Azores Islands,38.65,-28.626,1998,7,8,10,72000,NA,NA,Richter,6
+1998,Earthquake,Ground movement,Bolivia (Plurinational State of),-17.731,-65.431,1998,5,22,95,NA,NA,NA,Richter,7
+1996,Earthquake,Ground movement,Indonesia,0.729,119.931,1996,1,1,9,1200,NA,Tsunami/Tidal wave,Richter,7
+1996,Earthquake,Ground movement,Indonesia,1.1,137.15,1996,2,17,166,4200,NA,Tsunami/Tidal wave,Richter,8
+1998,Earthquake,Ground movement,Ecuador,-0.593,-80.393,1998,8,4,3,NA,NA,NA,Richter,7
+1998,Earthquake,Ground movement,Iran (Islamic Republic of),30.154,57.605,1998,3,14,5,NA,NA,NA,Richter,7
+1998,Earthquake,Ground movement,Iran (Islamic Republic of),32.457,59.976,1998,4,10,12,NA,NA,NA,Richter,6
+1994,Volcanic activity,Ash fall,Papua New Guinea,-4.271,152.203,1994,9,19,5,110000,Rabaul,NA,NA,NA
+1996,Volcanic activity,Ash fall,Papua New Guinea,-4.08,145.037,1996,12,4,4,NA,Manam,NA,NA,NA
+1998,Earthquake,Ground movement,China,27.308,101.029,1998,11,19,3,70000,NA,"Slide (land, mud, snow, rock)",Richter,6
+1998,Earthquake,Tsunami,Papua New Guinea,-2.961,141.926,1998,7,17,2182,NA,NA,NA,Richter,7
+1998,Earthquake,Ground movement,Turkey,3.878,35.307,1998,6,28,145,550000,NA,NA,Richter,6
+1998,Earthquake,Ground movement,China,26.373,104.021,1998,12,1,NA,22600,NA,NA,Richter,5
+1998,Earthquake,Ground movement,China,39.66,77.343,1998,8,27,3,NA,NA,NA,Richter,6
+1999,Earthquake,Ground movement,Afghanistan,34.259,69.364,1999,2,11,70,NA,NA,NA,Richter,6
+1999,Earthquake,Ground movement,Azerbaijan,40.802,47.448,1999,6,4,1,5000,NA,NA,Richter,5
+1999,Earthquake,Ground movement,Bangladesh,21.544,91.895,1999,7,22,6,NA,NA,NA,Richter,5
+1999,Earthquake,Ground movement,China,39.899,113.983,1999,11,1,NA,44000,NA,NA,Richter,6
+2000,Earthquake,Ground movement,Azerbaijan,40.245,49.946,2000,11,25,31,10000,NA,NA,Richter,7
+2000,Earthquake,Ground movement,China,25.607,101.063,2000,1,14,7,73500,NA,NA,Richter,6
+2000,Earthquake,Ground movement,China,24.263,103.797,2000,1,26,1,483,NA,NA,Richter,5
+2000,Earthquake,Ground movement,China,25.826,102.194,2000,8,21,1,43000,NA,NA,Richter,5
+2001,Earthquake,Ground movement,China,29.513,101.129,2001,2,23,3,24000,NA,NA,Richter,6
+1998,Earthquake,Ground movement,Iran (Islamic Republic of),27.791,53.608,1998,11,13,5,NA,NA,"Slide (land, mud, snow, rock)",Richter,5
+1998,Earthquake,Ground movement,Indonesia,-2.071,124.891,1998,11,29,33,200000,NA,Tsunami/Tidal wave,Richter,8
+1998,Earthquake,Ground movement,Indonesia,-8.194,112.413,1998,9,28,1,NA,NA,NA,Richter,6
+1999,Earthquake,Ground movement,Colombia,4.461,-75.724,1999,1,25,1186,1857366,NA,"Slide (land, mud, snow, rock)",Richter,6
+1999,Earthquake,Ground movement,Mexico,18.386,-97.436,1999,6,15,15,226800,NA,"Slide (land, mud, snow, rock)",Richter,7
+1999,Earthquake,Ground movement,Algeria,35.321,-1.281,1999,12,22,22,60929,NA,NA,Richter,6
+1999,Earthquake,Ground movement,Spain,38.193,-1.566,1999,2,2,NA,44004,NA,NA,Richter,6
+1999,Earthquake,Ground movement,Greece,38.119,23.605,1999,9,7,143,4200000,NA,NA,Richter,6
+1999,Earthquake,Ground movement,Guatemala,15.782,88.33,1999,7,11,2,NA,NA,NA,Richter,7
+1999,Earthquake,Ground movement,Indonesia,-6.845,105.555,1999,12,21,5,3900,NA,NA,Richter,7
+1999,Earthquake,Ground movement,India,30.512,79.403,1999,3,28,100,2000,NA,NA,Richter,7
+1999,Earthquake,Ground movement,Iran (Islamic Republic of),28.343,57.193,1999,3,4,1,NA,NA,NA,Richter,7
+1999,Earthquake,Ground movement,Iran (Islamic Republic of),29.501,51.88,1999,5,6,20,NA,NA,NA,Richter,7
+1999,Earthquake,Ground movement,Mexico,16.1,96.7,1999,9,30,31,164800,NA,NA,Richter,8
+2000,Earthquake,Ground movement,Indonesia,-4.646,102.102,2000,6,4,103,41000,NA,"Slide (land, mud, snow, rock)",Richter,7
+2000,Earthquake,Ground movement,Japan,35.456,133.134,2000,10,6,NA,500000,NA,"Slide (land, mud, snow, rock)",Richter,7
+2000,Earthquake,Ground movement,Indonesia,-1.105,123.573,2000,5,4,45,30000,NA,Tsunami/Tidal wave,Richter,8
+2000,Earthquake,Ground movement,Colombia,7.042,-77.829,2000,11,8,2,NA,NA,NA,Richter,7
+2000,Earthquake,Ground movement,Indonesia,-6.675,106.845,2000,7,12,NA,2000,NA,NA,Richter,5
+2000,Earthquake,Ground movement,Indonesia,-4.612,101.905,2000,6,7,1,NA,NA,NA,Richter,7
+2000,Earthquake,Ground movement,Iran (Islamic Republic of),35.288,58.218,2000,2,2,1,NA,NA,NA,Richter,5
+2000,Earthquake,Ground movement,Iceland,63.98,-20.758,2000,6,21,NA,12000,NA,NA,Richter,7
+2000,Earthquake,Ground movement,Iceland,63.966,-20.487,2000,6,17,NA,12000,NA,NA,Richter,7
+2000,Earthquake,Ground movement,Japan,34.221,139.131,2000,7,1,1,NA,NA,NA,Richter,6
+2000,Earthquake,Ground movement,Nicaragua,11.884,-85.988,2000,7,6,7,NA,NA,NA,Richter,5
+2001,Earthquake,Ground movement,Guatemala,13.049,-88.66,2001,1,13,6,50,NA,NA,Richter,8
+2001,Earthquake,Ground movement,India,23.419,70.232,2001,1,26,20005,2623000,NA,NA,Richter,8
+1998,Earthquake,Ground movement,Pakistan,36.479,71.086,1998,2,20,1,NA,NA,"Slide (land, mud, snow, rock)",Richter,6
+1999,Earthquake,Ground movement,Vanuatu,-16.423,168.214,1999,11,27,12,NA,NA,"Slide (land, mud, snow, rock)",Richter,8
+1999,Earthquake,Ground movement,Peru,-16.66,-72.662,1999,4,3,1,NA,NA,"Slide (land, mud, snow, rock)",Richter,7
+1999,Earthquake,Ground movement,Turkey,40.758,31.161,1999,11,12,845,1000000,NA,"Slide (land, mud, snow, rock)",Richter,7
+1999,Earthquake,Ground movement,Taiwan (Province of China),23.772,120.982,1999,9,21,2264,14100000,NA,"Slide (land, mud, snow, rock)",Richter,8
+1999,Earthquake,Ground movement,Peru,-13.64,-74.43,1999,10,31,NA,1100,NA,NA,Richter,4
+1999,Earthquake,Ground movement,Philippines (the),15.766,119.74,1999,12,12,6,1794,NA,NA,Richter,7
+1999,Earthquake,Ground movement,Russian Federation (the),42.962,46.954,1999,2,2,NA,900,NA,NA,Richter,3
+1999,Earthquake,Ground movement,Turkey,40.748,29.864,1999,8,17,17127,20000000,NA,NA,Richter,8
+1999,Earthquake,Ground movement,Turkey,40.709,30.045,1999,9,13,6,NA,NA,NA,Richter,6
+1999,Earthquake,Ground movement,Turkey,40.711,29.949,1999,8,31,1,NA,NA,NA,Richter,5
+1999,Earthquake,Ground movement,Taiwan (Province of China),23.445,120.506,1999,10,22,1,800,NA,NA,Richter,6
+2000,Earthquake,Ground movement,Russian Federation (the),48.786,142.246,2000,8,4,NA,920,NA,"Slide (land, mud, snow, rock)",Richter,7
+2000,Earthquake,Ground movement,Papua New Guinea,-3.98,152.169,2000,11,16,2,NA,NA,Tsunami/Tidal wave,Richter,8
+2000,Volcanic activity,Ash fall,Philippines (the),13.257,123.685,2000,2,24,NA,2214,Mt. Mayon,NA,NA,NA
+2000,Earthquake,Ground movement,Turkmenistan,39.566,54.799,2000,12,6,11,NA,NA,NA,Richter,7
+2000,Earthquake,Ground movement,Turkey,38.164,38.777,2000,5,7,1,NA,NA,NA,Richter,5
+2000,Earthquake,Ground movement,Turkey,40.693,32.992,2000,6,6,2,NA,NA,NA,Richter,6
+2000,Earthquake,Ground movement,"Tanzania, United Republic of",-7.977,30.709,2000,10,2,1,NA,NA,NA,Richter,7
+2000,Earthquake,Ground movement,United States of America (the),38.3788333,-122.4133333,2000,9,3,NA,50000,NA,NA,Richter,5
+2001,Earthquake,Ground movement,El Salvador,13.049,-88.66,2001,1,13,844,1500000,NA,"Slide (land, mud, snow, rock)",Richter,8
+2001,Earthquake,Ground movement,El Salvador,13.671,-88.938,2001,2,13,315,348500,NA,"Slide (land, mud, snow, rock)",Richter,7
+2001,Earthquake,Ground movement,Pakistan,23.419,70.232,2001,1,26,12,500,NA,NA,Richter,8
+2001,Earthquake,Ground movement,Afghanistan,35.169,69.389,2001,6,1,4,NA,NA,NA,Richter,5
+2002,Earthquake,Ground movement,Afghanistan,36.429,70.438,2002,3,3,150,NA,NA,"Slide (land, mud, snow, rock)",Richter,6
+2002,Earthquake,Ground movement,Afghanistan,36.062,69.315,2002,3,25,1000,NA,NA,"Slide (land, mud, snow, rock)",Richter,6
+2002,Earthquake,Ground movement,Afghanistan,35.959,69.417,2002,4,12,50,NA,NA,"Slide (land, mud, snow, rock)",Richter,6
+2001,Earthquake,Ground movement,China,24.768,99.061,2001,4,12,2,31000,NA,"Slide (land, mud, snow, rock)",Richter,6
+2001,Flood,Flash flood,Cameroon,4.022,9.2,2001,6,28,30,NA,NA,"Slide (land, mud, snow, rock)",Km2,1080
+2001,Earthquake,Ground movement,China,27.689,101.003,2001,5,23,2,36000,NA,NA,Richter,6
+2001,Earthquake,Ground movement,China,26.316,100.648,2001,10,27,1,NA,NA,NA,Richter,6
+2001,Volcanic activity,Ash fall,Ecuador,-1.467,-78.442,2001,8,14,NA,10975,Tungurahua,NA,NA,NA
+2001,Volcanic activity,Ash fall,Italy,37.734,15.004,2001,7,18,NA,3100,Mt. Etna,NA,NA,NA
+2001,Earthquake,Ground movement,Japan,34.083,132.526,2001,3,24,2,500000,NA,NA,Richter,7
+2002,Earthquake,Tsunami,Indonesia,-1.757,134.297,2002,10,10,8,NA,NA,"Slide (land, mud, snow, rock)",Richter,8
+2002,Earthquake,Ground movement,Georgia,41.765,44.96,2002,4,25,6,350000,NA,"Slide (land, mud, snow, rock)",Richter,5
+2002,Earthquake,Ground movement,Italy,41.789,14.872,2002,10,31,30,796000,NA,"Slide (land, mud, snow, rock)",Richter,6
+2002,Earthquake,Ground movement,India,13.036,93.068,2002,9,13,2,NA,NA,Tsunami/Tidal wave,Richter,7
+2002,Earthquake,Ground movement,China,39.736,97.443,2002,12,14,2,NA,NA,NA,Richter,6
+2002,Earthquake,Ground movement,Indonesia,2.824,96.085,2002,11,2,3,NA,NA,NA,Richter,7
+2002,Earthquake,Ground movement,Iran (Islamic Republic of),28.093,51.755,2002,2,17,1,NA,NA,NA,Richter,5
+2002,Earthquake,Ground movement,Iran (Islamic Republic of),34.642,47.4,2002,4,24,2,NA,NA,NA,Richter,5
+2002,Earthquake,Ground movement,Iran (Islamic Republic of),35.626,49.047,2002,6,22,227,300000,NA,NA,Richter,7
+2002,Earthquake,Ground movement,Italy,38.381,13.701,2002,9,6,2,500000,NA,NA,Richter,6
+2003,Earthquake,Ground movement,Mexico,18.77,-104.104,2003,1,22,29,116300,NA,"Slide (land, mud, snow, rock)",Richter,8
+2003,Earthquake,Ground movement,China,39.61,77.23,2003,2,24,268,157000,NA,NA,Richter,6
+2001,Earthquake,Tsunami,Peru,-16.265,-73.641,2001,6,23,145,300000,NA,Tsunami/Tidal wave,Richter,8
+2001,Earthquake,Ground movement,Peru,-15.35,-72.516,2001,12,4,2,NA,NA,NA,Richter,6
+2001,Earthquake,Ground movement,Peru,-14.258,-72.683,2001,8,9,4,NA,NA,NA,Richter,6
+2001,Volcanic activity,Ash fall,Philippines (the),13.257,123.685,2001,5,24,NA,792,Mt. Mayon,NA,NA,NA
+2001,Earthquake,Ground movement,United States of America (the),47.149,-122.7266667,2001,2,28,1,2000000,NA,NA,Richter,7
+2002,Earthquake,Ground movement,Taiwan (Province of China),24.279,122.179,2002,3,31,4,25000,NA,Tsunami/Tidal wave,Richter,7
+2002,Volcanic activity,Ash fall,Congo (the Democratic Republic of the),-1.52,29.25,2002,1,17,200,9000,Mt. Nyiragongo,Earthquake,NA,NA
+2002,Earthquake,Ground movement,Pakistan,35.517,74.654,2002,11,2,17,NA,NA,"Slide (land, mud, snow, rock)",Richter,5
+2002,Earthquake,Ground movement,Pakistan,35.414,74.515,2002,11,20,19,NA,NA,"Slide (land, mud, snow, rock)",Richter,6
+2002,Earthquake,Ground movement,Philippines (the),6.033,124.249,2002,3,5,15,1714,NA,Tsunami/Tidal wave,Richter,8
+2002,Earthquake,Ground movement,Papua New Guinea,-3.302,142.945,2002,9,8,4,NA,NA,Tsunami/Tidal wave,Richter,8
+2002,Earthquake,Ground movement,Pakistan,36.429,70.438,2002,3,3,3,NA,NA,NA,Richter,6
+2002,Earthquake,Ground movement,Papua New Guinea,-3.212,142.427,2002,1,10,1,NA,NA,NA,Richter,7
+2002,Earthquake,Ground movement,Rwanda,-1.684,29.077,2002,1,17,45,NA,NA,NA,Richter,5
+2002,Earthquake,Ground movement,Serbia Montenegro,42.436,21.466,2002,4,24,1,NA,NA,NA,Richter,6
+2002,Earthquake,Ground movement,Tajikistan,38.673,69.902,2002,1,9,3,NA,NA,NA,Richter,5
+2002,Earthquake,Ground movement,Turkey,38.573,31.271,2002,2,3,42,95000,NA,NA,Richter,7
+2002,Earthquake,Ground movement,"Tanzania, United Republic of",-2.907,33.733,2002,5,18,2,NA,NA,NA,Richter,6
+2003,Earthquake,Ground movement,Afghanistan,35.893,70.62,2003,4,10,1,NA,NA,"Slide (land, mud, snow, rock)",Richter,5
+2003,Earthquake,Ground movement,Turkey,39.5,39.878,2003,1,27,1,NA,NA,NA,Richter,6
+2004,Earthquake,Ground movement,Afghanistan,33.426,69.524,2004,7,18,2,NA,NA,NA,Richter,5
+2004,Earthquake,Ground movement,Burundi,-3.393,29.558,2004,2,24,3,NA,NA,NA,Richter,5
+2003,Earthquake,Ground movement,Japan,38.849,141.568,2003,5,26,NA,233000,NA,Fire,Richter,7
+2003,Earthquake,Ground movement,Japan,41.774,143.593,2003,9,25,2,563000,NA,Fire,Richter,7
+2003,Earthquake,Ground movement,Bangladesh,22.854,92.306,2003,7,26,2,NA,NA,"Slide (land, mud, snow, rock)",Richter,6
+2003,Earthquake,Ground movement,China,25.975,101.29,2003,7,21,16,75000,NA,"Slide (land, mud, snow, rock)",Richter,6
+2003,Earthquake,Ground movement,Dominican Republic (the),19.777,-70.673,2003,9,22,3,NA,NA,"Slide (land, mud, snow, rock)",Richter,6
+2003,Earthquake,Ground movement,Italy,44.792,8.892,2003,4,11,NA,561352,NA,"Slide (land, mud, snow, rock)",Richter,5
+2003,Earthquake,Ground movement,Japan,38.432,141.003,2003,7,25,NA,411000,NA,"Slide (land, mud, snow, rock)",Richter,6
+2003,Earthquake,Ground movement,Algeria,36.964,3.634,2003,5,21,2266,5000000,NA,Tsunami/Tidal wave,Richter,7
+2003,Earthquake,Ground movement,China,39.43,77.219,2003,5,4,1,NA,NA,NA,Richter,6
+2003,Earthquake,Ground movement,China,43.77,119.643,2003,8,16,4,167000,NA,NA,Richter,5
+2003,Earthquake,Ground movement,China,25.954,101.254,2003,10,16,3,60000,NA,NA,Richter,6
+2003,Earthquake,Ground movement,China,38.383,100.975,2003,10,25,9,40000,NA,NA,Richter,6
+2003,Earthquake,Ground movement,China,34.712,103.834,2003,11,13,1,NA,NA,NA,Richter,5
+2003,Earthquake,Ground movement,China,27.372,103.971,2003,11,14,4,NA,NA,NA,Richter,6
+2003,Earthquake,Ground movement,China,42.905,80.515,2003,12,1,11,1933,NA,NA,Richter,6
+2003,Earthquake,Ground movement,Costa Rica,8.416,-82.824,2003,12,25,2,NA,NA,NA,Richter,7
+2003,Earthquake,Ground movement,Algeria,36.939,3.578,2003,5,27,9,NA,NA,NA,Richter,6
+2003,Earthquake,Ground movement,Indonesia,2.354,128.855,2003,5,27,1,NA,NA,NA,Richter,7
+2003,Earthquake,Ground movement,Iran (Islamic Republic of),28.355,54.169,2003,7,10,1,21666,NA,NA,Richter,6
+2003,Earthquake,Ground movement,Iran (Islamic Republic of),28.995,58.311,2003,12,26,26796,500000,NA,NA,Richter,7
+2003,Earthquake,Ground movement,Kazakhstan,42.946,72.764,2003,5,23,3,NA,NA,NA,Richter,6
+2004,Earthquake,Ground movement,Japan,37.226,138.779,2004,10,23,40,28000000,NA,Fire,Richter,7
+2004,Earthquake,Ground movement,Indonesia,-3.615,135.538,2004,2,5,37,1000,NA,Fire,Richter,7
+2004,Earthquake,Ground movement,Indonesia,-3.609,135.404,2004,11,26,32,55000,NA,Fire,Richter,7
+2004,Earthquake,Ground movement,Costa Rica,9.602,-84.172,2004,11,20,8,NA,NA,"Slide (land, mud, snow, rock)",Richter,6
+2004,Earthquake,Ground movement,Indonesia,-8.152,124.868,2004,11,11,33,NA,NA,"Slide (land, mud, snow, rock)",Richter,8
+2004,Earthquake,Ground movement,Iran (Islamic Republic of),36.29,51.61,2004,5,28,35,165000,NA,"Slide (land, mud, snow, rock)",Richter,6
+2004,Earthquake,Tsunami,Indonesia,3.295,95.982,2004,12,26,165708,4451600,NA,Tsunami/Tidal wave,Richter,9
+2004,Earthquake,Tsunami,Kenya,3.295,95.982,2004,12,26,1,100000,NA,Tsunami/Tidal wave,Richter,9
+2004,Earthquake,Tsunami,Bangladesh,3.295,95.982,2004,12,26,2,500000,NA,NA,Richter,9
+2004,Earthquake,Ground movement,China,45.382,118.256,2004,3,24,NA,74000,NA,NA,Richter,6
+2004,Earthquake,Ground movement,China,27.266,103.873,2004,8,10,4,50000,NA,NA,Richter,5
+2004,Earthquake,Ground movement,Colombia,2.265,-76.595,2004,8,18,1,NA,NA,NA,Richter,5
+2004,Earthquake,Ground movement,Germany,48.115,8.077,2004,12,5,NA,12000,NA,NA,Richter,5
+2004,Earthquake,Ground movement,Guadeloupe,15.679,-61.706,2004,11,21,1,NA,NA,NA,Richter,6
+2004,Earthquake,Ground movement,Indonesia,-8.31,115.788,2004,1,1,1,12000,NA,NA,Richter,6
+2004,Earthquake,Ground movement,Indonesia,-0.466,100.655,2004,2,16,5,NA,NA,NA,Richter,5
+2004,Earthquake,Tsunami,India,3.295,95.982,2004,12,26,16389,1022800,NA,NA,Richter,9
+2004,Earthquake,Tsunami,Sri Lanka,3.295,95.982,2004,12,26,35399,1316500,NA,NA,Richter,9
+2005,Earthquake,Ground movement,Japan,33.807,130.131,2005,3,20,1,400000,NA,"Slide (land, mud, snow, rock)",Richter,7
+2005,Earthquake,Ground movement,Indonesia,2.085,97.108,2005,3,28,915,NA,NA,Tsunami/Tidal wave,Richter,9
+2005,Earthquake,Ground movement,Indonesia,-1.198,119.933,2005,1,23,1,NA,NA,NA,Richter,6
+2005,Earthquake,Ground movement,Iran (Islamic Republic of),30.754,56.816,2005,2,22,612,80000,NA,NA,Richter,6
+2003,Earthquake,Ground movement,Russian Federation (the),50.038,87.813,2003,9,27,3,10600,NA,"Slide (land, mud, snow, rock)",Richter,7
+2003,Earthquake,Ground movement,Panama,8.416,-82.824,2003,12,25,2,NA,NA,NA,Richter,7
+2003,Earthquake,Ground movement,Turkey,39.007,40.464,2003,5,1,177,135000,NA,NA,Richter,6
+2003,Earthquake,Ground movement,United States of America (the),35.7005,-121.1005,2003,12,22,2,200000,NA,NA,Richter,7
+2004,Earthquake,Ground movement,Pakistan,34.774,73.216,2004,2,14,24,NA,NA,"Slide (land, mud, snow, rock)",Richter,6
+2004,Earthquake,Ground movement,Slovenia,46.296,13.641,2004,7,12,1,10000,NA,"Slide (land, mud, snow, rock)",Richter,5
+2004,Earthquake,Tsunami,Maldives,3.295,95.982,2004,12,26,102,470100,NA,Tsunami/Tidal wave,Richter,9
+2004,Earthquake,Tsunami,Malaysia,3.295,95.982,2004,12,26,80,500000,NA,Tsunami/Tidal wave,Richter,9
+2004,Earthquake,Tsunami,Thailand,3.295,95.982,2004,12,26,8345,1000000,NA,Tsunami/Tidal wave,Richter,9
+2004,Earthquake,Ground movement,Morocco,35.142,-3.997,2004,2,24,628,400000,NA,NA,Richter,6
+2004,Earthquake,Tsunami,Myanmar,3.295,95.982,2004,12,26,71,500000,NA,NA,Richter,9
+2004,Earthquake,Tsunami,Somalia,3.295,95.982,2004,12,26,298,100000,NA,NA,Richter,9
+2004,Earthquake,Tsunami,Seychelles,3.295,95.982,2004,12,26,3,30000,NA,NA,Richter,9
+2004,Earthquake,Ground movement,Turkey,39.93,40.812,2004,3,25,9,NA,NA,NA,Richter,6
+2004,Earthquake,Ground movement,Turkey,39.766,43.979,2004,7,1,18,NA,NA,NA,Richter,5
+2004,Earthquake,Tsunami,"Tanzania, United Republic of",3.295,95.982,2004,12,26,10,NA,NA,NA,Richter,9
+2005,Earthquake,Ground movement,Turkey,37.622,43.703,2005,1,25,2,NA,NA,NA,Richter,6
+2005,Earthquake,Ground movement,South Africa,-26.913,26.789,2005,3,9,2,20000,NA,NA,Richter,5
+2005,Earthquake,Ground movement,Afghanistan,34.539,73.588,2005,10,8,1,50,NA,NA,Richter,8
+2005,Earthquake,Ground movement,Afghanistan,36.357,71.093,2005,12,13,5,NA,NA,NA,Richter,7
+2006,Earthquake,Ground movement,Afghanistan,37.255,68.828,2006,7,29,1,NA,NA,NA,Richter,6
+2006,Flood,Flash flood,Afghanistan,35.67,66.83,2006,4,28,19,NA,NA,NA,Km2,58310
+2006,Flood,Flash flood,Afghanistan,35.62,63.54,2006,11,16,166,NA,NA,NA,Km2,5000
+2006,Flood,Riverine flood,Afghanistan,34.52,65.56,2006,5,19,21,NA,NA,NA,Km2,21480
+2005,Earthquake,Ground movement,India,34.539,73.588,2005,10,8,1309,1000000,NA,Fire,Richter,8
+2005,Earthquake,Ground movement,Chile,-19.987,-69.197,2005,6,13,11,5000,NA,"Slide (land, mud, snow, rock)",Richter,8
+2005,Earthquake,Ground movement,China,29.671,115.688,2005,11,26,16,NA,NA,NA,Richter,5
+2005,Earthquake,Ground movement,Iran (Islamic Republic of),26.774,55.858,2005,11,27,13,NA,NA,NA,Richter,6
+2006,Flood,Riverine flood,China,34.04,117.03,2006,6,28,30,679000,NA,Broken Dam/Burst bank,Km2,22760
+2006,Storm,Tropical cyclone,China,25.97,118.77,2006,5,18,23,475000,Chanchu (Caloy),Flood,Kph,NA
+2006,Storm,Tropical cyclone,China,26.39,117.28,2006,7,24,109,367000,Kaemi,Flood,Kph,NA
+2006,Flood,Riverine flood,Chile,-72.64,-37.26,2006,7,11,18,NA,NA,"Slide (land, mud, snow, rock)",Km2,5030
+2006,Flood,Riverine flood,Colombia,5.43,-75.6,2006,1,1,150,NA,NA,"Slide (land, mud, snow, rock)",Km2,NA
+2006,Flood,Riverine flood,Greece,40.76,23.65,2006,10,8,1,5659,NA,"Slide (land, mud, snow, rock)",Km2,17970
+2006,Storm,Tropical cyclone,China,24,112.11,2006,7,16,820,3325000,Bilis,"Slide (land, mud, snow, rock)",Kph,NA
+2006,Flood,Riverine flood,Bolivia (Plurinational State of),-16.03,-63.43,2006,1,25,25,35000,NA,"Slide (land, mud, snow, rock)",Km2,955800
+2006,Earthquake,Ground movement,China,28.012,104.151,2006,8,25,1,NA,NA,"Slide (land, mud, snow, rock)",Richter,5
+2006,Flood,Riverine flood,China,23.42,111.38,2006,6,8,21,NA,NA,"Slide (land, mud, snow, rock)",Km2,4210
+2006,Flood,Riverine flood,China,27.06,111.06,2006,6,25,29,NA,NA,"Slide (land, mud, snow, rock)",Km2,34990
+2006,Flood,Riverine flood,China,43.32,83.77,2006,7,2,20,NA,NA,"Slide (land, mud, snow, rock)",Km2,138200
+2006,Flood,Riverine flood,China,23.34,102.64,2006,10,6,27,NA,NA,"Slide (land, mud, snow, rock)",Km2,24770
+2006,Storm,Tropical cyclone,China,21.11,110.11,2006,8,3,89,900000,Prapiroon,"Slide (land, mud, snow, rock)",Kph,NA
+2006,Flood,Riverine flood,Congo (the),-4.24,15.43,2006,11,4,6,NA,NA,"Slide (land, mud, snow, rock)",Km2,1300
+2006,Flood,Riverine flood,Ecuador,-2.23,-79.98,2006,2,16,16,2800,NA,"Slide (land, mud, snow, rock)",Km2,30150
+2006,Flood,Riverine flood,Fiji,-16.45,179.65,2006,2,4,4,500,NA,"Slide (land, mud, snow, rock)",Km2,2370
+2006,Earthquake,Ground movement,Indonesia,0.626,99.859,2006,12,17,8,NA,NA,"Slide (land, mud, snow, rock)",Richter,6
+2006,Flood,Flash flood,Indonesia,1.07,124.66,2006,2,13,39,25000,NA,"Slide (land, mud, snow, rock)",Km2,33830
+2006,Flood,Flash flood,Indonesia,-5.17,120.11,2006,6,19,236,55200,NA,"Slide (land, mud, snow, rock)",Km2,3100
+2006,Flood,Flash flood,Indonesia,-3.29,115.49,2006,6,25,52,NA,NA,"Slide (land, mud, snow, rock)",Km2,23710
+2006,Flood,Riverine flood,Indonesia,-6.85,108.59,2006,1,26,19,27100,NA,"Slide (land, mud, snow, rock)",Km2,73070
+2006,Flood,Riverine flood,Indonesia,-7.84,111.86,2006,4,19,22,NA,NA,"Slide (land, mud, snow, rock)",Km2,19040
+2006,Flood,Flash flood,India,32.89,73.88,2006,8,31,19,NA,NA,"Slide (land, mud, snow, rock)",Km2,NA
+2006,Flood,Riverine flood,India,19.17,83.65,2006,7,3,33,NA,NA,"Slide (land, mud, snow, rock)",Km2,31360
+2006,Flood,Riverine flood,India,20.19,73.82,2006,7,28,350,3390000,NA,"Slide (land, mud, snow, rock)",Km2,165400
+2006,Earthquake,Tsunami,Indonesia,-3.595,127.214,2006,3,14,3,NA,NA,Tsunami/Tidal wave,Richter,7
+2006,Flood,Riverine flood,China,26.75,118.57,2006,5,30,57,393000,NA,Broken Dam/Burst bank,Km2,76600
+2006,Flood,Riverine flood,Czech Republic (the),49.86,16.09,2006,3,28,6,NA,NA,Broken Dam/Burst bank,Km2,NA
+2006,Flood,Flash flood,China,25.51,106.51,2006,6,12,50,141000,NA,Rain,Km2,11680
+2006,Storm,Tropical cyclone,Australia,-23.26,116.94,2006,1,9,NA,2354,Clare,Flood,Kph,NA
+2006,Storm,Tropical cyclone,Australia,-17.91,145.54,2006,3,20,NA,1180000,Larry,Flood,Kph,290
+2006,Storm,Tropical cyclone,Bangladesh,19.73,83.75,2006,9,18,115,NA,NA,Flood,Kph,NA
+2006,Storm,Tropical cyclone,India,19.73,83.75,2006,9,18,114,NA,NA,Flood,Kph,NA
+2006,Flood,Riverine flood,Afghanistan,33.06,69.95,2006,7,9,10,NA,NA,NA,Km2,NA
+2006,Flood,Riverine flood,Afghanistan,34.08,69.75,2006,7,30,54,NA,NA,NA,Km2,3116
+2006,Flood,Riverine flood,Burundi,-3.86,29.67,2006,5,17,1,NA,NA,NA,Km2,2700
+2006,Flood,Flash flood,Brazil,-22.56,-43.36,2006,1,27,12,NA,NA,NA,Km2,9335
+2006,Flood,Riverine flood,Brazil,2.81,-52.29,2006,3,25,8,NA,NA,NA,Km2,1164000
+2006,Flood,Riverine flood,Canada,50.13,-99.99,2006,5,20,1,NA,NA,NA,Km2,NA
+2006,Earthquake,Ground movement,China,23.282,101.693,2006,1,12,NA,6900,NA,NA,Richter,5
+2006,Earthquake,Ground movement,China,27.995,104.138,2006,7,22,22,NA,NA,NA,Richter,5
+2006,Earthquake,Ground movement,China,43.469,119.558,2006,11,3,NA,291,NA,NA,Richter,5
+2006,Flood,Flash flood,China,24.66,102.18,2006,7,20,35,NA,NA,NA,Km2,1666
+2006,Flood,Flash flood,China,34.7,102.68,2006,8,30,15,NA,NA,NA,Km2,16920
+2006,Flood,Riverine flood,China,26.92,106.58,2006,4,21,22,36000,NA,NA,Km2,175200
+2006,Flood,Riverine flood,China,30.92,112.9,2006,5,24,3,NA,NA,NA,Km2,107400
+2006,Flood,Riverine flood,China,26.2,112.75,2006,6,13,2,NA,NA,NA,Km2,58070
+2006,Flood,Riverine flood,China,24.73,116.87,2006,6,17,23,NA,NA,NA,Km2,36280
+2006,Flood,Riverine flood,China,26.01,108.45,2006,6,25,6,6500,NA,NA,Km2,11360
+2006,Flood,Riverine flood,China,22.35,109.4,2006,7,7,10,31000,NA,NA,Km2,20120
+2006,Flood,Riverine flood,China,39.04,106.59,2006,7,14,1,NA,NA,NA,Km2,1726
+2006,Earthquake,Ground movement,Algeria,36.623,5.328,2006,3,20,4,NA,NA,NA,Richter,5
+2006,Flood,Riverine flood,Algeria,27.67,-5.91,2006,2,10,1,1200,NA,NA,Km2,180500
+2006,Volcanic activity,Ash fall,Ecuador,-1.467,-78.442,2006,7,14,5,150000,Tungurahua,NA,NA,NA
+2006,Flood,Flash flood,Ethiopia,9.67,42.19,2006,8,5,498,3200,NA,NA,Km2,4225
+2006,Flood,Riverine flood,Ethiopia,5.24,36.22,2006,8,13,364,NA,NA,NA,Km2,13560
+2006,Flood,Riverine flood,Ethiopia,13.21,34.76,2006,8,13,2,NA,NA,NA,Km2,NA
+2006,Flood,Riverine flood,Ethiopia,4.62,44.6,2006,10,27,80,NA,NA,NA,Km2,NA
+2006,Flood,Riverine flood,Guyana,6.89,-58.66,2006,1,8,NA,169000,NA,NA,Km2,24224
+2006,Flood,Flash flood,Haiti,18.5,-73.48,2006,11,28,11,NA,NA,NA,Km2,6300
+2006,Earthquake,Ground movement,Indonesia,-7.961,110.446,2006,5,26,5778,3100000,NA,NA,Richter,6
+2006,Earthquake,Ground movement,Indonesia,-8.261,118.753,2006,12,1,1,NA,NA,NA,Richter,6
+2006,Earthquake,Tsunami,Indonesia,-9.284,107.419,2006,7,17,802,55000,NA,NA,Richter,8
+2006,Landslide,Landslide,Indonesia,-8.02,113.34,2006,1,1,156,27000,NA,NA,NA,NA
+2006,Landslide,Landslide,Indonesia,-8.44,117.29,2006,1,22,11,10943,NA,NA,NA,NA
+2006,Flood,Flash flood,India,17.43,82.81,2006,4,15,20,NA,NA,NA,Km2,190900
+2006,Flood,Riverine flood,India,26.6,94.02,2006,5,31,21,NA,NA,NA,Km2,47020
+2006,Flood,Riverine flood,India,10.54,76.05,2006,5,25,32,NA,NA,NA,Km2,42690
+2006,Flood,Riverine flood,India,18.73,75.23,2006,5,31,41,NA,NA,NA,Km2,395400
+2006,Flood,Riverine flood,India,25.62,83.67,2006,6,24,130,NA,NA,NA,Km2,13110
+2006,Flood,Riverine flood,India,22.41,71.31,2006,7,4,24,NA,NA,NA,Km2,170100
+2006,Flood,Riverine flood,India,34.61,73.2,2006,7,24,15,NA,NA,NA,Km2,NA
+2006,Flood,Riverine flood,India,27.59,81.52,2006,8,29,42,NA,NA,NA,Km2,32700
+2006,Flood,Riverine flood,India,14.13,79.93,2006,10,26,47,NA,NA,NA,Km2,40090
+2006,Flood,Riverine flood,India,18.1,81.53,2006,8,1,185,NA,NA,NA,Km2,302800
+2006,Earthquake,Ground movement,Iran (Islamic Republic of),33.5,48.78,2006,3,31,63,42262,NA,NA,Richter,6
+2006,Flood,Riverine flood,Iran (Islamic Republic of),38.69,47.88,2006,5,8,14,16000,NA,NA,Km2,18310
+2006,Flood,Flash flood,Iraq,36.23,44.81,2006,11,5,20,NA,NA,NA,Km2,19960
+2006,Flood,Riverine flood,Iraq,34.21,45.49,2006,2,4,NA,1300,NA,NA,Km2,77640
+2007,Flood,Riverine flood,Haiti,19.41,-71.78,2007,3,26,14,NA,NA,"Slide (land, mud, snow, rock)",Km2,NA
+2007,Flood,Riverine flood,Afghanistan,33.25,64.89,2007,3,18,104,NA,NA,"Slide (land, mud, snow, rock)",Km2,304100
+2007,Flood,Riverine flood,Bolivia (Plurinational State of),-16.97,-61.96,2007,1,10,40,90000,NA,"Slide (land, mud, snow, rock)",Km2,801000
+2007,Flood,Flash flood,Brazil,-22.42,-44,2007,1,1,59,125000,NA,"Slide (land, mud, snow, rock)",Km2,210600
+2007,Flood,Riverine flood,Dominican Republic (the),19.41,-71.78,2007,3,26,3,NA,NA,"Slide (land, mud, snow, rock)",Km2,NA
+2007,Flood,Flash flood,Indonesia,-8.57,120.76,2007,3,1,74,NA,NA,"Slide (land, mud, snow, rock)",Km2,3220
+2007,Landslide,Landslide,Indonesia,3.56,125.54,2007,1,12,32,NA,NA,Flood,NA,NA
+2007,Flood,Riverine flood,Angola,-8.87,13.36,2007,1,17,105,NA,NA,NA,Km2,1600
+2007,Flood,Riverine flood,Argentina,-31.99,-59.12,2007,3,20,5,10000,NA,NA,Km2,4000
+2007,Flood,Riverine flood,Burundi,-3.14,30.4,2007,1,1,4,NA,NA,NA,Km2,NA
+2007,Flood,Flash flood,Algeria,35.64,4.2,2007,4,13,22,13561,NA,NA,Km2,7100
+2007,Flood,Riverine flood,Spain,41.65,-0.65,2007,4,3,1,NA,NA,NA,Km2,42040
+2007,Flood,Riverine flood,Fiji,-17.77,177.48,2007,2,3,1,30000,NA,NA,Km2,1690
+2007,Earthquake,Ground movement,Indonesia,-0.488,100.53,2007,3,6,67,200000,NA,NA,Richter,6
+2007,Flood,Riverine flood,Indonesia,-6.22,106.83,2007,1,31,68,971000,NA,NA,Km2,1800
+2005,Earthquake,Ground movement,El Salvador,13.835,-89.759,2005,5,5,1,NA,NA,"Slide (land, mud, snow, rock)",Richter,5
+2005,Earthquake,Ground movement,Pakistan,34.539,73.588,2005,10,8,73338,5200000,NA,NA,Richter,8
+2005,Earthquake,Ground movement,Peru,-19.987,-69.197,2005,6,13,NA,50,NA,NA,Richter,8
+2005,Earthquake,Ground movement,Peru,-5.678,-76.398,2005,9,26,5,NA,NA,NA,Richter,8
+2005,Earthquake,Ground movement,Papua New Guinea,-6.319,146.846,2005,6,4,1,NA,NA,NA,Richter,6
+2005,Volcanic activity,Ash fall,El Salvador,13.852846,-89.63,2005,10,1,2,NA,Santa Ana (Ilamatepec),NA,NA,NA
+2005,Earthquake,Ground movement,"Tanzania, United Republic of",-6.224,29.83,2005,12,5,2,NA,NA,NA,Richter,7
+2005,Earthquake,Ground movement,Congo (the Democratic Republic of the),-6.224,29.83,2005,12,5,6,NA,NA,NA,Richter,7
+2006,Flood,Riverine flood,United States of America (the),37.69,-99.99,2006,4,4,1,259000,NA,Broken Dam/Burst bank,Km2,44110
+2006,Flood,Riverine flood,United States of America (the),22.15,-99.99,2006,3,14,7,12000,NA,Broken Dam/Burst bank,Km2,585
+2006,Storm,Tropical cyclone,Mexico,25.35,-111.81,2006,9,2,7,NA,John,Flood,Kph,215
+2006,Storm,Tropical cyclone,Mexico,24.47,-107.04,2006,9,16,4,2700,Lane,Flood,Kph,250
+2006,Storm,Tropical cyclone,Philippines (the),24,112.11,2006,7,11,37,3000,Bilis,Flood,Kph,120
+2006,Storm,Tropical cyclone,Philippines (the),16.68,107.21,2006,9,27,228,113000,Xangsane (Milenyo),Flood,Kph,160
+2006,Storm,Tropical cyclone,Philippines (the),17.02,121.82,2006,10,30,34,9077,Cimaron (Paeng),Flood,Kph,230
+2006,Storm,Tropical cyclone,Viet Nam,24,112.11,2006,7,11,17,NA,Bilis,Flood,Kph,NA
+2006,Earthquake,Ground movement,United States of America (the),19.878,-155.935,2006,10,15,NA,150000,NA,"Slide (land, mud, snow, rock)",Richter,7
+2006,Flood,Riverine flood,Panama,8.9,-78.71,2006,11,21,11,NA,NA,"Slide (land, mud, snow, rock)",Km2,17730
+2006,Storm,Tropical cyclone,Philippines (the),10.33,106.74,2006,11,30,1399,66400,Durian (Reming),"Slide (land, mud, snow, rock)",Kph,195
+2006,Flood,Riverine flood,Japan,35.34,136.22,2006,6,19,34,NA,NA,"Slide (land, mud, snow, rock)",Km2,47890
+2006,Flood,Riverine flood,Japan,31.54,130.99,2006,7,22,8,NA,NA,"Slide (land, mud, snow, rock)",Km2,6130
+2006,Flood,Flash flood,Korea (the Republic of),37.56,127.17,2006,7,12,46,NA,NA,"Slide (land, mud, snow, rock)",Km2,9610
+2006,Flood,Riverine flood,Sri Lanka,7.32,80.03,2006,10,26,25,3000,NA,"Slide (land, mud, snow, rock)",Km2,6890
+2006,Flood,Flash flood,Malaysia,1.87,103.22,2006,12,19,6,22000,NA,"Slide (land, mud, snow, rock)",Km2,18300
+2006,Flood,Riverine flood,Pakistan,34.61,73.2,2006,7,24,40,NA,NA,"Slide (land, mud, snow, rock)",Km2,42570
+2006,Flood,Riverine flood,Philippines (the),12.44,124.77,2006,12,27,NA,3395,NA,"Slide (land, mud, snow, rock)",Km2,1410
+2006,Landslide,Mudslide,Papua New Guinea,-6.16,143.7,2006,4,27,1,NA,NA,"Slide (land, mud, snow, rock)",NA,4700
+2006,Flood,Flash flood,Korea (the Democratic People's Republic of),37.56,127.17,2006,7,12,278,NA,NA,"Slide (land, mud, snow, rock)",Km2,55620
+2006,Flood,Flash flood,Romania,47.15,47.46,2006,6,20,14,NA,NA,"Slide (land, mud, snow, rock)",Km2,5540
+2006,Flood,Flash flood,Thailand,18.18,100.15,2006,5,22,116,25000,NA,"Slide (land, mud, snow, rock)",Km2,78280
+2006,Flood,Riverine flood,Thailand,18.76,100.02,2006,8,20,164,9940,NA,"Slide (land, mud, snow, rock)",Km2,175800
+2006,Flood,Riverine flood,United States of America (the),40.41,-75.78,2006,6,25,11,1000000,NA,"Slide (land, mud, snow, rock)",Km2,122600
+2006,Flood,Riverine flood,Viet Nam,17.76,106.15,2006,8,12,42,8000,NA,"Slide (land, mud, snow, rock)",Km2,119500
+2006,Flood,Riverine flood,Namibia,-24.53,17.98,2006,2,24,5,8490,NA,Broken Dam/Burst bank,Km2,16110
+2006,Flood,Riverine flood,Philippines (the),7.61,125.83,2006,10,21,2,763,NA,Broken Dam/Burst bank,Km2,3680
+2006,Flood,Riverine flood,Russian Federation (the),58.33,114.58,2006,6,4,NA,125000,NA,Broken Dam/Burst bank,Km2,274800
+2006,Flood,Riverine flood,Ukraine,45.09,34.62,2006,7,2,2,23855,NA,Broken Dam/Burst bank,Km2,600
+2006,Flood,Riverine flood,Cambodia,11.06,104.68,2006,8,10,5,NA,NA,Rain,Km2,55860
+2006,Storm,Tropical cyclone,Philippines (the),26.39,117.39,2006,7,24,4,471,Kaemi,Rain,Kph,NA
+2006,Storm,Tropical cyclone,Philippines (the),15.86,120.74,2006,6,30,8,645,Henry,Rain,Kph,NA
+2006,Flood,Riverine flood,United States of America (the),43.16,-70.79,2006,5,11,2,85000,NA,Rain,Km2,42910
+2006,Flood,Riverine flood,United States of America (the),37.21,-87.62,2006,9,22,14,NA,NA,Rain,Km2,146000
+2006,Flood,Riverine flood,Yemen,15.1,43.88,2006,4,3,25,NA,NA,Rain,Km2,91480
+2006,Storm,Tropical cyclone,Mexico,24.93,-107.53,2006,10,25,4,NA,Paul,Flood,Kph,NA
+2006,Storm,Tropical cyclone,Myanmar,18.37,94.95,2006,4,29,34,NA,Mala,Flood,Kph,240
+2006,Landslide,Landslide,Nepal,28.69,81.31,2006,8,26,147,NA,NA,Flood,NA,NA
+2006,Storm,Tropical cyclone,United States of America (the),34.74,-77.87,2006,8,2,6,32860,Ernesto,Flood,Kph,119
+2006,Storm,Tropical cyclone,Viet Nam,10.33,106.74,2006,11,30,95,456000,Durian (Reming),Flood,Kph,NA
+2006,Flood,Riverine flood,Kenya,2.25,37.53,2006,4,4,60,NA,NA,NA,Km2,538000
+2006,Flood,Riverine flood,Kenya,-3.24,40.01,2006,10,15,30,NA,NA,NA,Km2,NA
+2006,Flood,Riverine flood,Morocco,32.15,-4.05,2006,5,26,6,NA,NA,NA,Km2,33210
+2006,Flood,Flash flood,Mali,14.42,-1.02,2006,8,3,1,NA,NA,NA,Km2,NA
+2006,Flood,Riverine flood,Myanmar,19.91,95.45,2006,9,15,25,NA,NA,NA,Km2,188000
+2006,Earthquake,Ground movement,Mozambique,-21.324,33.583,2006,2,22,4,NA,NA,NA,Richter,7
+2006,Flood,Riverine flood,Mauritania,17.75,-15,2006,7,22,7,NA,NA,NA,Km2,60
+2006,Flood,Flash flood,Malawi,-15.96,34.51,2006,11,27,5,NA,NA,NA,Km2,2760
+2006,Flood,Riverine flood,Malawi,-14.59,35.12,2006,3,7,3,NA,NA,NA,Km2,64890
+2006,Flood,Flash flood,New Zealand,-45.69,170.37,2006,4,26,NA,3000,NA,NA,Km2,4630
+2006,Flood,Flash flood,Pakistan,32.89,73.88,2006,8,31,20,NA,NA,NA,Km2,NA
+2006,Flood,Riverine flood,Pakistan,33.06,69.95,2006,7,9,13,NA,NA,NA,Km2,NA
+2006,Flood,Riverine flood,Pakistan,25.03,67.12,2006,8,1,74,NA,NA,NA,Km2,2748
+2006,Landslide,Landslide,Pakistan,35.35,72.62,2006,7,3,29,NA,NA,NA,NA,NA
+2006,Flood,Flash flood,Philippines (the),17.02,121.82,2006,1,26,4,9600,NA,NA,Km2,63470
+2006,Flood,Flash flood,Philippines (the),7.17,125.57,2006,3,4,1,NA,NA,NA,Km2,630
+2006,Storm,Tropical cyclone,Philippines (the),21.11,110.11,2006,8,2,6,135000,Prapiroon,NA,Kph,NA
+2006,Flood,Riverine flood,Papua New Guinea,-9.07,147.28,2006,2,3,1,NA,NA,NA,Km2,34450
+2006,Flood,Riverine flood,Romania,47.8,25.95,2006,6,30,30,NA,NA,NA,Km2,1120
+2006,Earthquake,Ground movement,Russian Federation (the),60.949,167.089,2006,4,20,NA,55000,NA,NA,Richter,8
+2006,Flood,Riverine flood,Russian Federation (the),50.78,87.14,2006,4,21,NA,7411,NA,NA,Km2,144900
+2006,Landslide,Landslide,Rwanda,-1.79,29.94,2006,11,28,24,NA,NA,NA,NA,NA
+2006,Flood,Riverine flood,Sudan (the),13.21,34.76,2006,8,13,27,NA,NA,NA,Km2,NA
+2006,Flood,Flash flood,Somalia,2.665,45.45,2006,8,4,5,NA,NA,NA,Km2,3845
+2006,Flood,Riverine flood,Somalia,3.1,45.44,2006,8,24,5,NA,NA,NA,Km2,22490
+2006,Flood,Riverine flood,Somalia,4.64,44.6,2006,10,26,52,NA,NA,NA,Km2,NA
+2006,Flood,Riverine flood,Somalia,0.78,39.72,2006,10,23,35,NA,NA,NA,Km2,NA
+2006,Flood,Riverine flood,Suriname,3.42,-56.48,2006,5,7,3,NA,NA,NA,Km2,27500
+2006,Flood,Riverine flood,Slovakia,48.67,19.08,2006,3,28,1,NA,NA,NA,Km2,NA
+2006,Flood,Riverine flood,Chad,10.33,15.33,2006,9,5,52,NA,NA,NA,Km2,NA
+2006,Earthquake,Ground movement,Tajikistan,37.255,68.828,2006,7,29,3,22000,NA,NA,Richter,6
+2006,Flood,Flash flood,Turkey,37.64,39.65,2006,10,27,47,317000,NA,NA,Km2,122300
+2006,Flood,Riverine flood,Turkey,39.74,41.1,2006,7,1,12,NA,NA,NA,Km2,69640
+2006,Earthquake,Ground movement,Taiwan (Province of China),21.799,120.547,2006,12,26,2,NA,NA,NA,Richter,7
+2006,Flood,Riverine flood,Taiwan (Province of China),24.07,120.79,2006,6,10,3,116130,NA,NA,Km2,14310
+2006,Flood,Riverine flood,Uganda,1.38,34.28,2006,8,12,3,NA,NA,NA,Km2,4050
+2006,Flood,Riverine flood,United States of America (the),41.41,-86.91,2006,6,22,2,7000,NA,NA,Km2,6780
+2006,Flood,Riverine flood,United States of America (the),31.76,-106.39,2006,7,27,NA,100000,NA,NA,Km2,3610
+2006,Flood,Riverine flood,United States of America (the),41.52,-81.09,2006,7,27,1,NA,NA,NA,Km2,4720
+2006,Flood,Riverine flood,United States of America (the),62.45,-99.99,2006,8,19,NA,15500,NA,NA,Km2,95940
+2006,Flood,Riverine flood,United States of America (the),47.86,-122.15,2006,11,5,2,NA,NA,NA,Km2,57890
+2006,Flood,Riverine flood,Viet Nam,11.06,104.68,2006,8,10,60,NA,NA,NA,Km2,NA
+2006,Storm,Tropical cyclone,Viet Nam,16.68,107.21,2006,9,27,71,624000,Xangsane (Milenyo),NA,Kph,148
+2006,Flood,Flash flood,Yemen,14.54,44.18,2006,2,20,5,NA,NA,NA,Km2,10710
+2006,Flood,Riverine flood,South Africa,-27.44,24.83,2006,3,26,6,71000,NA,NA,Km2,2500
+2006,Flood,Riverine flood,South Africa,-33.538,26.3,2006,8,2,6,145000,NA,NA,Km2,21840
+2007,Earthquake,Ground movement,Japan,37.336,136.588,2007,3,25,1,250000,NA,Tsunami/Tidal wave,Richter,7
+2007,Storm,Tropical cyclone,Madagascar,-14.84,49.94,2007,3,15,80,240000,Indhala,Flood,Kph,230
+2007,Earthquake,Tsunami,Solomon Islands,-8.466,157.043,2007,4,1,52,NA,NA,"Slide (land, mud, snow, rock)",Richter,8
+2007,Flood,Riverine flood,Sri Lanka,6.71,80.95,2007,1,12,18,NA,NA,"Slide (land, mud, snow, rock)",Km2,10420
+2007,Flood,Riverine flood,Peru,-11.47,-74.46,2007,1,21,17,NA,NA,"Slide (land, mud, snow, rock)",Km2,NA
+2007,Flood,Riverine flood,Philippines (the),7.71,125.22,2007,1,10,9,4080,NA,"Slide (land, mud, snow, rock)",Km2,44620
+2007,Flood,Flash flood,Thailand,7.44,99.65,2007,4,14,38,NA,NA,"Slide (land, mud, snow, rock)",Km2,290
+2007,Flood,Riverine flood,Yemen,15.1,43.88,2007,1,1,7,NA,NA,"Slide (land, mud, snow, rock)",Km2,25390
+2007,Flood,Riverine flood,Mozambique,-17.47,35.15,2007,1,17,29,71000,NA,Rain,Km2,NA
+2007,Flood,Coastal flood,Madagascar,-18.49,46.34,2007,2,8,7,NA,NA,NA,Km2,438800
+2007,Flood,Riverine flood,Malawi,-17.47,35.15,2007,1,8,2,NA,NA,NA,Km2,NA
+2007,Flood,Riverine flood,Malaysia,2.19,103.37,2007,1,11,17,605000,NA,NA,Km2,26380
+2007,Flood,Riverine flood,Namibia,12.95,24.37,2007,1,10,7,NA,NA,NA,Km2,NA
+2007,Flood,Riverine flood,Rwanda,-1.73,29.48,2007,2,3,10,9,NA,NA,Km2,1340
+2007,Flood,Riverine flood,United States of America (the),34.88,-90.07,2007,1,15,24,NA,NA,NA,Km2,434
+2007,Flood,Flash flood,Yemen,16.57,49.13,2007,3,23,36,NA,NA,NA,Km2,59870
+2006,Flood,Riverine flood,Congo (the Democratic Republic of the),-4.36,16.17,2006,4,8,1,NA,NA,"Slide (land, mud, snow, rock)",Km2,45540
+2007,Flood,Riverine flood,China,36.68,119.23,2007,7,18,83,329000,NA,Flood,Km2,NA
+2007,Storm,Tropical cyclone,Dominican Republic (the),18.53,-70.06,2007,10,28,129,77700,Noel,Flood,Kph,NA
+2007,Storm,Tropical cyclone,Dominican Republic (the),18.93,-71.03,2007,12,11,33,45000,Olga,Flood,Kph,NA
+2007,Storm,Tropical cyclone,Honduras,14.62,-83.64,2007,9,4,1,6579,Felix,Flood,Kph,NA
+2007,Storm,Tropical cyclone,Cuba,18.53,-70.06,2007,10,28,1,500000,Noel,Flood,Kph,NA
+2007,Storm,NA,France,43.3,-0.47,2007,5,25,1,NA,NA,Flood,Kph,NA
+2007,Flood,Flash flood,Australia,-32.87,151.38,2007,6,8,9,1300000,NA,"Slide (land, mud, snow, rock)",Km2,11380
+2007,Flood,Flash flood,China,30.28,107.78,2007,5,24,43,78000,NA,"Slide (land, mud, snow, rock)",Km2,43530
+2007,Flood,Riverine flood,Bangladesh,22.4,91.95,2007,6,11,120,14000,NA,"Slide (land, mud, snow, rock)",Km2,NA
+2007,Flood,Riverine flood,Bangladesh,23.92,91.23,2007,7,21,1110,100000,NA,"Slide (land, mud, snow, rock)",Km2,7000
+2007,Flood,Riverine flood,Brazil,-22.72,-43.42,2007,10,24,6,NA,NA,"Slide (land, mud, snow, rock)",Km2,730
+2007,Flood,Riverine flood,China,24.1,100.16,2007,7,18,170,40000,NA,"Slide (land, mud, snow, rock)",Km2,165100
+2007,Flood,Riverine flood,China,43.09,88.21,2007,7,14,29,80000,NA,"Slide (land, mud, snow, rock)",Km2,812700
+2007,Flood,Riverine flood,China,-1.8,116.72,2007,8,31,11,26000,NA,"Slide (land, mud, snow, rock)",Km2,5690
+2007,Flood,Riverine flood,China,27.72,104.07,2007,8,22,17,5500,NA,"Slide (land, mud, snow, rock)",Km2,32590
+2007,Flood,Riverine flood,Colombia,8.38,-75.59,2007,3,6,146,NA,NA,"Slide (land, mud, snow, rock)",Km2,69990
+2007,Flood,Riverine flood,Colombia,7.38,-75.43,2007,5,19,13,NA,NA,"Slide (land, mud, snow, rock)",Km2,29770
+2007,Flood,Riverine flood,Colombia,4.5,-75.21,2007,4,26,24,NA,NA,"Slide (land, mud, snow, rock)",Km2,1940
+2007,Flood,Riverine flood,Costa Rica,10.98,-85.44,2007,10,12,19,80000,NA,"Slide (land, mud, snow, rock)",Km2,NA
+2007,Flood,Riverine flood,Guatemala,14.6,-90.49,2007,9,22,11,NA,NA,"Slide (land, mud, snow, rock)",Km2,2300
+2007,Flood,Riverine flood,Haiti,19.55,-71.05,2007,5,30,2,NA,NA,"Slide (land, mud, snow, rock)",Km2,NA
+2007,Flood,Riverine flood,Indonesia,-1.74,121.49,2007,7,22,88,NA,NA,"Slide (land, mud, snow, rock)",Km2,4600
+2007,Flood,Riverine flood,Indonesia,-7.54,111.33,2007,12,25,127,NA,NA,"Slide (land, mud, snow, rock)",Km2,50690
+2007,Flood,NA,Indonesia,-1.08,116.72,2007,9,2,4,NA,NA,"Slide (land, mud, snow, rock)",Km2,5690
+2007,Flood,Flash flood,India,14.94,78.16,2007,6,22,127,NA,NA,"Slide (land, mud, snow, rock)",Km2,449300
+2007,Flood,Riverine flood,India,31.24,76.53,2007,8,12,76,NA,NA,"Slide (land, mud, snow, rock)",Km2,191400
+2007,Earthquake,Tsunami,Chile,-45.243,-72.648,2007,4,21,10,NA,NA,Tsunami/Tidal wave,Richter,6
+2007,Earthquake,Ground movement,Indonesia,-4.438,101.367,2007,9,12,25,500000,NA,Tsunami/Tidal wave,Richter,8
+2007,Flood,Riverine flood,Bolivia (Plurinational State of),-17.66,-65.3,2007,12,15,75,500000,NA,Broken Dam/Burst bank,Km2,218600
+2007,Flood,Riverine flood,United Kingdom of Great Britain and Northern Ireland (the),52.52,-0.76,2007,6,15,1,448000,NA,Broken Dam/Burst bank,Km2,23110
+2007,Flood,Flash flood,Algeria,34.95,5.79,2007,9,21,18,29500,NA,Rain,Km2,78590
+2007,Flood,Riverine flood,United Kingdom of Great Britain and Northern Ireland (the),52.07,-2.1,2007,7,20,7,4000000,NA,Rain,Km2,24650
+2007,Storm,Tropical cyclone,Australia,-13.67,131.92,2007,3,2,2,100000,George and Jacob,Flood,Kph,275
+2007,Storm,Tropical cyclone,Bangladesh,22.61,90.15,2007,11,15,4234,2300000,Sidr,Flood,Kph,250
+2007,Storm,Tropical cyclone,Bahamas (the),18.53,-70.06,2007,10,28,1,NA,Noel,Flood,Kph,NA
+2007,Storm,Tropical cyclone,Dominican Republic (the),14.64,-61.02,2007,8,21,1,40000,Dean,Flood,Kph,NA
+2007,Storm,Tropical cyclone,Haiti,14.64,-61.02,2007,8,18,9,NA,Dean,Flood,Kph,NA
+2007,Storm,Tropical cyclone,Haiti,18.53,-70.06,2007,10,28,90,NA,Noel,Flood,Kph,NA
+2007,Storm,Tropical cyclone,Haiti,18.93,-71.03,2007,12,11,3,NA,Olga,Flood,Kph,NA
+2007,Flood,Riverine flood,Zambia,-12.95,24.37,2007,1,10,4,NA,NA,NA,Km2,290
+2007,Flood,Flash flood,Afghanistan,36.52,70.6,2007,5,14,23,NA,NA,NA,Km2,15490
+2007,Flood,Flash flood,Afghanistan,37.01,70.73,2007,4,23,36,NA,NA,NA,Km2,27490
+2007,Flood,Flash flood,Afghanistan,34.53,66.13,2007,7,15,9,NA,NA,NA,Km2,4110
+2007,Flood,Riverine flood,Afghanistan,36.29,68.85,2007,5,5,10,NA,NA,NA,Km2,25850
+2007,Flood,Riverine flood,Afghanistan,35.28,71.14,2007,6,24,113,NA,NA,NA,Km2,62340
+2007,Flood,Riverine flood,Burkina Faso,11.45,-4.39,2007,7,26,52,NA,NA,NA,Km2,2435
+2007,Flood,Riverine flood,Bulgaria,42.52,24.5,2007,5,22,2,NA,NA,NA,Km2,34010
+2007,Flood,Riverine flood,Bulgaria,41.74,25.62,2007,11,16,2,NA,NA,NA,Km2,NA
+2007,Earthquake,Ground movement,Brazil,-15.048,-44.231,2007,12,9,1,NA,NA,NA,Richter,5
+2007,Flood,NA,Brazil,-30.25,-52.67,2007,9,24,4,NA,NA,NA,Km2,127400
+2007,Earthquake,Ground movement,Chile,-22.247,-69.89,2007,11,14,2,100000,NA,NA,Richter,8
+2007,Earthquake,Ground movement,China,23.028,101.052,2007,6,2,3,342000,NA,NA,Richter,6
+2007,Flood,Riverine flood,China,27.2,116.14,2007,6,1,NA,13000,NA,NA,Km2,168600
+2007,Flood,Riverine flood,China,36.37,118.72,2007,8,9,26,NA,NA,NA,Km2,100100
+2007,Flood,Riverine flood,China,32.78,108.87,2007,8,31,11,26000,NA,NA,Km2,4380
+2007,Flood,Riverine flood,Colombia,7.89,-74.91,2007,10,20,35,NA,NA,NA,Km2,189700
+2007,Flood,Riverine flood,Dominican Republic (the),19.55,-71.05,2007,5,30,9,NA,NA,NA,Km2,NA
+2007,Flood,Riverine flood,Algeria,36.75,2.96,2007,11,24,14,NA,NA,NA,Km2,21400
+2007,Flood,Riverine flood,Spain,39.89,-4.22,2007,5,23,1,400000,NA,NA,Km2,212700
+2007,Flood,Riverine flood,Spain,38.64,-0.27,2007,10,12,3,NA,NA,NA,Km2,5050
+2007,Volcanic activity,Ash fall,Ethiopia,12.17,40.82,2007,8,12,5,NA,Mount Arteale,NA,NA,NA
+2007,Flood,Riverine flood,Ethiopia,8.33,34.5,2007,7,29,17,NA,NA,NA,Km2,79620
+2007,Flood,Flash flood,Fiji,-17.77,177.48,2007,3,9,5,7000,NA,NA,Km2,NA
+2007,Earthquake,Ground movement,United Kingdom of Great Britain and Northern Ireland (the),51.085,1.009,2007,4,28,NA,60000,NA,NA,Richter,5
+2007,Flood,Riverine flood,United Kingdom of Great Britain and Northern Ireland (the),53.88,-0.91,2007,6,25,6,4000000,NA,NA,Km2,27720
+2007,Flood,Riverine flood,Greece,41.74,25.62,2007,11,16,2,NA,NA,NA,Km2,52770
+2007,Flood,Riverine flood,Honduras,10.98,-85.44,2007,10,12,5,NA,NA,NA,Km2,NA
+2007,Flood,Riverine flood,Haiti,18.55,-72.29,2007,7,23,4,NA,NA,NA,Km2,44
+2007,Flood,Riverine flood,Haiti,20.67,-76.4,2007,10,7,41,NA,NA,NA,Km2,NA
+2007,Earthquake,Ground movement,Indonesia,-8.292,118.37,2007,11,25,3,NA,NA,NA,Richter,7
+2007,Flood,Riverine flood,Indonesia,-0.19,116.92,2007,5,15,4,NA,NA,NA,Km2,34350
+2007,Flood,Riverine flood,Indonesia,-3.28,120.2,2007,7,25,15,NA,NA,NA,Km2,2400
+2007,Flood,Coastal flood,India,20.91,86.4,2007,9,22,80,275000,NA,NA,Km2,72010
+2007,Flood,Riverine flood,India,26.26,94.02,2007,6,18,15,NA,NA,NA,Km2,74890
+2007,Flood,Riverine flood,India,22.02,72.25,2007,7,1,225,NA,NA,NA,Km2,61700
+2007,Flood,Riverine flood,India,21.03,77.52,2007,7,1,62,NA,NA,NA,Km2,106600
+2007,Flood,Riverine flood,India,20.05,81.86,2007,6,30,29,NA,NA,NA,Km2,74000
+2007,Flood,Riverine flood,India,22.63,88.49,2007,7,3,1103,NA,NA,NA,Km2,483900
+2007,Flood,Riverine flood,India,22.68,70.93,2007,8,8,16,NA,NA,NA,Km2,133800
+2007,Flood,Riverine flood,India,15.71,79.88,2007,9,16,94,NA,NA,NA,Km2,90280
+2007,Flood,Riverine flood,India,12.73,79.7,2007,10,27,29,NA,NA,NA,Km2,76740
+2007,Flood,Riverine flood,India,20.45,86.2,2007,8,3,15,NA,NA,NA,Km2,15360
+2007,Flood,Riverine flood,India,27.58,95.26,2007,7,12,96,NA,NA,NA,Km2,103600
+2007,Flood,Riverine flood,India,10.39,76.31,2007,7,16,44,101151,NA,NA,Km2,21120
+2008,Flood,Riverine flood,Chile,-35.86,-71.95,2008,5,19,5,NA,NA,Broken Dam/Burst bank,Km2,110500
+2008,Storm,Convective storm,Australia,-30.05,151.49,2008,11,15,1,450000,NA,Flood,Kph,NA
+2008,Flood,Riverine flood,Brazil,-24.5,-47.88,2008,1,12,4,NA,NA,"Slide (land, mud, snow, rock)",Km2,23020
+2008,Flood,Riverine flood,Brazil,-22.37,-43.13,2008,2,2,9,NA,NA,"Slide (land, mud, snow, rock)",Km2,290
+2008,Flood,Riverine flood,Brazil,-5.36,-41.68,2008,3,30,36,360000,NA,"Slide (land, mud, snow, rock)",Km2,1120000
+2008,Flood,Riverine flood,Brazil,-25.1,-49.34,2008,11,22,151,750000,NA,"Slide (land, mud, snow, rock)",Km2,103400
+2008,Earthquake,Ground movement,China,31.002,103.322,2008,5,12,87476,85000000,NA,"Slide (land, mud, snow, rock)",Richter,8
+2008,Earthquake,Ground movement,Colombia,4.33,-73.764,2008,5,24,11,10000,NA,"Slide (land, mud, snow, rock)",Richter,6
+2008,Volcanic activity,Ash fall,Colombia,2.93,-76.03,2008,11,20,16,NA,Nevado del Huila,"Slide (land, mud, snow, rock)",NA,NA
+2008,Flood,Riverine flood,Colombia,2.68,-75.42,2008,3,11,11,NA,NA,"Slide (land, mud, snow, rock)",Km2,NA
+2008,Flood,Riverine flood,Costa Rica,8.57,80.8,2008,11,22,1,NA,NA,"Slide (land, mud, snow, rock)",Km2,NA
+2008,Flood,Flash flood,Algeria,3.48,32.24,2008,10,1,93,348000,NA,"Slide (land, mud, snow, rock)",Km2,34760
+2008,Flood,Riverine flood,Ecuador,-1.25,-79.66,2008,1,30,41,1000000,NA,"Slide (land, mud, snow, rock)",Km2,75830
+2008,Earthquake,Ground movement,Greece,37.963,21.525,2008,6,8,2,NA,NA,"Slide (land, mud, snow, rock)",Richter,6
+2008,Flood,Riverine flood,Honduras,15.86,-89.28,2008,10,19,67,NA,Tropical Depression Sixteen,"Slide (land, mud, snow, rock)",Km2,NA
+2008,Flood,Riverine flood,Indonesia,-6.8,111.06,2008,2,11,11,NA,NA,"Slide (land, mud, snow, rock)",Km2,NA
+2008,Flood,Flash flood,India,25.18,91.54,2008,6,11,1063,123000,NA,"Slide (land, mud, snow, rock)",Km2,350600
+2008,Flood,Riverine flood,Australia,-21.56,147.03,2008,11,20,4,275000,NA,Broken Dam/Burst bank,Km2,105500
+2008,Flood,Riverine flood,Indonesia,-7.13,112.37,2008,3,1,3,NA,NA,Broken Dam/Burst bank,Km2,11590
+2008,Flood,Riverine flood,India,22.044,94.55,2008,8,30,47,20000,NA,Broken Dam/Burst bank,Km2,80590
+2008,Flood,Riverine flood,United Kingdom of Great Britain and Northern Ireland (the),53.26,-1.8,2008,9,6,8,50000,NA,Rain,Km2,47370
+2008,Storm,Tropical cyclone,Belize,17.3,-88.1,2008,5,31,7,NA,Arthur,Flood,Kph,NA
+2008,Storm,Tropical cyclone,China,23.542,112.3,2008,6,24,14,175000,Typhoon Fengshen (Franck),Flood,Kph,NA
+2008,Storm,Tropical cyclone,China,32.56,114.41,2008,7,28,1,73000,"Tropical Storm ""Fung-Wong"" (Igme)",Flood,Kph,155
+2008,Storm,Tropical cyclone,China,22.33,113.15,2008,8,8,NA,80000,"Tropical storm ""Kammuri"" (Julian)",Flood,Kph,NA
+2008,Storm,Tropical cyclone,Haiti,18.46,-71.69,2008,9,6,74,NA,Hurricane Ike,Flood,Kph,NA
+2008,Flood,Riverine flood,Angola,-17.05,17.26,2008,1,31,7,NA,NA,NA,Km2,NA
+2008,Flood,Riverine flood,Australia,-28.44,152.87,2008,1,3,1,90000,NA,NA,Km2,41560
+2008,Flood,Riverine flood,Australia,-20.4,144.56,2008,1,14,NA,600000,NA,NA,Km2,649500
+2008,Flood,Riverine flood,Australia,-22.46,149.54,2008,2,13,2,1100000,NA,NA,Km2,44350
+2008,Flood,Riverine flood,Bangladesh,21.02,90.21,2008,8,30,12,NA,NA,NA,Km2,59250
+2008,Flood,Riverine flood,Belize,15.86,-89.28,2008,10,19,1,9697,Tropical Depression Sixteen,NA,Km2,NA
+2008,Earthquake,Ground movement,China,32.756,105.494,2008,8,5,4,NA,NA,NA,Richter,6
+2008,Earthquake,Ground movement,China,25.039,97.697,2008,8,21,6,NA,NA,NA,Richter,6
+2008,Earthquake,Ground movement,China,26.241,101.889,2008,8,30,40,492000,NA,NA,Richter,6
+2008,Earthquake,Ground movement,China,29.807,90.35,2008,10,6,30,NA,NA,NA,Richter,6
+2008,Earthquake,Ground movement,China,32.56,105.423,2008,5,25,8,NA,NA,NA,Richter,6
+2008,Flood,Riverine flood,China,30.87,113.03,2008,5,2,3,19000,NA,NA,Km2,43960
+2008,Flood,Riverine flood,China,22.62,101.55,2008,8,7,20,42000,NA,NA,Km2,24610
+2008,Flood,Riverine flood,China,19.16,109.82,2008,10,10,3,NA,NA,NA,Km2,29940
+2008,Flood,Riverine flood,Colombia,9,-74.23,2008,9,15,76,NA,NA,NA,Km2,195400
+2008,Flood,Flash flood,Ethiopia,7.585,33.31,2008,8,20,5,NA,NA,NA,Km2,69940
+2008,Flood,Riverine flood,Ethiopia,0.83,43.06,2008,11,16,11,NA,NA,NA,Km2,25490
+2008,Earthquake,Ground movement,Indonesia,2.768,95.964,2008,2,20,3,NA,NA,NA,Richter,7
+2008,Earthquake,Ground movement,Indonesia,-3.935,103.058,2008,9,9,2,NA,NA,NA,Richter,5
+2008,Earthquake,Ground movement,Indonesia,1.271,122.091,2008,11,16,6,NA,NA,NA,Richter,7
+2008,Flood,Flash flood,Indonesia,-7.74,114,2008,2,8,14,NA,NA,NA,Km2,400
+2008,Flood,Riverine flood,Indonesia,-6.19,106.85,2008,2,1,3,NA,NA,NA,Km2,380
+2008,Flood,Riverine flood,Indonesia,-7.71,112.91,2008,1,30,3,653,NA,NA,Km2,810
+2008,Flood,Riverine flood,Indonesia,0.68,122.52,2008,9,6,16,1080,NA,NA,Km2,9851
+2008,Flood,Riverine flood,Indonesia,-3.33,103.14,2008,12,26,24,NA,NA,NA,Km2,126700
+2008,Landslide,Landslide,Indonesia,-4.4831667,137.69,2008,5,5,21,NA,NA,NA,NA,NA
+2008,Flood,Riverine flood,India,16.65,81.38,2008,9,5,74,NA,NA,NA,Km2,75490
+2008,Flood,Riverine flood,India,27.5,89.79,2008,7,20,142,NA,NA,NA,Km2,283800
+2009,Storm,Extra-tropical storm,France,42.24,-2.6,2009,1,23,11,3200000,Klaus,Flood,Kph,171
+2009,Storm,Tropical cyclone,Bangladesh,22.16,89.09,2009,5,25,190,270000,"Cyclone ""Aila""",Broken Dam/Burst bank,Kph,90
+2009,Flood,Riverine flood,Brazil,-3.19,-45.43,2009,4,22,56,550000,NA,"Slide (land, mud, snow, rock)",Km2,524400
+2009,Flood,Riverine flood,Afghanistan,33.07,63.59,2009,3,25,39,20000,NA,"Slide (land, mud, snow, rock)",Km2,88520
+2009,Flood,Riverine flood,Brazil,-16.59,-44.89,2009,1,20,16,NA,NA,"Slide (land, mud, snow, rock)",Km2,1186000
+2009,Flood,Riverine flood,Colombia,4.36,-76.51,2009,2,15,23,NA,NA,"Slide (land, mud, snow, rock)",Km2,72650
+2009,Earthquake,Ground movement,Costa Rica,10.165,-84.197,2009,1,8,31,200000,NA,"Slide (land, mud, snow, rock)",Richter,6
+2009,Earthquake,Ground movement,Honduras,16.731,-86.217,2009,5,28,7,100000,NA,"Slide (land, mud, snow, rock)",Richter,7
+2009,Flood,Flash flood,Indonesia,-2.63,120.26,2009,1,27,18,NA,NA,"Slide (land, mud, snow, rock)",Km2,60610
+2009,Flood,Riverine flood,Fiji,-17.74,178.05,2009,1,8,12,43247,NA,Tsunami/Tidal wave,Km2,348
+2009,Flood,Riverine flood,Indonesia,6.55,106.36,2009,3,26,64,NA,NA,Broken Dam/Burst bank,Km2,19200
+2009,Storm,Convective storm,Australia,-29.05,152.73,2009,5,19,1,60000,NA,Flood,Kph,130
+2009,Earthquake,Ground movement,Afghanistan,34.185,70.076,2009,4,16,22,NA,NA,NA,Richter,5
+2009,Flood,Riverine flood,Angola,-9.84,14.15,2009,2,14,2,NA,NA,NA,Km2,61810
+2009,Flood,Riverine flood,Angola,16.68,-17.08,2009,3,1,60,NA,NA,NA,Km2,NA
+2009,Landslide,Landslide,Argentina,-24.15,-64.29,2009,2,9,4,15000,NA,NA,NA,NA
+2009,Earthquake,Ground movement,China,43.236,80.893,2009,1,25,NA,3100,NA,NA,Richter,5
+2009,Flood,Riverine flood,Czech Republic (the),50.13,18.03,2009,6,22,13,150000,NA,NA,Km2,NA
+2009,Flood,Riverine flood,Dominican Republic (the),19.32,-70.14,2009,1,8,2,44000,NA,NA,Km2,14540
+2009,Flood,Riverine flood,Dominican Republic (the),19.28,-70.08,2009,2,2,5,8403,NA,NA,Km2,15150
+2009,Flood,Riverine flood,Algeria,29.61,0.71,2009,1,20,33,NA,NA,NA,Km2,132800
+2009,Flood,Riverine flood,Haiti,19.56,-72.33,2009,5,15,11,NA,NA,NA,Km2,5754
+2009,Earthquake,Ground movement,Indonesia,-0.414,132.885,2009,1,3,5,10000,NA,NA,Richter,8
+2009,Earthquake,Ground movement,Indonesia,3.886,126.387,2009,2,11,NA,9000,NA,NA,Richter,7
+2007,Earthquake,Ground movement,Japan,37.535,138.446,2007,7,16,9,12500000,NA,Tsunami/Tidal wave,Richter,7
+2007,Earthquake,Ground movement,Peru,-13.386,-76.603,2007,8,15,593,600000,NA,Tsunami/Tidal wave,Richter,8
+2007,Earthquake,Ground movement,Russian Federation (the),47.116,141.798,2007,8,2,2,420000,NA,Tsunami/Tidal wave,Richter,6
+2007,Flood,Riverine flood,Mexico,17.67,-92.41,2007,10,28,22,3000000,NA,Broken Dam/Burst bank,Km2,35810
+2007,Flood,Riverine flood,United States of America (the),36.86,-94.64,2007,8,16,26,700000,NA,Rain,Km2,1217000
+2007,Storm,Tropical cyclone,Mexico,20.93,-97.85,2007,9,28,5,NA,Lorenzo,Flood,Kph,NA
+2007,Storm,Tropical cyclone,Martinique,14.64,-61.02,2007,8,16,1,300000,Dean,Flood,Kph,160
+2007,Storm,Tropical cyclone,Nicaragua,14.62,-83.64,2007,9,4,188,NA,Felix,Flood,Kph,NA
+2007,Storm,Tropical cyclone,Philippines (the),17.07,106.9,2007,9,29,8,NA,Lekima,Flood,Kph,NA
+2007,Storm,Tropical cyclone,Philippines (the),17.08,122.01,2007,11,25,29,5000,Mitag (Mina) (23),Flood,Kph,170
+2007,Storm,Tropical cyclone,Philippines (the),8.796,124.83,2007,11,18,20,1000,Hagibis (Lando) (24),Flood,Kph,129
+2007,Earthquake,Ground movement,Tajikistan,38.936,70.485,2007,7,21,11,NA,NA,Flood,Richter,5
+2007,Storm,Tropical cyclone,Taiwan (Province of China),23.76,121.02,2007,10,6,18,35000,Krosa,Flood,Kph,NA
+2007,Storm,NA,United States of America (the),47.09,-122.91,2007,12,3,17,1000000,NA,Flood,Kph,160
+2007,Storm,Tropical cyclone,Pakistan,25.26,67.9,2007,6,26,242,1620000,Yemyin,Flood,Kph,NA
+2007,Storm,Tropical cyclone,Japan,31.69,130.9,2007,7,13,5,60000,Man-Yi,"Slide (land, mud, snow, rock)",Kph,250
+2007,Flood,Riverine flood,Korea (the Democratic People's Republic of),38.53,126.61,2007,8,7,610,300000,NA,"Slide (land, mud, snow, rock)",Km2,29480
+2007,Flood,Riverine flood,United States of America (the),32.84,-97.17,2007,6,26,8,NA,NA,NA,Km2,507800
+2007,Storm,NA,Slovenia,46.26,14.03,2007,9,18,6,292000,NA,"Slide (land, mud, snow, rock)",Kph,NA
+2007,Flood,Riverine flood,Kenya,-3.61,38.69,2007,12,12,4,NA,NA,"Slide (land, mud, snow, rock)",Km2,6200
+2007,Flood,Riverine flood,Kyrgyzstan,40.63,73.83,2007,4,17,NA,200,NA,"Slide (land, mud, snow, rock)",Km2,17040
+2007,Flood,Flash flood,Sri Lanka,6.49,80.08,2007,5,2,15,50,NA,"Slide (land, mud, snow, rock)",Km2,3340
+2007,Flood,Riverine flood,Nicaragua,10.98,-85.44,2007,10,14,10,NA,NA,"Slide (land, mud, snow, rock)",Km2,NA
+2007,Flood,Riverine flood,Nepal,27.78,84.08,2007,7,23,214,2400,NA,"Slide (land, mud, snow, rock)",Km2,56920
+2007,Flood,Riverine flood,Pakistan,35.95,74.34,2007,8,12,22,NA,NA,"Slide (land, mud, snow, rock)",Km2,16540
+2007,Flood,Coastal flood,Philippines (the),8.796,124.833,2007,11,18,11,2520,NA,"Slide (land, mud, snow, rock)",Km2,11140
+2007,Flood,Riverine flood,Philippines (the),13.36,123.38,2007,10,27,20,NA,NA,"Slide (land, mud, snow, rock)",Km2,4600
+2007,Flood,Riverine flood,Rwanda,-1.68,29.42,2007,9,12,20,NA,NA,"Slide (land, mud, snow, rock)",Km2,1180
+2007,Flood,Riverine flood,Tajikistan,39.35,69.46,2007,4,16,1,NA,NA,"Slide (land, mud, snow, rock)",Km2,58420
+2007,Flood,Riverine flood,Uganda,0.88,34.28,2007,8,15,29,71,NA,"Slide (land, mud, snow, rock)",Km2,NA
+2007,Flood,Riverine flood,Kenya,0.88,34.28,2007,8,15,13,NA,NA,Broken Dam/Burst bank,Km2,53520
+2007,Flood,Riverine flood,Somalia,2.98,45.43,2007,9,1,4,NA,NA,Broken Dam/Burst bank,Km2,13310
+2007,Flood,Riverine flood,Thailand,3.89,102.93,2007,12,7,3,NA,NA,Broken Dam/Burst bank,Km2,NA
+2007,Flood,Riverine flood,Romania,46.76,25.6,2007,8,25,2,NA,NA,Rain,Km2,32270
+2007,Flood,Flash flood,United States of America (the),42.23,-74.95,2007,6,19,4,NA,NA,Rain,Km2,6500
+2007,Storm,Tropical cyclone,Japan,38.57,125.83,2007,9,17,4,NA,Wipha/Goring,Flood,Kph,NA
+2007,Storm,Tropical cyclone,Korea (the Republic of),34.78,126.59,2007,9,16,20,70000,Nari (11),Flood,Kph,NA
+2007,Storm,Tropical cyclone,Saint Lucia,14.64,-61.02,2007,8,17,1,40000,Dean,Flood,Kph,NA
+2007,Storm,Tropical cyclone,Mexico,14.54,-61.02,2007,8,21,9,600000,Dean,Flood,Kph,265
+2007,Storm,Tropical cyclone,Philippines (the),27,119.91,2007,8,17,3,492,Sepat,Flood,Kph,NA
+2007,Storm,Tropical cyclone,Philippines (the),38.57,125.83,2007,9,17,2,NA,Wipha/Goring,Flood,Kph,NA
+2007,Storm,Tropical cyclone,Papua New Guinea,-9.03,149.22,2007,11,12,172,NA,Guba,Flood,Kph,NA
+2007,Storm,Tropical cyclone,Puerto Rico,18.93,-71.03,2007,12,11,1,NA,Olga,Flood,Kph,NA
+2007,Storm,Tropical cyclone,Viet Nam,17.07,106.9,2007,9,29,96,191000,Lekima,Flood,Kph,117
+2007,Flood,Flash flood,Iran (Islamic Republic of),33.75,52.2,2007,6,27,12,22000,NA,NA,Km2,11600
+2007,Flood,Riverine flood,Kenya,-3.59,39.76,2007,5,15,2,NA,NA,NA,Km2,13870
+2007,Flood,Riverine flood,Cambodia,13.28,105.88,2007,8,10,2,1000,NA,NA,Km2,64580
+2007,Flood,NA,Korea (the Republic of),33.4,126.72,2007,9,4,3,NA,NA,NA,Km2,930
+2007,Flood,Riverine flood,Liberia,6.51,-10.58,2007,8,26,1,NA,NA,NA,Km2,2330
+2007,Flood,Riverine flood,Myanmar,16.91,96.13,2007,5,3,5,NA,NA,NA,Km2,15670
+2007,Flood,NA,Mozambique,-19.06,34.36,2007,12,11,20,100000,NA,NA,Km2,57570
+2007,Flood,Riverine flood,Mauritania,16.55,-11.32,2007,8,7,2,NA,NA,NA,Km2,9500
+2007,Flood,Riverine flood,Mauritania,15.47,-13.97,2007,8,31,1,NA,NA,NA,Km2,162800
+2007,Earthquake,Ground movement,Martinique,14.944,-61.274,2007,11,29,1,NA,NA,NA,Richter,7
+2007,Flood,Riverine flood,Malaysia,3.89,102.93,2007,12,7,29,363000,NA,NA,Km2,NA
+2007,Flood,Riverine flood,Nigeria,10.29,11.75,2007,8,4,68,NA,NA,NA,Km2,630100
+2007,Flood,NA,Nigeria,6.96,3.3,2007,8,1,6,NA,NA,NA,Km2,5270
+2007,Flood,Flash flood,Pakistan,34.98,72.23,2007,6,16,22,NA,NA,NA,Km2,12120
+2007,Flood,Riverine flood,Pakistan,34.27,71.87,2007,6,28,130,NA,NA,NA,Km2,130
+2007,Flood,Riverine flood,Panama,10.98,-85.44,2007,10,12,2,NA,NA,NA,Km2,NA
+2007,Storm,Tropical cyclone,Philippines (the),17.57,121.76,2007,11,4,8,2971,Kabayan (Peipah),NA,Kph,25810
+2007,Flood,Riverine flood,Romania,45.82,27.24,2007,9,5,7,NA,NA,NA,Km2,26860
+2007,Flood,Riverine flood,Russian Federation (the),62.34,130.46,2007,5,13,NA,25752,NA,NA,Km2,313200
+2007,Flood,Riverine flood,Sudan (the),12.91,33.77,2007,7,3,150,300000,NA,NA,Km2,1591000
+2007,Flood,Riverine flood,Senegal,15.47,-13.97,2007,8,9,8,NA,NA,NA,Km2,NA
+2007,Flood,Riverine flood,El Salvador,10.98,-85.44,2007,10,12,2,NA,NA,NA,Km2,NA
+2007,Flood,Flash flood,Somalia,11.82,51.02,2007,11,3,21,NA,NA,NA,Km2,310
+2007,Flood,Riverine flood,Chad,11.54,19.05,2007,8,25,12,NA,NA,NA,Km2,454800
+2007,Flood,Riverine flood,Chad,9.64,15.11,2007,8,9,3,NA,NA,NA,Km2,23500
+2007,Flood,Riverine flood,Thailand,16.82,102.48,2007,9,5,10,NA,Monsoonal rain,NA,Km2,139500
+2007,Flood,Riverine flood,Thailand,9.72,99,2007,10,22,2,1500,NA,NA,Km2,13140
+2007,Flood,Flash flood,Tunisia,36.95,9.71,2007,10,13,16,NA,NA,NA,Km2,6550
+2007,Flood,Riverine flood,Turkey,39.4,43.8,2007,5,27,13,NA,NA,NA,Km2,38490
+2007,Flood,Riverine flood,Turkey,41.74,26.62,2007,11,16,1,NA,NA,NA,Km2,NA
+2007,Storm,Tropical cyclone,Taiwan (Province of China),27,119.91,2007,8,17,NA,25000,Sepat,NA,Kph,NA
+2007,Flood,Riverine flood,Uganda,0.35,32.59,2007,11,15,4,NA,NA,NA,Km2,550
+2007,Flood,Riverine flood,Uruguay,-32.77,-55.8,2007,5,4,2,45000,NA,NA,Km2,104100
+2007,Flood,Riverine flood,United States of America (the),30.24,-98.66,2007,5,24,8,NA,NA,NA,Km2,341
+2007,Flood,Riverine flood,United States of America (the),33.45,-97.3,2007,6,17,10,28000,NA,NA,Km2,34750
+2007,Flood,Coastal flood,Viet Nam,15.3,108.44,2007,11,10,55,350000,NA,NA,Km2,36820
+2007,Flood,Riverine flood,Viet Nam,15.87,107.78,2007,10,14,15,10000,NA,NA,Km2,24810
+2007,Flood,Riverine flood,Viet Nam,16.32,107.36,2007,10,28,83,300000,NA,NA,Km2,35110
+2007,Flood,NA,Viet Nam,11.01,105.51,2007,10,20,3,NA,NA,NA,Km2,46470
+2007,Flood,Riverine flood,Yemen,15.08,45.73,2007,8,1,50,NA,NA,NA,Km2,165100
+2008,Storm,Tropical cyclone,Philippines (the),13.16,122.6,2008,6,21,644,284694,Typhoon Fengshen (Franck),Flood,Kph,170
+2008,Storm,Tropical cyclone,Taiwan (Province of China),22.94,120.79,2008,7,18,26,16000,"Tropical storm ""Kalmaegi""",Flood,Kph,138
+2008,Storm,Tropical cyclone,Viet Nam,22.05,105.21,2008,8,8,162,120000,"Tropical storm ""Kammuri"" (Julian)",Flood,Kph,NA
+2008,Storm,Tropical cyclone,Viet Nam,21.9,104.59,2008,9,25,46,63000,"Typhoon ""Hagupit"" (Nina)",Flood,Kph,NA
+2008,Flood,Riverine flood,United States of America (the),39.63,-119.2,2008,1,5,2,NA,NA,Rain,Km2,550
+2008,Storm,Convective storm,United States of America (the),39.82,-92.33,2008,5,22,7,1600000,NA,Flood,Kph,320
+2008,Earthquake,Ground movement,Japan,39.03,140.881,2008,6,13,23,167000,NA,"Slide (land, mud, snow, rock)",Richter,7
+2008,Earthquake,Ground movement,Japan,39.802,141.464,2008,7,23,1,110000,NA,"Slide (land, mud, snow, rock)",Richter,7
+2008,Flood,Riverine flood,Kenya,0.05,35.12,2008,11,10,17,NA,NA,"Slide (land, mud, snow, rock)",Km2,37960
+2008,Flood,Flash flood,Sri Lanka,7.18,80.77,2008,5,29,25,NA,NA,"Slide (land, mud, snow, rock)",Km2,40670
+2008,Flood,Riverine flood,Sri Lanka,7.83,80.82,2008,3,12,8,NA,NA,"Slide (land, mud, snow, rock)",Km2,43220
+2008,Flood,Riverine flood,Nicaragua,12,-86.37,2008,9,24,13,NA,NA,"Slide (land, mud, snow, rock)",Km2,34760
+2008,Earthquake,Ground movement,Pakistan,30.639,67.351,2008,10,28,166,10000,NA,"Slide (land, mud, snow, rock)",Richter,6
+2008,Flood,Riverine flood,Peru,-10.11,-73.01,2008,2,4,40,NA,NA,"Slide (land, mud, snow, rock)",Km2,456900
+2008,Flood,Riverine flood,Philippines (the),11.64,125.22,2008,2,12,63,30733,NA,"Slide (land, mud, snow, rock)",Km2,21800
+2008,Flood,Riverine flood,Venezuela (Bolivarian Republic of),9.77,-66.4,2008,11,20,8,NA,NA,"Slide (land, mud, snow, rock)",Km2,61390
+2008,Flood,Flash flood,Viet Nam,14.9,107.46,2008,10,19,29,4000,NA,"Slide (land, mud, snow, rock)",Km2,39090
+2008,Flood,Riverine flood,Viet Nam,20.74,106.32,2008,10,27,99,479000,NA,"Slide (land, mud, snow, rock)",Km2,74590
+2008,Flood,Riverine flood,United States of America (the),36.23,-89.15,2008,3,17,18,2000,NA,Broken Dam/Burst bank,Km2,565200
+2008,Flood,Riverine flood,Italy,41.83,13.16,2008,12,11,3,278000,NA,Rain,Km2,5425
+2008,Storm,Tropical cyclone,Madagascar,-18.69,46.9,2008,2,17,93,60000,"Cyclone ""Ivan""",Flood,Kph,230
+2008,Storm,Tropical cyclone,United States of America (the),35.05,-90.45,2008,9,12,82,30000000,Hurricane Ike,Flood,Kph,200
+2008,Storm,Tropical cyclone,Viet Nam,15.7,107.71,2008,11,17,17,1000,"Tropical storm ""Noul""",Flood,Kph,NA
+2008,Flood,Flash flood,Yemen,15.54,49.78,2008,10,23,90,400000,NA,Lightening,Km2,133200
+2008,Flood,NA,India,10.76,78.72,2008,3,20,37,2000,NA,NA,Km2,144300
+2008,Earthquake,Ground movement,Iran (Islamic Republic of),26.743,55.828,2008,9,10,6,NA,NA,NA,Richter,6
+2008,Flood,Riverine flood,Iran (Islamic Republic of),53.26,-1.8,2008,9,9,19,NA,NA,NA,Km2,NA
+2008,Flood,Riverine flood,Iran (Islamic Republic of),39.24,44.69,2008,8,7,3,NA,NA,NA,Km2,7096
+2008,Flood,Riverine flood,Iraq,36.16,45.11,2008,9,10,4,NA,NA,NA,Km2,3310
+2008,Flood,Riverine flood,Japan,35.88,136.38,2008,7,28,5,NA,NA,NA,Km2,52420
+2008,Flood,Riverine flood,Kazakhstan,42.3,68.55,2008,2,20,1,130000,NA,NA,Km2,51580
+2008,Flood,Flash flood,Kenya,4,41.9,2008,10,14,3,NA,NA,NA,Km2,45130
+2008,Flood,Riverine flood,Kenya,-1.57,40.12,2008,6,13,16,NA,NA,NA,Km2,41800
+2008,Flood,NA,Kenya,2.83,37.67,2008,3,20,2,NA,NA,NA,Km2,21280
+2008,Earthquake,Ground movement,Kyrgyzstan,39.533,73.824,2008,10,5,74,NA,NA,NA,Richter,7
+2008,Flood,Flash flood,Sri Lanka,8.57,80.8,2008,11,22,15,NA,NA,NA,Km2,103400
+2008,Flood,Flash flood,Morocco,33.73,-4.77,2008,10,23,30,NA,NA,NA,Km2,146700
+2008,Flood,Riverine flood,Morocco,32.11,-7.11,2008,2,26,9,NA,NA,NA,Km2,23600
+2008,Flood,Riverine flood,Mozambique,-22.92,34.03,2008,12,28,25,NA,NA,NA,Km2,126000
+2008,Flood,Riverine flood,Namibia,-17.05,17.26,2008,1,30,42,NA,NA,NA,Km2,NA
+2008,Flood,Riverine flood,Pakistan,33.92,71.7,2008,8,2,36,103000,NA,NA,Km2,32490
+2008,Flood,Riverine flood,Pakistan,30.74,72.63,2008,8,9,37,NA,NA,NA,Km2,165900
+2008,Flood,Flash flood,Philippines (the),17.95,147.03,2008,11,21,10,4088,NA,NA,Km2,21770
+2008,Flood,Riverine flood,Philippines (the),17.2,121.8,2008,12,1,29,NA,NA,NA,Km2,24110
+2008,Earthquake,Ground movement,Russian Federation (the),43.372,46.254,2008,10,11,13,NA,NA,NA,Richter,6
+2008,Earthquake,Ground movement,Rwanda,-2.296,28.9,2008,2,3,36,NA,NA,NA,Richter,6
+2008,Flood,Riverine flood,Suriname,8.25,-64.88,2008,6,1,2,NA,NA,NA,Km2,30310
+2008,Flood,Flash flood,Thailand,7.55,100.1,2008,11,20,21,11500,NA,NA,Km2,15650
+2008,Flood,Flash flood,Thailand,6.64,101.1,2008,12,29,NA,344,NA,NA,Km2,NA
+2008,Flood,Riverine flood,"Tanzania, United Republic of",-3.38,38.17,2008,3,17,1,NA,NA,NA,Km2,NA
+2008,Flood,Flash flood,Viet Nam,12.14,107.83,2008,5,11,4,NA,NA,NA,Km2,5300
+2008,Flood,Riverine flood,Viet Nam,18.89,107.06,2008,12,25,9,NA,NA,NA,Km2,29580
+2009,Earthquake,Ground movement,Italy,42.334,13.334,2009,4,6,295,2500000,NA,"Slide (land, mud, snow, rock)",Richter,6
+2009,Flood,Riverine flood,Solomon Islands,-8.14,-158.66,2009,1,29,21,NA,NA,"Slide (land, mud, snow, rock)",Km2,118000
+2009,Flood,Riverine flood,Tajikistan,38.51,71.29,2009,4,21,21,1000,NA,"Slide (land, mud, snow, rock)",Km2,62470
+2009,Flood,Riverine flood,Morocco,32.65,-6.16,2009,2,1,24,NA,NA,Rain,Km2,188200
+2009,Storm,Tropical cyclone,Madagascar,-17.69,46.42,2009,1,19,12,NA,Cyclones Eric and Fanele,Flood,Kph,210
+2009,Flood,Riverine flood,Romania,47.61,24.93,2009,1,23,11,NA,NA,NA,Km2,19410
+2009,Flood,Riverine flood,United States of America (the),48.25,-97.03,2009,3,24,2,166000,NA,NA,Km2,39740
+2007,Flood,Riverine flood,Congo (the Democratic Republic of the),-4.37,15.38,2007,10,25,32,NA,NA,"Slide (land, mud, snow, rock)",Km2,1950
+2007,Flood,Riverine flood,Zimbabwe,-16.66,31.24,2007,12,13,3,NA,NA,Rain,Km2,13370
+2007,Flood,Riverine flood,Zambia,-15.94,27.77,2007,12,30,10,NA,NA,NA,Km2,2180
+2007,Flood,Riverine flood,Zimbabwe,-20.78,31.24,2007,12,19,24,NA,NA,NA,Km2,53810
+2008,Flood,Riverine flood,South Africa,-29.67,31.09,2008,6,19,11,1264,NA,NA,Km2,25970
+2008,Earthquake,Ground movement,Congo (the Democratic Republic of the),-2.296,28.9,2008,2,3,11,7000,NA,NA,Richter,6
+2008,Flood,Riverine flood,South Sudan,9.24,29.66,2008,10,3,17,NA,NA,NA,Km2,81580
+2009,Earthquake,Ground movement,Indonesia,-8.207,118.631,2009,9,30,1195,2200000,NA,"Slide (land, mud, snow, rock)",Richter,7
+2009,Landslide,Mudslide,Brazil,-22.98,-44.07,2009,12,31,74,145000,NA,Flood,NA,55640
+2009,Flood,Riverine flood,Bangladesh,25.26,89.09,2009,7,3,6,NA,NA,"Slide (land, mud, snow, rock)",Km2,49030
+2009,Flood,Riverine flood,Brazil,-22.54,-43.12,2009,11,12,3,NA,NA,"Slide (land, mud, snow, rock)",Km2,47900
+2009,Flood,Riverine flood,China,25.31,112.71,2009,7,1,90,1000000,NA,"Slide (land, mud, snow, rock)",Km2,542100
+2009,Flood,Riverine flood,China,26.62,105.15,2009,8,28,12,NA,NA,"Slide (land, mud, snow, rock)",Km2,81300
+2009,Flood,Riverine flood,China,30.86,101.18,2009,7,26,20,33000,NA,"Slide (land, mud, snow, rock)",Km2,201100
+2009,Earthquake,Ground movement,Indonesia,-7.782,107.297,2009,9,2,128,160000,NA,"Slide (land, mud, snow, rock)",Richter,7
+2009,Flood,Riverine flood,India,11.47,77.85,2009,11,3,70,64000,NA,"Slide (land, mud, snow, rock)",Km2,35730
+2009,Earthquake,Tsunami,American Samoa,-15.489,-172.095,2009,9,29,34,NA,NA,Tsunami/Tidal wave,Richter,8
+2009,Flood,Riverine flood,Ghana,5.73,-0.1,2009,6,6,16,NA,NA,Rain,Km2,9340
+2009,Flood,Riverine flood,South Africa,-29.41,30.82,2009,2,28,3,NA,NA,NA,Km2,NA
+2009,Flood,Riverine flood,Zambia,-18.76,24.23,2009,2,27,31,NA,NA,NA,Km2,NA
+2009,Flood,Riverine flood,Argentina,-32.99,-59.05,2009,11,14,7,NA,NA,NA,Km2,415000
+2009,Flood,Riverine flood,Brazil,56.4778,31.26,2009,11,21,11,50000,NA,NA,Km2,NA
+2009,Earthquake,Ground movement,Bhutan,-15.489,-172.095,2009,9,21,11,NA,NA,NA,Richter,8
+2009,Earthquake,Ground movement,China,25.632,101.095,2009,7,9,1,315000,NA,NA,Richter,6
+2009,Flood,Riverine flood,China,26.85,110.28,2009,6,19,11,59000,NA,NA,Km2,82900
+2009,Flood,Riverine flood,United Kingdom of Great Britain and Northern Ireland (the),54,-1.66,2009,11,19,3,484000,NA,NA,Km2,106600
+2009,Flood,Riverine flood,Ghana,8.85,-0.99,2009,9,17,24,NA,NA,NA,Km2,73810
+2009,Earthquake,Ground movement,Indonesia,-0.72,99.867,2009,11,8,2,2430,NA,NA,Richter,8
+2009,Flood,Riverine flood,India,15.71,78.23,2009,9,25,355,2150000,NA,NA,Km2,309700
+2010,Earthquake,Ground movement,Afghanistan,35.633,67.658,2010,4,18,11,NA,NA,"Slide (land, mud, snow, rock)",Richter,6
+2010,Flood,Riverine flood,Afghanistan,35.21,68.85,2010,7,27,65,NA,NA,"Slide (land, mud, snow, rock)",Km2,176799
+2010,Flood,Riverine flood,Belgium,50.85,4.35,2010,11,11,3,238146,NA,"Slide (land, mud, snow, rock)",Km2,8458
+2010,Flood,Riverine flood,Brazil,-22.44,-43.33,2010,4,4,256,200000,NA,"Slide (land, mud, snow, rock)",Km2,NA
+2010,Earthquake,Ground movement,China,25.558,105.804,2010,1,17,8,NA,NA,"Slide (land, mud, snow, rock)",Richter,4
+2010,Flood,Riverine flood,Costa Rica,9.074,-83.31,2010,11,1,24,NA,NA,"Slide (land, mud, snow, rock)",Km2,NA
+2010,Flood,Flash flood,France,43.5,6.6,2010,6,15,25,1500000,NA,"Slide (land, mud, snow, rock)",Km2,7700
+2010,Flood,Riverine flood,Haiti,18.42,73.77,2010,2,18,27,NA,NA,"Slide (land, mud, snow, rock)",Km2,3836
+2010,Earthquake,Ground movement,Indonesia,-2.174,136.543,2010,6,16,17,NA,NA,"Slide (land, mud, snow, rock)",Richter,7
+2010,Flood,Flash flood,Indonesia,-1.22,132.81,2010,10,2,291,78000,NA,"Slide (land, mud, snow, rock)",Km2,NA
+2010,Flood,Riverine flood,Indonesia,-2.14,114.97,2010,7,23,21,NA,NA,"Slide (land, mud, snow, rock)",Km2,106460
+2010,Flood,Flash flood,India,33.53,76.12,2010,8,6,196,NA,NA,"Slide (land, mud, snow, rock)",Km2,145000
+2010,Flood,Riverine flood,India,26.73,82.84,2010,9,18,200,1680000,NA,"Slide (land, mud, snow, rock)",Km2,38537
+2010,Earthquake,Tsunami,Chile,-36.122,-72.898,2010,2,27,562,30000000,NA,Tsunami/Tidal wave,Richter,9
+2010,Earthquake,Tsunami,Indonesia,-3.487,100.082,2010,10,25,530,NA,NA,Tsunami/Tidal wave,Richter,8
+2010,Flood,Riverine flood,Burkina Faso,12.94,-1.39,2010,7,21,16,176,NA,Broken Dam/Burst bank,Km2,160800
+2010,Flood,Riverine flood,Spain,37.811,-5.87,2010,12,6,2,NA,NA,Rain,Km2,22049
+2010,Storm,Tropical cyclone,Haiti,20.48,-75.88,2010,11,4,21,NA,Hurricane Tomas,Flood,Kph,130
+2010,Flood,Riverine flood,Afghanistan,34.38,62.25,2010,5,5,70,NA,NA,NA,Km2,65810
+2010,Flood,Riverine flood,Angola,-16.11,17.25,2010,3,1,7,NA,NA,NA,Km2,274100
+2010,Flood,Riverine flood,Australia,-26.21,147.95,2010,2,28,NA,109000,NA,NA,Km2,431681
+2010,Flood,Riverine flood,Australia,-24.77,147.63,2010,12,25,35,7300000,NA,NA,Km2,911256
+2010,Flood,Riverine flood,Bangladesh,24.21,91.03,2010,10,1,15,NA,NA,NA,Km2,29265
+2010,Flood,Riverine flood,Bolivia (Plurinational State of),-17.83,-63.6,2010,1,1,26,NA,NA,NA,Km2,102200
+2010,Earthquake,Ground movement,China,30.268,105.668,2010,1,30,1,4400,NA,NA,Richter,5
+2010,Earthquake,Ground movement,China,33.165,96.548,2010,4,14,2968,500000,NA,NA,Richter,7
+2010,Flood,Riverine flood,Colombia,4.113,-72.96,2010,4,6,418,1000000,NA,NA,Km2,1140146
+2010,Flood,Flash flood,Dominican Republic (the),19.63,-70.56,2010,2,14,1,NA,NA,NA,Km2,2791
+2010,Flood,Riverine flood,Dominican Republic (the),19.25,-70.39,2010,7,15,6,NA,NA,NA,Km2,15730
+2010,Flood,Riverine flood,Egypt,28.08,31.09,2010,1,18,12,NA,NA,NA,Km2,226100
+2010,Flood,Riverine flood,Greece,40.106,21.46,2010,11,29,1,NA,NA,NA,Km2,27315
+2010,Earthquake,Ground movement,Haiti,18.443,-72.571,2010,1,12,222570,8000000,NA,NA,Richter,7
+2010,Volcanic activity,Ash fall,Indonesia,3.17,98.392,2010,8,29,1,NA,Mt. Sinabung,NA,NA,NA
+2010,Flood,Flash flood,Indonesia,-8.672,121.6,2010,11,2,16,NA,NA,NA,Km2,23685
+2010,Flood,Riverine flood,India,30.18,74.77,2010,7,5,53,447000,NA,NA,Km2,147437
+2010,Flood,Riverine flood,India,15.22,79.48,2010,5,18,27,NA,NA,NA,Km2,63170
+2010,Flood,Riverine flood,India,9.88,78.47,2010,11,15,203,22000,NA,NA,Km2,57474
+2010,Earthquake,Ground movement,Iran (Islamic Republic of),27.022,53.861,2010,7,20,1,NA,NA,NA,Richter,6
+2010,Earthquake,Ground movement,Iran (Islamic Republic of),28.412,59.18,2010,12,20,7,NA,NA,NA,Richter,7
+2010,Earthquake,Ground movement,Iran (Islamic Republic of),35.49,54.47,2010,8,27,3,NA,NA,NA,Richter,6
+2011,Flood,Riverine flood,Bolivia (Plurinational State of),-16.4659,-65.6,2011,2,14,52,20000,NA,"Slide (land, mud, snow, rock)",Km2,122139
+2011,Flood,Riverine flood,Brazil,-23.783,-48.16,2011,3,12,10,NA,NA,"Slide (land, mud, snow, rock)",Km2,12444
+2011,Flood,Riverine flood,Brazil,-28.28,-52.91,2011,4,21,12,NA,NA,"Slide (land, mud, snow, rock)",Km2,306993
+2011,Flood,Riverine flood,Brazil,-8.65047,-38.11,2011,7,15,15,NA,NA,"Slide (land, mud, snow, rock)",Km2,200669
+2011,Flood,Riverine flood,China,27.0633,108.11,2011,7,11,6,54130,NA,"Slide (land, mud, snow, rock)",Km2,1341347
+2011,Flood,Riverine flood,China,27.89,14.47,2011,6,1,467,6400000,NA,"Slide (land, mud, snow, rock)",Km2,431896
+2011,Flood,Riverine flood,Colombia,5.69,-74.15,2011,4,NA,138,1030000,NA,"Slide (land, mud, snow, rock)",Km2,236086
+2011,Earthquake,Ground movement,India,27.73,88.155,2011,9,18,112,NA,NA,"Slide (land, mud, snow, rock)",Richter,7
+2011,Earthquake,Tsunami,Indonesia,38.297,142.373,2011,3,11,1,NA,NA,Tsunami/Tidal wave,Richter,9
+2011,Flood,Riverine flood,Afghanistan,35.0754,63.99,2011,2,10,25,NA,NA,NA,Km2,63337
+2011,Volcanic activity,Ash fall,Argentina,-40.59,-72.12,2011,6,4,NA,104000,"Volcano ""Puyehue""",NA,NA,NA
+2011,Flood,Flash flood,Bangladesh,22.564,89.05,2011,7,21,10,NA,NA,NA,Km2,19191
+2011,Earthquake,Ground movement,Bhutan,27.73,88.155,2011,9,18,1,NA,NA,NA,Richter,7
+2011,Earthquake,Ground movement,China,24.727,97.957,2011,3,10,25,290000,NA,NA,Richter,6
+2011,Earthquake,Ground movement,China,27.73,88.155,2011,9,18,7,NA,NA,NA,Richter,7
+2011,Flood,Riverine flood,Dominican Republic (the),18.59,-71.99,2011,6,NA,4,NA,NA,NA,Km2,1115
+2011,Earthquake,Ground movement,Spain,37.699,-1.672,2011,5,11,10,200000,NA,NA,Richter,5
+2011,Flood,Riverine flood,Ghana,7.8439,-0.45,2011,7,22,6,NA,NA,NA,Km2,55103
+2011,Flood,Riverine flood,Indonesia,4.211,97.09,2011,3,10,21,NA,NA,NA,Km2,41506
+2011,Flood,Riverine flood,India,22.306,88.34,2011,8,10,47,275000,NA,NA,Km2,28684
+2009,Earthquake,Tsunami,Japan,34.743,138.264,2009,8,10,1,400000,NA,Tsunami/Tidal wave,Richter,6
+2009,Storm,Tropical cyclone,Philippines (the),17.57,121.42,2009,9,29,512,585379,"Typhoon ""Pepeng"" (Parma)",Flood,Kph,145
+2009,Storm,Tropical cyclone,El Salvador,13.77,-89,2009,11,7,275,939000,"Hurricane ""Ida""",Flood,Kph,NA
+2009,Flood,Riverine flood,Italy,38.11,15.73,2009,10,1,35,20000,NA,"Slide (land, mud, snow, rock)",Km2,1227
+2009,Flood,Riverine flood,Nepal,29.81,80.76,2009,10,4,87,60000,NA,"Slide (land, mud, snow, rock)",Km2,129700
+2009,Flood,Riverine flood,Nepal,28,85.71,2009,7,26,30,NA,NA,"Slide (land, mud, snow, rock)",Km2,NA
+2009,Flood,Riverine flood,Peru,-12.99,-72.94,2009,12,NA,158,NA,NA,"Slide (land, mud, snow, rock)",Km2,135300
+2009,Flood,Riverine flood,Sierra Leone,8.57,-12.73,2009,8,13,103,NA,NA,"Slide (land, mud, snow, rock)",Km2,NA
+2009,Flood,Riverine flood,Turkey,41,40.04,2009,7,10,7,NA,NA,"Slide (land, mud, snow, rock)",Km2,26430
+2009,Landslide,Landslide,Turkey,40.83,40.41,2009,11,21,4,NA,NA,"Slide (land, mud, snow, rock)",NA,15630
+2009,Flood,Riverine flood,"Tanzania, United Republic of",-6.77,35.89,2009,11,10,20,NA,NA,"Slide (land, mud, snow, rock)",Km2,194800
+2009,Earthquake,Tsunami,Tonga,-15.489,-172.095,2009,9,29,9,9500,NA,Tsunami/Tidal wave,Richter,8
+2009,Flood,Riverine flood,Lao People's Democratic Republic (the),17.83,104.79,2009,8,10,10,NA,NA,NA,Km2,24950
+2009,Flood,Flash flood,Sri Lanka,8.02,81.27,2009,12,14,3,NA,NA,NA,Km2,15650
+2009,Flood,Flash flood,Morocco,31.81,-6.78,2009,12,25,5,NA,NA,NA,Km2,157500
+2009,Flood,Riverine flood,Mexico,19.5,-99.25,2009,9,1,4,NA,NA,NA,Km2,34560
+2009,Flood,Riverine flood,Mexico,16.45,-96.97,2009,7,14,11,NA,NA,NA,Km2,51610
+2009,Earthquake,Ground movement,Malawi,-9.948,33.878,2009,12,8,1,NA,NA,NA,Richter,6
+2009,Earthquake,Ground movement,Malawi,-10.108,33.818,2009,12,20,3,NA,NA,NA,Richter,6
+2009,Flood,Flash flood,Pakistan,33.92,72.25,2009,8,15,36,NA,NA,NA,Km2,30560
+2009,Flood,Riverine flood,Pakistan,24.99,67.19,2009,7,17,52,NA,NA,NA,Km2,10370
+2009,Earthquake,Ground movement,Philippines (the),6.513,124.715,2009,9,18,NA,90,NA,NA,Richter,6
+2009,Flood,Riverine flood,Paraguay,-25.1,-56.27,2009,9,22,NA,820,NA,NA,Km2,163300
+2009,Flood,Riverine flood,Saudi Arabia,40.23,21.24,2009,11,24,161,900000,NA,NA,Km2,114600
+2009,Flood,Riverine flood,Sudan (the),27.01,15.98,2009,8,16,20,NA,NA,NA,Km2,59850
+2009,Flood,Riverine flood,Senegal,15.58,-16.81,2009,8,24,6,NA,NA,NA,Km2,8511
+2009,Flood,Riverine flood,Thailand,18.48,-91.05,2009,11,7,15,NA,NA,NA,Km2,35580
+2009,Flood,Flash flood,Turkey,41.09,38.95,2009,9,7,40,550000,NA,NA,Km2,3167
+2009,Flood,Riverine flood,"Tanzania, United Republic of",-6.8,36.02,2009,12,25,18,NA,NA,NA,Km2,167300
+2009,Flood,Riverine flood,Uruguay,-31.26,-56.48,2009,11,21,1,NA,NA,NA,Km2,43490
+2009,Flood,Riverine flood,Viet Nam,20.67,104.3,2009,7,3,20,NA,NA,NA,Km2,69860
+2009,Flood,Riverine flood,Viet Nam,15.19,108.02,2009,9,25,17,NA,NA,NA,Km2,47600
+2010,Storm,Tropical cyclone,Jamaica,18.19,-77.29,2010,9,29,15,150000,Tropical storm Nicole,Flood,Kph,65
+2010,Flood,Riverine flood,Portugal,32.76,-16.97,2010,2,20,43,1350000,NA,"Slide (land, mud, snow, rock)",Km2,483
+2010,Flood,Riverine flood,Mexico,19.94,-99,2010,1,26,41,16000,NA,"Slide (land, mud, snow, rock)",Km2,122621
+2010,Flood,Riverine flood,Kenya,0.01,34.5,2010,3,1,94,NA,NA,"Slide (land, mud, snow, rock)",Km2,40320
+2010,Flood,Riverine flood,Nepal,28.35,84.78,2010,7,25,12,NA,NA,"Slide (land, mud, snow, rock)",Km2,132600
+2010,Flood,Riverine flood,Panama,8.88,-78.59,2010,12,8,13,NA,NA,"Slide (land, mud, snow, rock)",Km2,23750
+2010,Flood,Flash flood,Philippines (the),8.132,125.57,2010,12,24,110,47411,NA,"Slide (land, mud, snow, rock)",Km2,10773
+2010,Flood,Riverine flood,Philippines (the),17.71,121.8,2010,11,1,16,NA,NA,"Slide (land, mud, snow, rock)",Km2,15301
+2010,Flood,Riverine flood,Venezuela (Bolivarian Republic of),9.77,-66.93,2010,11,25,41,170000,NA,"Slide (land, mud, snow, rock)",Km2,180760
+2010,Flood,Flash flood,Kazakhstan,45.08,79.21,2010,2,NA,44,34576,NA,Broken Dam/Burst bank,Km2,323800
+2010,Flood,Riverine flood,Nigeria,12.78,4.5,2010,9,13,40,30000,NA,Broken Dam/Burst bank,Km2,8694
+2010,Storm,Tropical cyclone,Philippines (the),17.1,121.47,2010,7,12,146,8675,Typhoon Conson (Basyang),Flood,Kph,120
+2010,Storm,Tropical cyclone,Taiwan (Province of China),22.429,120.7,2010,9,18,2,63100,Typhoon Fanapi,Flood,Kph,220
+2010,Storm,Convective storm,United States of America (the),36.07,-87.28,2010,4,30,30,2350000,NA,Flood,Kph,320
+2010,Storm,Tropical cyclone,United States of America (the),28.89,-97.06,2010,9,7,8,NA,Tropical storm Hermine,Flood,Kph,NA
+2010,Flood,Flash flood,Morocco,9.77,-66.93,2010,11,25,32,29000,NA,Transport accident,Km2,180760
+2010,Flood,Riverine flood,Kenya,1.5,36,2010,5,8,100,NA,NA,NA,Km2,196100
+2010,Flood,Riverine flood,Liberia,6.01,-7.2,2010,6,25,1,NA,NA,NA,Km2,NA
+2010,Flood,Flash flood,Sri Lanka,7.275,80.3,2010,11,10,7,NA,NA,NA,Km2,11880
+2010,Flood,Riverine flood,Sri Lanka,6.83,80.59,2010,5,14,28,105000,NA,NA,Km2,19210
+2010,Flood,Riverine flood,Moldova (the Republic of),46.82,27.97,2010,7,5,1,NA,NA,NA,Km2,12210
+2010,Earthquake,Ground movement,Mexico,32.2861667,-115.2953333,2010,4,4,2,1150000,NA,NA,Richter,7
+2010,Flood,Riverine flood,Mozambique,-19.96,34.25,2010,2,22,5,NA,NA,NA,Km2,26370
+2010,Flood,Riverine flood,Namibia,-18.69,23.23,2010,3,24,8,NA,NA,NA,Km2,64630
+2010,Flood,Riverine flood,Niger (the),13.6,14,2010,8,1,3,NA,NA,NA,Km2,619100
+2010,Earthquake,Ground movement,New Zealand,-43.522,171.83,2010,9,4,NA,6500000,NA,NA,Richter,7
+2010,Flood,Flash flood,Pakistan,30.51,66.95,2010,7,21,60,NA,NA,NA,Km2,14180
+2010,Flood,Riverine flood,Pakistan,36.03,72.08,2010,6,22,46,NA,NA,NA,Km2,9326
+2010,Flood,Riverine flood,Peru,-4.68,-78.29,2010,2,10,20,NA,NA,NA,Km2,305800
+2010,Flood,Riverine flood,Philippines (the),6.78,125.3,2010,5,28,27,NA,NA,NA,Km2,22340
+2010,Flood,Riverine flood,Saudi Arabia,21.51,41.92,2010,7,23,14,NA,NA,NA,Km2,346200
+2010,Flood,Riverine flood,Saudi Arabia,20.61,41.17,2010,7,10,10,NA,NA,NA,Km2,56000
+2010,Flood,Riverine flood,Sudan (the),18.7,36.7,2010,7,10,33,NA,NA,NA,Km2,100400
+2010,Flood,Riverine flood,Chad,11.385,14.63,2010,8,15,24,NA,NA,NA,Km2,38021
+2010,Flood,Riverine flood,Thailand,15.03,102.2,2010,10,10,258,332000,NA,NA,Km2,3873
+2010,Earthquake,Ground movement,Tajikistan,38.245,71.467,2010,1,2,NA,1500,NA,NA,Richter,5
+2010,Earthquake,Ground movement,Turkey,38.864,39.986,2010,3,8,51,NA,NA,NA,Richter,6
+2010,Earthquake,Ground movement,Taiwan (Province of China),22.918,120.795,2010,3,4,NA,1000000,NA,NA,Richter,6
+2010,Flood,Riverine flood,Ukraine,48.59,24.79,2010,6,27,6,1900,NA,NA,Km2,34500
+2010,Earthquake,Ground movement,United States of America (the),40.652,-124.6925,2010,1,10,NA,12500,NA,NA,Richter,7
+2010,Flood,Riverine flood,United States of America (the),34.58,-95.1,2010,6,10,20,NA,NA,NA,Km2,NA
+2010,Flood,Riverine flood,Viet Nam,12.52,108.9,2010,10,29,31,107700,NA,NA,Km2,33659
+2010,Flood,Riverine flood,Viet Nam,15.1821,108.8,2010,11,12,50,256000,NA,NA,Km2,45584
+2011,Flood,Riverine flood,Philippines (the),125.091,259.63,2011,3,14,16,280,NA,"Slide (land, mud, snow, rock)",Km2,25963
+2011,Storm,Tropical cyclone,Mexico,22.11,-98.75,2011,6,30,22,70000,"Tropical Storm ""Arlene""","Slide (land, mud, snow, rock)",Kph,NA
+2011,Earthquake,Tsunami,Japan,38.297,142.373,2011,3,11,19846,210000000,NA,Fire,Richter,9
+2011,Flood,Riverine flood,Sri Lanka,7.60326,81.25,2011,1,5,47,200000,NA,"Slide (land, mud, snow, rock)",Km2,22133
+2011,Flood,Riverine flood,Philippines (the),9.40044,125.78,2011,1,25,23,12411,NA,"Slide (land, mud, snow, rock)",Km2,3623
+2011,Flood,Riverine flood,Philippines (the),8.306,125.21,2011,5,31,12,10666,NA,"Slide (land, mud, snow, rock)",Km2,71700
+2011,Flood,Flash flood,Thailand,8.666,99.28,2011,3,23,64,317000,NA,"Slide (land, mud, snow, rock)",Km2,33575
+2011,Flood,Riverine flood,Thailand,17.038,102.82,2011,8,5,813,40000000,NA,"Slide (land, mud, snow, rock)",Km2,96785
+2011,Storm,Tropical cyclone,United States of America (the),40.186,-70.06,2011,8,27,46,7300000,Hurricane Irene,Flood,Kph,252912
+2011,Earthquake,Ground movement,Japan,38.276,141.588,2011,4,7,2,NA,NA,NA,Richter,7
+2011,Flood,Riverine flood,Kazakhstan,51.448,53.67,2011,4,9,2,67000,NA,NA,Km2,213195
+2011,Flood,Riverine flood,Lao People's Democratic Republic (the),19.3801,101.56,2011,6,23,14,NA,NA,NA,Km2,36797
+2011,Flood,Riverine flood,Sri Lanka,8.513,80.53,2011,2,1,18,300000,NA,NA,Km2,19891
+2011,Flood,Riverine flood,Lesotho,-29.5025,28.08,2011,2,1,26,NA,NA,NA,Km2,19634
+2011,Earthquake,Ground movement,Myanmar,20.687,99.822,2011,3,24,74,3600,NA,NA,Richter,7
+2011,Flood,Riverine flood,Malaysia,-4.05208,104.67,2011,1,28,2,NA,NA,NA,Km2,62167
+2011,Flood,Riverine flood,Namibia,-18.188,20.64,2011,3,1,108,12000,NA,NA,Km2,102874
+2011,Flood,Riverine flood,Nigeria,12.5947,8.64,2011,7,15,20,NA,NA,NA,Km2,103000
+2011,Flood,Riverine flood,Nigeria,8.7372,4.47,2011,8,26,120,NA,NA,NA,Km2,20013
+2011,Earthquake,Ground movement,Nepal,27.73,88.155,2011,9,18,7,NA,NA,NA,Richter,7
+2011,Flood,Riverine flood,Nepal,28.9081,82.28,2011,7,2,15,NA,NA,NA,Km2,46388
+2011,Earthquake,Ground movement,New Zealand,-43.583,172.68,2011,2,22,181,15000000,NA,NA,Richter,6
+2011,Earthquake,Ground movement,Pakistan,28.777,63.951,2011,1,18,2,NA,NA,NA,Richter,7
+2011,Flood,Riverine flood,Pakistan,25.012,69.07,2011,8,12,509,2500000,NA,NA,Km2,32667
+2011,Flood,Flash flood,Philippines (the),7.39811,126.05,2011,6,28,31,251,NA,NA,Km2,6361
+2011,Flood,Riverine flood,Philippines (the),124.865,7.1,2011,2,1,11,NA,NA,NA,Km2,44521
+2011,Flood,Riverine flood,Saudi Arabia,21.3521,39.94,2011,1,25,11,300000,NA,NA,Km2,30361
+2011,Earthquake,Ground movement,Thailand,20.687,99.822,2011,3,24,1,NA,NA,NA,Richter,7
+2011,Earthquake,Ground movement,Turkey,39.149,29.103,2011,5,19,3,244000,NA,NA,Richter,6
+2011,Flood,Riverine flood,United States of America (the),34.1,-90.83,2011,5,1,1,NA,NA,NA,Km2,239421
+2011,Earthquake,Ground movement,Uzbekistan,40.081,71.41,2011,7,19,13,NA,NA,NA,Richter,6
+2009,Earthquake,Tsunami,Samoa,-15.489,-172.095,2009,9,29,148,124040,NA,Tsunami/Tidal wave,Richter,8
+2009,Flood,Riverine flood,South Africa,-33.07,18.92,2009,7,12,11,NA,NA,NA,Km2,32700
+2010,Flood,Riverine flood,Yemen,16.73,47.92,2010,7,10,15,NA,NA,"Slide (land, mud, snow, rock)",Km2,176300
+2010,Storm,Tropical cyclone,Viet Nam,22.11,105.95,2010,7,23,10,NA,Typhoon Chanthu,"Slide (land, mud, snow, rock)",Kph,NA
+2010,Flood,Riverine flood,Yemen,14.03,44.31,2010,5,5,7,NA,NA,NA,Km2,38890
+2010,Earthquake,Ground movement,Serbia,43.76,20.73,2010,11,3,2,132260,NA,NA,Richter,6
+2011,Flood,Riverine flood,Colombia,4.64,-73.94,2011,9,1,135,1290000,NA,"Slide (land, mud, snow, rock)",Km2,57194
+2011,Volcanic activity,Ash fall,Indonesia,0.8,127.33,2011,12,4,3,NA,Mt. Gamalama,Flood,NA,NA
+2011,Flood,Riverine flood,South Africa,-31.055,28.41,2011,1,1,40,211000,NA,NA,Km2,124636
+2011,Flood,Riverine flood,Brazil,-30.34,-52.64,2011,7,23,3,NA,NA,NA,Km2,129795
+2011,Earthquake,Ground movement,China,43.648,82.437,2011,11,1,NA,56400,NA,NA,Richter,6
+2011,Flood,Riverine flood,China,37.417,109.53,2011,8,1,22,NA,NA,NA,Km2,1215862
+2011,Flood,Riverine flood,Algeria,29.565,1.7,2011,10,1,10,779000,NA,NA,Km2,288785
+2011,Flood,Riverine flood,Ghana,5.5847,-0.95,2011,10,26,14,NA,NA,NA,Km2,9829
+2011,Earthquake,Ground movement,Guatemala,14.186,-90.238,2011,9,19,3,NA,NA,NA,Richter,6
+2011,Earthquake,Ground movement,Indonesia,2.965,97.893,2011,9,5,10,5850,NA,NA,Richter,7
+2011,Flood,Riverine flood,Indonesia,-4.39,137.83,2011,4,1,18,NA,NA,NA,Km2,17351
+2011,Flood,Riverine flood,Indonesia,-7.379,110.24,2011,12,18,10,NA,NA,NA,Km2,2457
+2011,Flood,Riverine flood,India,20.651,86,2011,9,23,239,930000,NA,NA,Km2,27751
+2011,Flood,Riverine flood,India,26.59,92.18,2011,8,15,7,NA,NA,NA,Km2,50117
+2011,Flood,Riverine flood,India,26.376,86.24,2011,8,15,204,NA,NA,NA,Km2,40941
+2011,Flood,Riverine flood,India,28.524,80.93,2011,7,23,19,NA,NA,NA,Km2,85509
+2012,Earthquake,Ground movement,Afghanistan,36.023,69.351,2012,6,11,73,NA,NA,"Slide (land, mud, snow, rock)",Richter,6
+2012,Flood,Riverine flood,Bangladesh,22.1723,92.1,2012,6,24,139,NA,NA,"Slide (land, mud, snow, rock)",Km2,9560
+2012,Flood,Riverine flood,China,33.4553,106.94,2012,6,22,91,1200000,NA,"Slide (land, mud, snow, rock)",Km2,2643786
+2012,Flood,Riverine flood,Ecuador,-0.5987,-79.5,2012,1,1,29,NA,NA,"Slide (land, mud, snow, rock)",Km2,39793
+2012,Flood,Riverine flood,Fiji,-17.784,178.08,2012,1,22,10,17000,NA,"Slide (land, mud, snow, rock)",Km2,NA
+2012,Flood,Flash flood,Georgia,42.0681,44.52,2012,5,12,5,3000,NA,"Slide (land, mud, snow, rock)",Km2,15849
+2012,Flood,Riverine flood,Haiti,19.4433,-72.58,2012,4,8,9,NA,NA,"Slide (land, mud, snow, rock)",Km2,35152
+2012,Flood,Riverine flood,India,26.5659,92.44,2012,6,26,120,NA,NA,"Slide (land, mud, snow, rock)",Km2,254935
+2012,Flood,Riverine flood,India,30.1135,78.85,2012,8,4,30,110000,NA,"Slide (land, mud, snow, rock)",Km2,31390
+2012,Flood,Riverine flood,India,31.3,76.85,2012,9,16,45,20000,NA,"Slide (land, mud, snow, rock)",Km2,37710
+2012,Flood,Riverine flood,India,26.8,93.63,2012,9,19,21,98000,NA,"Slide (land, mud, snow, rock)",Km2,42597
+2012,Flood,Riverine flood,Bulgaria,42.555,24.26,2012,2,1,5,4400,NA,Broken Dam/Burst bank,Km2,47137
+2012,Flood,Riverine flood,Afghanistan,34.2696,64.19,2012,5,18,74,NA,NA,NA,Km2,21754
+2012,Flood,Riverine flood,Afghanistan,37.0528,70,2012,5,12,20,NA,NA,NA,Km2,14162
+2012,Flood,Riverine flood,Argentina,-27.5,-59.63,2012,11,20,6,NA,NA,NA,Km2,377212
+2012,Flood,Riverine flood,Australia,-21.71,146.64,2012,1,22,2,225000,NA,NA,Km2,761154
+2012,Flood,Riverine flood,Brazil,-10.4897,-67.99,2012,2,20,3,NA,NA,NA,Km2,172063
+2012,Flood,Riverine flood,Canada,46.5994,-67.5,2012,3,25,NA,34000,NA,NA,Km2,544053
+2012,Earthquake,Ground movement,Chile,-35.2,-72.217,2012,3,25,1,100000,NA,NA,Richter,7
+2012,Flood,Riverine flood,Chile,-52.8256,-69.41,2012,3,1,NA,3100,Heavy rains,NA,Km2,88871
+2012,Earthquake,Ground movement,China,27.767,100.781,2012,6,24,4,300000,NA,NA,Richter,6
+2012,Earthquake,Ground movement,China,43.433,84.7,2012,6,29,NA,68000,NA,NA,Richter,6
+2012,Earthquake,Ground movement,China,27.575,103.983,2012,9,7,81,1000000,NA,NA,Richter,6
+2012,Earthquake,Ground movement,China,32.978,119.593,2012,7,20,1,NA,NA,NA,Richter,5
+2012,Earthquake,Ground movement,China,38.745,88.098,2012,12,7,NA,96000,NA,NA,Richter,5
+2012,Earthquake,Ground movement,China,39.383,81.307,2012,3,9,NA,84000,NA,NA,Richter,6
+2012,Flood,Riverine flood,China,92.4515,106.49,2012,5,8,53,316333,NA,NA,Km2,105607
+2012,Flood,Riverine flood,China,31.41,113.04,2012,7,9,58,600000,NA,NA,Km2,92141
+2012,Flood,Riverine flood,Colombia,3.606,-73.07,2012,4,20,17,40000,NA,NA,Km2,74036
+2012,Earthquake,Ground movement,Costa Rica,10.085,-85.315,2012,9,5,2,45000,NA,NA,Richter,8
+2012,Flood,Riverine flood,Fiji,-17.7982,178.02,2012,3,29,5,72000,NA,NA,Km2,NA
+2012,Flood,Riverine flood,United Kingdom of Great Britain and Northern Ireland (the),54.04,-2.13,2012,9,23,3,81000,NA,NA,Km2,8507
+2012,Flood,Riverine flood,United Kingdom of Great Britain and Northern Ireland (the),53.45,-1.19,2012,11,21,4,1630000,NA,NA,Km2,NA
+2012,Flood,Riverine flood,Greece,39.8677,21.01,2012,2,3,1,NA,NA,NA,Km2,9251
+2012,Earthquake,Ground movement,Guatemala,13.988,-91.895,2012,11,7,44,210000,NA,NA,Richter,7
+2012,Storm,Tropical cyclone,Haiti,19.1356,-72.28,2012,8,25,13,NA,Hurricane Isaac,NA,Kph,NA
+2012,Earthquake,Ground movement,Indonesia,2.327,93.063,2012,4,11,7,NA,NA,NA,Richter,9
+2012,Earthquake,Ground movement,Indonesia,-1.315,120.096,2012,8,18,6,NA,NA,NA,Richter,6
+2013,Flood,Riverine flood,China,23.6387,114.46,2013,5,12,55,661000,NA,Lightening,Km2,84762
+2013,Flood,Riverine flood,Brazil,-18.9538,-41.94,2013,12,17,64,540000,NA,"Slide (land, mud, snow, rock)",Km2,NA
+2013,Earthquake,Ground movement,China,34.512,104.262,2013,7,22,95,1000000,NA,"Slide (land, mud, snow, rock)",Richter,6
+2013,Earthquake,Ground movement,China,28.2425,99.3502,2013,8,31,3,155000,NA,"Slide (land, mud, snow, rock)",Richter,6
+2013,Earthquake,Ground movement,Indonesia,4.645,96.665,2013,7,2,48,130000,NA,"Slide (land, mud, snow, rock)",Richter,6
+2013,Flood,Riverine flood,Indonesia,1.0256,124.51,2013,2,15,17,2000,NA,"Slide (land, mud, snow, rock)",Km2,28874
+2013,Flood,Riverine flood,India,32.714,76.61,2013,6,12,6054,1100000,NA,"Slide (land, mud, snow, rock)",Km2,131743
+2013,Storm,Tropical cyclone,China,22.7696,113.69,2013,8,15,88,2120000,Tropical storm Utor (Labuyo),Flood,Kph,98183
+2013,Earthquake,Ground movement,Afghanistan,34.526,70.22,2013,4,24,18,NA,NA,NA,Richter,6
+2013,Flood,Riverine flood,Afghanistan,36.9291,68.85,2013,4,25,20,NA,NA,NA,Km2,14653
+2013,Flood,Riverine flood,Argentina,-34.4809,-58.68,2013,4,1,52,1300000,NA,NA,Km2,18135
+2013,Flood,Riverine flood,Canada,51.24,-109.64,2013,6,20,4,5700000,NA,NA,Km2,307926
+2013,Earthquake,Ground movement,China,25.98,99.812,2013,3,3,NA,56000,NA,NA,Richter,5
+2013,Earthquake,Ground movement,China,30.308,102.888,2013,4,20,198,6800000,NA,NA,Richter,7
+2013,Earthquake,Ground movement,China,31.066,110.412,2013,12,16,NA,6300,NA,NA,Richter,5
+2013,Earthquake,Ground movement,China,25.953,99.782,2013,4,17,NA,38000,NA,NA,Richter,5
+2013,Flood,Riverine flood,China,30.4563,104.02,2013,7,7,233,4621600,NA,NA,Km2,419827
+2013,Flood,Riverine flood,China,35.9161,100.18,2013,8,18,43,457000,NA,NA,Km2,93532
+2013,Storm,Tropical cyclone,China,25.8633,118.14,2013,7,13,1,253000,Tropical storm Ciramon,NA,Kph,101851
+2013,Earthquake,Ground movement,Colombia,1.135,-77.393,2013,2,9,NA,4000,NA,NA,Richter,7
+2013,Flood,Riverine flood,Cuba,22.9043,-81.4,2013,12,1,2,NA,NA,NA,Km2,7627
+2013,Flood,Riverine flood,Germany,49.1358,12.11,2013,5,28,4,12900000,NA,NA,Km2,241204
+2013,Flood,Riverine flood,United Kingdom of Great Britain and Northern Ireland (the),53.2732,-1.51,2013,12,27,2,1500000,NA,NA,Km2,126150
+2013,Earthquake,Ground movement,Guatemala,14.6056,-92.1207,2013,9,7,1,2000,NA,NA,Richter,6
+2013,Earthquake,Ground movement,Indonesia,4.927,95.907,2013,1,22,1,NA,NA,NA,Richter,6
+2013,Earthquake,Ground movement,Indonesia,5.1033,95.9709,2013,10,22,1,NA,NA,NA,Richter,5
+2013,Flood,Riverine flood,Indonesia,-6.17945,106.73,2013,1,17,34,3000000,NA,NA,Km2,1746
+2013,Flood,Riverine flood,Indonesia,-0.86702,121.88,2013,1,3,8,NA,NA,NA,Km2,67600
+2013,Flood,Riverine flood,Indonesia,4.48013,97.29,2013,12,28,NA,2000,NA,NA,Km2,22525
+2013,Earthquake,Ground movement,India,33.061,75.863,2013,5,1,3,120000,NA,NA,Richter,6
+2014,Landslide,Landslide,Bolivia (Plurinational State of),-13.3888,-64.01,2014,1,1,74,200000,NA,NA,NA,NA
+2014,Flood,Riverine flood,France,43.9958,7.1,2014,1,19,4,NA,NA,NA,Km2,82989
+2014,Earthquake,Ground movement,Greece,38.2082,20.4528,2014,1,26,NA,178000,NA,NA,Richter,6
+2014,Volcanic activity,Ash fall,Indonesia,3.17,98.392,2014,2,1,32,83000,Mt. Sinabung,NA,NA,NA
+2014,Flood,Riverine flood,Indonesia,-6.6324,107.71,2014,1,8,32,600000,NA,NA,Km2,35769
+2011,Storm,Tropical cyclone,Philippines (the),8.526,124.88,2011,12,15,1439,38082,Tropical storm Washi (Sendong),Flood,Kph,NA
+2011,Flood,Flash flood,Italy,44.422,9.33,2011,10,26,10,545000,NA,"Slide (land, mud, snow, rock)",Km2,NA
+2011,Flood,Riverine flood,Korea (the Republic of),37.851,126.87,2011,7,27,53,52000,NA,"Slide (land, mud, snow, rock)",Km2,17840
+2011,Earthquake,Ground movement,New Zealand,-43.564,172.743,2011,6,13,1,3000000,NA,"Slide (land, mud, snow, rock)",Richter,6
+2011,Flood,Riverine flood,Uganda,1.664,33.67,2011,8,20,27,NA,NA,"Slide (land, mud, snow, rock)",Km2,37846
+2011,Flood,Riverine flood,Kenya,0.1257,35.57,2011,8,15,8,NA,NA,NA,Km2,20554
+2011,Flood,Riverine flood,Kenya,0.385,36.12,2011,11,29,25,NA,NA,NA,Km2,9789
+2011,Flood,Riverine flood,Cambodia,12.004,105.5,2011,8,10,247,521000,NA,NA,Km2,13466
+2011,Earthquake,Ground movement,Mexico,17.986,-99.789,2011,12,11,2,NA,NA,NA,Richter,7
+2011,Flood,Riverine flood,Niger (the),414.951,4.56,2011,8,10,7,NA,NA,NA,Km2,74520
+2011,Earthquake,Ground movement,Peru,-14.438,-75.966,2011,10,28,1,NA,NA,NA,Richter,7
+2011,Flood,Flash flood,Philippines (the),8.085,125.93,2011,11,9,NA,178881,NA,NA,Km2,3076
+2011,Earthquake,Ground movement,Turkey,38.721,43.508,2011,10,23,604,1500000,NA,NA,Richter,7
+2011,Earthquake,Ground movement,Turkey,38.429,43.229,2011,11,9,40,NA,NA,NA,Richter,6
+2011,Flood,Riverine flood,"Tanzania, United Republic of",-6.917,39.04,2011,12,20,20,NA,NA,NA,Km2,5900
+2011,Flood,Riverine flood,"Tanzania, United Republic of",-6.647,37.56,2011,4,9,8,NA,NA,NA,Km2,137262
+2012,Storm,Tropical cyclone,India,11.82,78.08,2012,11,4,40,NA,Cyclone Nilam,Flood,Kph,NA
+2012,Flood,Riverine flood,Sri Lanka,7.976,80.77,2012,12,17,53,1200,NA,"Slide (land, mud, snow, rock)",Km2,49084
+2012,Earthquake,Ground movement,Myanmar,23.005,95.885,2012,11,11,38,1170,NA,"Slide (land, mud, snow, rock)",Richter,7
+2012,Earthquake,Ground movement,Philippines (the),9.999,123.206,2012,2,6,113,8900,NA,"Slide (land, mud, snow, rock)",Richter,7
+2012,Storm,Tropical cyclone,Korea (the Democratic People's Republic of),38.19,126.24,2012,8,28,59,NA,Typhoon Bolaven,Flood,Kph,NA
+2012,Earthquake,Ground movement,Iran (Islamic Republic of),38.329,46.826,2012,8,11,306,500000,NA,NA,Richter,6
+2012,Earthquake,Ground movement,Iran (Islamic Republic of),33.506,59.571,2012,12,5,6,NA,NA,NA,Richter,6
+2012,Flood,Riverine flood,Iran (Islamic Republic of),36.53,54.26,2012,10,12,7,NA,NA,NA,Km2,11490
+2012,Earthquake,Ground movement,Italy,44.89,11.23,2012,5,20,7,15800000,NA,NA,Richter,6
+2012,Earthquake,Ground movement,Italy,44.851,11.086,2012,5,29,17,NA,NA,NA,Richter,6
+2012,Flood,Riverine flood,Italy,43.1605,12.41,2012,11,11,4,15000,NA,NA,Km2,NA
+2012,Flood,Riverine flood,Kenya,-0.191962,35.19,2012,4,20,73,100000,NA,NA,Km2,12660
+2012,Earthquake,Ground movement,Mexico,16.493,-98.231,2012,3,20,2,320000,NA,NA,Richter,7
+2012,Flood,Riverine flood,Myanmar,16.5919,97.85,2012,7,15,2,NA,NA,NA,Km2,219814
+2012,Flood,Riverine flood,Nepal,28.524,83.83,2012,5,5,72,1000,NA,NA,Km2,4395
+2012,Flood,Riverine flood,Pakistan,28.04,68.77,2012,8,NA,480,2500000,NA,NA,Km2,23036
+2012,Flood,Riverine flood,Pakistan,35.03,73.52,2012,8,23,26,NA,NA,NA,Km2,98264
+2012,Earthquake,Ground movement,Philippines (the),10.811,126.638,2012,8,31,1,3244,NA,NA,Richter,8
+2012,Flood,Flash flood,Philippines (the),6.873,124.78,2012,6,9,1,NA,NA,NA,Km2,23516
+2012,Flood,Riverine flood,Russian Federation (the),42.33,47.59,2012,10,9,7,NA,NA,NA,Km2,10482
+2012,Flood,Riverine flood,Rwanda,-1.40095,29.36,2012,4,9,5,NA,NA,NA,Km2,43618
+2012,Flood,Riverine flood,Saudi Arabia,20.5946,51.01,2012,4,14,19,NA,NA,NA,Km2,233126
+2012,Flood,Riverine flood,Senegal,14.46,-15.49,2012,8,15,19,10000,NA,NA,Km2,79242
+2012,Flood,Riverine flood,Somalia,4.94,44.89,2012,11,21,6,NA,NA,NA,Km2,12753
+2012,Earthquake,Ground movement,Tajikistan,38.612,70.354,2012,5,13,2,NA,NA,NA,Richter,6
+2012,Flood,Riverine flood,Taiwan (Province of China),24.0587,120.94,2012,6,9,6,16900,NA,NA,Km2,18940
+2012,Flood,Riverine flood,"Tanzania, United Republic of",-1.83097,34.79,2012,3,1,10,NA,NA,NA,Km2,6852
+2013,Storm,Tropical cyclone,Somalia,21.68,57.43,2013,11,8,162,2000,Cyclone 3A,Flood,Kph,NA
+2013,Flood,Riverine flood,Kenya,2.46174,36.72,2013,3,10,96,36000,NA,"Slide (land, mud, snow, rock)",Km2,73170
+2013,Flood,Riverine flood,Philippines (the),16.3191,121.14,2013,8,13,31,2190000,NA,"Slide (land, mud, snow, rock)",Km2,50412
+2013,Flood,Riverine flood,Korea (the Democratic People's Republic of),39.6151,126.32,2013,7,12,51,NA,NA,"Slide (land, mud, snow, rock)",Km2,21695
+2013,Earthquake,Tsunami,Solomon Islands,-10.799,165.114,2013,2,6,10,2000,NA,Tsunami/Tidal wave,Richter,8
+2013,Flood,NA,India,27.387,94.92,2013,6,23,80,NA,NA,NA,Km2,38019
+2013,Earthquake,Ground movement,Iran (Islamic Republic of),28.428,51.593,2013,4,9,37,600000,NA,NA,Richter,6
+2013,Earthquake,Ground movement,Iran (Islamic Republic of),29.32,51.31,2013,11,28,8,NA,NA,NA,Richter,6
+2013,Flood,Riverine flood,Italy,40.3,9.01,2013,11,18,18,780000,NA,NA,Km2,15699
+2013,Flood,Riverine flood,Kenya,0.058024,36.52,2013,1,13,18,NA,NA,NA,Km2,71113
+2013,Flood,Riverine flood,Sri Lanka,7.59777,80.92,2013,1,8,52,NA,NA,NA,Km2,26063
+2013,Flood,Riverine flood,Macedonia (the former Yugoslav Republic of),42.0408,21.58,2013,2,24,1,NA,NA,NA,Km2,3700
+2013,Flood,Riverine flood,Myanmar,18.3122,98.16,2013,7,25,7,NA,NA,NA,Km2,125251
+2013,Flood,Riverine flood,Mozambique,-24.8006,32.68,2013,1,NA,119,30000,NA,NA,Km2,83155
+2013,Flood,Flash flood,Mauritius,-20.2305,57.52,2013,3,30,11,2000,NA,NA,Km2,1680
+2013,Flood,Riverine flood,Malawi,-15.6178,35.02,2013,1,NA,3,NA,NA,NA,Km2,20096
+2013,Flood,Riverine flood,Malaysia,3.58444,102.36,2013,12,1,4,2000,NA,NA,Km2,106698
+2013,Earthquake,Ground movement,New Zealand,-41.704,174.337,2013,7,21,NA,50000,NA,NA,Richter,7
+2013,Earthquake,Ground movement,Pakistan,28.033,61.996,2013,4,16,41,NA,NA,NA,Richter,8
+2013,Earthquake,Ground movement,Pakistan,26.951,65.5009,2013,9,24,399,100000,NA,NA,Richter,8
+2013,Earthquake,Ground movement,Pakistan,27.1825,65.5052,2013,9,28,22,NA,NA,NA,Richter,7
+2013,Flood,Riverine flood,Pakistan,28.7404,69.11,2013,8,7,234,1500000,NA,NA,Km2,462763
+2013,Flood,Riverine flood,Peru,-20.3461,-69.09,2013,1,1,67,NA,NA,NA,Km2,577783
+2013,Earthquake,Ground movement,Philippines (the),9.8796,124.1167,2013,10,15,230,51459,NA,NA,Richter,7
+2013,Flood,Riverine flood,"Palestine, State of",32.83,36.45,2013,1,8,5,NA,NA,NA,Km2,29142
+2013,Flood,Riverine flood,Russian Federation (the),50.0043,128.42,2013,8,1,NA,1000000,NA,NA,Km2,102479
+2013,Flood,Riverine flood,Russian Federation (the),44.3289,39.25,2013,2,20,4,NA,NA,NA,Km2,2432
+2013,Flood,Riverine flood,Saudi Arabia,27.41,44.81,2013,11,16,15,NA,NA,NA,Km2,NA
+2013,Flood,Riverine flood,Sudan (the),13.6883,28.99,2013,8,1,76,7000,NA,NA,Km2,645400
+2013,Flood,Riverine flood,Somalia,2.16964,43.66,2013,5,1,7,NA,NA,NA,Km2,243476
+2013,Flood,Riverine flood,Thailand,7.2182,100.39,2013,11,20,23,NA,NA,NA,Km2,38676
+2013,Earthquake,Ground movement,Taiwan (Province of China),23.789,121.141,2013,6,2,4,1100,NA,NA,Richter,6
+2013,Earthquake,Ground movement,Taiwan (Province of China),23.828,121.215,2013,3,27,1,1000,NA,NA,Richter,6
+2014,Flood,Flash flood,Italy,43.9958,7.1,2014,1,18,2,120000,NA,"Slide (land, mud, snow, rock)",Km2,NA
+2014,Earthquake,Ground movement,Iran (Islamic Republic of),27.1502,54.4482,2014,1,2,1,2000,NA,NA,Richter,5
+2011,Flood,Riverine flood,United States of America (the),35.806,-79.37,2011,8,6,2,NA,NA,NA,Km2,26044
+2011,Flood,Flash flood,Venezuela (Bolivarian Republic of),7.677,-64.77,2011,4,15,9,NA,NA,NA,Km2,37648
+2012,Storm,Tropical cyclone,United States of America (the),30.503,-89.35,2012,8,28,1,2000000,Hurricane Isaac,Flood,Kph,83938
+2012,Flood,Riverine flood,United States of America (the),30.3632,-58.51,2012,6,9,2,174000,NA,NA,Km2,20116
+2012,Storm,Tropical cyclone,United States of America (the),28.9635,-82.5,2012,6,22,9,210000,Tropical storm Debby,NA,Kph,67994
+2012,Flood,Riverine flood,Viet Nam,38.19,126.24,2012,9,2,34,30000,NA,NA,Km2,24179
+2012,Flood,Riverine flood,South Africa,-32.93,26.56,2012,10,24,13,200000,NA,NA,Km2,14489
+2012,Flood,Riverine flood,South Sudan,9.56,29.58,2012,9,7,15,NA,NA,NA,Km2,138743
+2012,Flood,Riverine flood,South Sudan,9.69,30.21,2012,8,1,32,NA,NA,NA,Km2,456058
+2013,Flood,Riverine flood,Saint Vincent and the Grenadines,13.9188,-60.99,2013,12,23,12,108000,NA,"Slide (land, mud, snow, rock)",Km2,830
+2013,Flood,Riverine flood,United States of America (the),38.2138,-94.15,2013,8,5,3,25000,NA,NA,Km2,123143
+2013,Flood,Riverine flood,United States of America (the),28.899,-98.89,2013,5,25,3,2000,NA,NA,Km2,33908
+2013,Flood,Riverine flood,United States of America (the),38.8278,-88.64,2013,4,22,5,325000,NA,NA,Km2,493137
+2013,Flood,Riverine flood,United States of America (the),30.66,-96.01,2013,10,31,4,NA,NA,NA,Km2,38936
+2013,Flood,Riverine flood,United States of America (the),37.5597,-86.79,2013,12,22,5,NA,NA,NA,Km2,16070
+2013,Flood,Riverine flood,Viet Nam,15.58,107.7,2013,11,14,47,72000,NA,NA,Km2,48985
+2014,Flood,Riverine flood,Bolivia (Plurinational State of),-16.4638,-63.77,2014,10,NA,38,NA,NA,Hail,Km2,137630
+2014,Earthquake,Ground movement,Chile,-19.61,-70.769,2014,4,1,6,100000,NA,NA,Richter,8
+2014,Flood,Flash flood,Afghanistan,35.834,66.43,2014,4,24,431,NA,NA,"Slide (land, mud, snow, rock)",Km2,83722
+2014,Flood,Flash flood,Burundi,-4.14041,29.65,2014,2,19,96,2000,NA,"Slide (land, mud, snow, rock)",Km2,3237
+2014,Earthquake,Ground movement,China,27.1891,103.4086,2014,8,3,731,5000000,NA,"Slide (land, mud, snow, rock)",Richter,6
+2014,Earthquake,Ground movement,Ecuador,-0.018,-78.322,2014,8,13,3,NA,NA,"Slide (land, mud, snow, rock)",Richter,5
+2014,Earthquake,Ground movement,China,35.9053,82.5864,2014,2,12,NA,174000,NA,NA,Richter,7
+2014,Earthquake,Ground movement,China,28.174,103.619,2014,4,4,NA,80000,NA,NA,Richter,5
+2014,Earthquake,Ground movement,China,24.974,97.844,2014,5,24,NA,60000,NA,NA,Richter,6
+2014,Earthquake,Ground movement,China,24.9997,97.845,2014,5,30,NA,2000,NA,NA,Richter,6
+2014,Earthquake,Ground movement,China,23.3834,100.4702,2014,10,7,1,274000,NA,NA,Richter,6
+2014,Earthquake,Ground movement,China,30.3398,101.7374,2014,11,22,5,50000,NA,NA,Richter,6
+2014,Earthquake,Ground movement,China,23.3577,100.533,2014,12,6,1,NA,NA,NA,Richter,6
+2014,Earthquake,Ground movement,Algeria,36.8561,3.181,2014,8,1,6,NA,NA,NA,Richter,6
+2014,Earthquake,Ground movement,Greece,40.2893,25.3889,2014,5,24,3,450000,NA,NA,Richter,7
+2014,Earthquake,Ground movement,Guatemala,14.724,-92.4614,2014,7,7,1,NA,NA,NA,Richter,7
+2015,Flood,NA,Angola,-8.81664,13.68,2015,3,9,1,NA,NA,"Slide (land, mud, snow, rock)",Km2,102553
+2015,Flood,Flash flood,Chile,-22.3617,-68.89,2015,3,25,178,1500000,NA,"Slide (land, mud, snow, rock)",Km2,154773
+2015,Flood,Riverine flood,China,27.0326,114.98,2015,5,13,58,800000,NA,"Slide (land, mud, snow, rock)",Km2,NA
+2015,Flood,Flash flood,Georgia,42.0683,44.54,2015,6,7,40,23000,NA,"Slide (land, mud, snow, rock)",Km2,13023
+2015,Earthquake,Tsunami,Chile,-31.5729,-71.6744,2015,9,16,19,800000,NA,Tsunami/Tidal wave,Richter,8
+2015,Flood,NA,Brazil,-25.5689,-50.75,2015,7,10,3,NA,NA,Storm,Km2,115
+2015,Landslide,Landslide,Colombia,5.70693,-74.5,2015,5,17,93,NA,NA,Flood,NA,NA
+2015,Earthquake,Ground movement,Afghanistan,36.5244,70.3676,2015,10,26,115,NA,NA,NA,Richter,8
+2015,Flood,Flash flood,Angola,-12.1145,13.88,2015,3,9,69,NA,NA,NA,Km2,12133
+2015,Flood,NA,Albania,41.287,19.966,2015,11,21,1,NA,NA,NA,Km2,11410
+2015,Flood,Riverine flood,Argentina,-35.1086,-59.81,2015,8,5,3,NA,NA,NA,Km2,133853
+2015,Earthquake,Ground movement,Bangladesh,28.2305,84.7314,2015,4,25,4,NA,NA,NA,Richter,8
+2015,Flood,NA,Brazil,-6.97805,-67.8,2015,4,1,5,NA,NA,NA,Km2,450353
+2015,Earthquake,Ground movement,China,44.133,85.568,2015,2,22,NA,14650,NA,NA,Richter,5
+2015,Earthquake,Ground movement,China,23.566,98.854,2015,3,1,NA,15000,NA,NA,Richter,5
+2015,Earthquake,Ground movement,China,28.2305,84.7314,2015,4,25,29,NA,NA,NA,Richter,8
+2015,Earthquake,Ground movement,China,27.8087,86.0655,2015,5,12,1,NA,NA,NA,Richter,7
+2015,Earthquake,Ground movement,China,37.4593,78.1542,2015,7,3,3,3200,NA,NA,Richter,6
+2015,Flood,NA,Cameroon,3.94741,9.88,2015,6,22,4,NA,NA,NA,Km2,4726
+2015,Flood,Flash flood,France,43.377,6.53,2015,10,3,20,924000,NA,NA,Km2,2896
+2015,Flood,NA,Ghana,7.38005,-0.55,2015,6,2,25,12000,NA,NA,Km2,266950
+2015,Flood,NA,Greece,41.4571,26.6,2015,2,1,3,NA,NA,NA,Km2,151105
+2015,Landslide,Landslide,Guatemala,148.262,-906.13,2015,10,1,350,5000,NA,NA,NA,NA
+2016,Earthquake,Ground movement,Ecuador,0.382,-79.92,2016,4,16,672,2000000,NA,NA,Richter,8
+2016,Flood,Flash flood,China,247.041,113.99,2016,3,19,5,170000,NA,"Slide (land, mud, snow, rock)",Km2,383224
+2016,Flood,NA,China,27.976,114.24,2016,6,28,289,22000000,NA,"Slide (land, mud, snow, rock)",Km2,720844
+2016,Flood,Flash flood,Ethiopia,9.268,41.691,2016,4,2,28,NA,NA,"Slide (land, mud, snow, rock)",Km2,2440002
+2016,Flood,Flash flood,Angola,-832.104,13.98,2016,4,16,23,NA,NA,NA,Km2,59746
+2016,Flood,NA,Angola,-115.936,160.56,2016,3,1,30,NA,NA,NA,Km2,277015
+2016,Earthquake,Ground movement,Bangladesh,24.804,93.65,2016,1,3,5,NA,NA,NA,Richter,7
+2016,Flood,Riverine flood,Bangladesh,90.04,24.09,2016,7,19,106,150000,NA,NA,Km2,45667
+2016,Flood,NA,Brazil,-179.555,-56.44,2016,1,9,3,100000,NA,NA,Km2,110515
+2016,Flood,NA,China,247.532,112.95,2016,6,18,68,3000000,NA,NA,Km2,197080
+2016,Flood,NA,Germany,48.407,10.22,2016,5,31,7,2000000,NA,NA,Km2,91555
+2016,Earthquake,Ground movement,Ecuador,0.495,-79.62,2016,5,18,1,NA,NA,NA,Richter,7
+2016,Flood,Flash flood,Ecuador,-0.786,-797.01,2016,1,1,9,10000,NA,NA,Km2,69542
+2016,Flood,NA,Ghana,641.411,116.5,2016,6,10,10,NA,NA,NA,Km2,47506
+2016,Flood,NA,Greece,37.418,22.292,2016,9,5,4,56000,NA,NA,Km2,20422
+2014,Flood,Flash flood,Solomon Islands,-9.67763,160.34,2014,4,1,47,24000,NA,Broken Dam/Burst bank,Km2,5481
+2014,Volcanic activity,Ash fall,Indonesia,-7.93,112.308,2014,2,14,7,103000,Mt. Kelud,NA,NA,NA
+2014,Earthquake,Ground movement,Iran (Islamic Republic of),32.5827,47.7037,2014,8,18,NA,43000,NA,NA,Richter,6
+2014,Earthquake,Ground movement,Japan,36.6408,137.8875,2014,11,22,NA,2000,NA,NA,Richter,6
+2014,Volcanic activity,NA,Japan,35.893,137.48,2014,9,27,63,NA,Mt. Ontake,NA,NA,NA
+2014,Flood,Flash flood,Kazakhstan,48.4049,65.59,2014,3,23,5,NA,NA,NA,Km2,213897
+2014,Earthquake,Ground movement,Mexico,14.724,-92.4614,2014,7,7,3,NA,NA,NA,Richter,7
+2014,Earthquake,Ground movement,Nicaragua,11.642,-85.8779,2014,4,11,2,3000,NA,NA,Richter,7
+2014,Earthquake,Ground movement,Peru,-13.843,-71.695,2014,9,27,8,NA,NA,NA,Richter,5
+2014,Earthquake,Ground movement,Thailand,19.6557,99.6696,2014,5,5,1,62000,NA,NA,Richter,6
+2015,Flood,Flash flood,Macedonia (the former Yugoslav Republic of),41.7575,21.19,2015,8,3,7,87000,NA,Storm,Km2,5957
+2015,Storm,Tropical cyclone,Philippines (the),16.691,121.24,2015,10,14,51,210985,Typhoon Koppu (Lando),Flood,Kph,210
+2015,Flood,Riverine flood,Malawi,-18.795,35.36,2015,1,1,278,390000,NA,Crop failure,Km2,485939
+2015,Flood,Flash flood,Pakistan,33.5131,71.89,2015,4,26,49,1000,NA,Collapse,Km2,21148
+2015,Flood,Flash flood,India,33.1767,76.41,2015,3,20,44,76000,NA,"Slide (land, mud, snow, rock)",Km2,70288
+2015,Flood,Riverine flood,India,26.2074,82.62,2015,7,15,293,NA,NA,"Slide (land, mud, snow, rock)",Km2,629962
+2015,Flood,Riverine flood,Myanmar,20.175,95.53,2015,7,15,149,119000,NA,"Slide (land, mud, snow, rock)",Km2,26424
+2015,Earthquake,Ground movement,Malaysia,5.987,116.541,2015,6,5,24,2,NA,"Slide (land, mud, snow, rock)",Richter,6
+2015,Earthquake,Ground movement,Nepal,28.23,84.731,2015,4,25,8831,5174000,NA,"Slide (land, mud, snow, rock)",Richter,8
+2015,Earthquake,Ground movement,Nepal,27.8087,86.0655,2015,5,12,138,NA,NA,"Slide (land, mud, snow, rock)",Richter,7
+2015,Storm,Tropical cyclone,Mexico,283.812,-101.77,2015,10,22,14,823000,Hurricane Patricia,Flood,Kph,270
+2015,Flood,Riverine flood,Haiti,18.695,-72.19,2015,4,4,6,NA,NA,NA,Km2,3672
+2015,Earthquake,Ground movement,India,28.2305,84.7314,2015,4,25,78,NA,NA,NA,Richter,8
+2015,Earthquake,Ground movement,India,27.8087,86.0655,2015,5,12,20,NA,NA,NA,Richter,7
+2015,Flood,Flash flood,India,10.7121,79.18,2015,5,17,8,NA,NA,NA,Km2,14179
+2015,Flood,Riverine flood,India,21.8734,70.76,2015,6,19,81,604000,NA,NA,Km2,43782
+2015,Landslide,Landslide,India,26.9195,93.87,2015,6,2,3,NA,NA,NA,NA,NA
+2015,Flood,NA,India,26.8946,93.75,2015,8,13,5,NA,NA,NA,Km2,69190
+2015,Flood,NA,India,118.278,788.55,2015,11,8,325,2200000,NA,NA,Km2,93202
+2015,Flood,Flash flood,Iran (Islamic Republic of),33.6304,54.04,2015,7,14,23,NA,NA,NA,Km2,776608
+2015,Flood,Riverine flood,Kenya,-0.795,36.25,2015,4,27,13,NA,NA,NA,Km2,20432
+2015,Flood,Riverine flood,Kenya,-203.643,395.13,2015,12,1,112,NA,NA,NA,Km2,103770
+2015,Earthquake,Ground movement,Kyrgyzstan,40.376,73.204,2015,11,17,NA,12000,NA,NA,Richter,6
+2015,Flood,Riverine flood,Niger (the),14.8417,2.5,2015,7,25,27,NA,NA,NA,Km2,NA
+2015,Flood,Riverine flood,Nigeria,995.267,115.28,2015,9,5,53,25000,NA,NA,Km2,186816
+2015,Flood,Riverine flood,New Zealand,-39.8648,175.23,2015,6,22,NA,171000,NA,NA,Km2,8949
+2015,Flood,NA,New Zealand,-41.092,175.35,2015,5,13,1,100000,NA,NA,Km2,7484
+2015,Earthquake,Ground movement,Pakistan,36.5244,70.3676,2015,10,25,280,NA,NA,NA,Richter,8
+2015,Earthquake,Ground movement,Pakistan,36.4935,71.1263,2015,12,25,3,NA,NA,NA,Richter,6
+2015,Flood,NA,Pakistan,35.0129,72.84,2015,6,25,10,NA,NA,NA,Km2,73485
+2015,Flood,NA,Pakistan,34.3432,72.27,2015,7,15,238,NA,NA,NA,Km2,137040
+2015,Flood,NA,Philippines (the),15.5509,120.8,2015,7,12,4,NA,NA,NA,Km2,16151
+2015,Flood,Riverine flood,Paraguay,-260.369,-558.48,2015,11,NA,12,NA,NA,NA,Km2,574057
+2015,Flood,NA,Romania,46.8147,22.86,2015,5,27,1,NA,NA,NA,Km2,197785
+2016,Flood,NA,Indonesia,-246.543,103.35,2016,2,7,8,2000,NA,"Slide (land, mud, snow, rock)",Km2,235819
+2016,Flood,NA,Indonesia,-7.042,108.238,2016,9,20,53,22000,NA,"Slide (land, mud, snow, rock)",Km2,32276
+2016,Flood,NA,India,27.464,95.607,2016,4,22,18,150000,NA,"Slide (land, mud, snow, rock)",Km2,70518
+2016,Flood,NA,Japan,326.031,130.99,2016,6,20,7,NA,NA,"Slide (land, mud, snow, rock)",Km2,18481
+2016,Flood,Flash flood,Pakistan,330.545,717.79,2016,4,2,92,NA,NA,"Slide (land, mud, snow, rock)",Km2,111748
+2016,Earthquake,Ground movement,India,24.804,93.65,2016,1,3,8,75000,NA,NA,Richter,7
+2016,Flood,Flash flood,India,27.068,93.95,2016,6,25,61,100000,NA,NA,Km2,135742
+2016,Earthquake,Ground movement,Italy,42.723,13.187,2016,8,24,296,5000000,NA,NA,Richter,6
+2016,Earthquake,Ground movement,Japan,32.788,130.7,2016,4,14,9,NA,NA,NA,Richter,7
+2016,Earthquake,Ground movement,Japan,32.791,130.75,2016,4,16,49,20000000,NA,NA,Richter,7
+2016,Earthquake,Ground movement,Korea (the Republic of),35.781,129.216,2016,9,12,NA,21000,NA,NA,Richter,5
+2016,Flood,Flash flood,Mexico,23.672,-104.964,2016,9,29,5,25000,NA,NA,Km2,22329
+2016,Flood,NA,Mexico,17.071,-93.805,2016,9,14,13,NA,NA,NA,Km2,127234
+2016,Earthquake,Ground movement,Macedonia (the former Yugoslav Republic of),42.009,21.49,2016,9,11,NA,10000,NA,NA,Richter,5
+2016,Flood,NA,Myanmar,183.158,952.6,2016,6,1,14,NA,NA,NA,Km2,93840
+2016,Flood,NA,Mozambique,-12.651,394.64,2016,1,5,16,NA,NA,NA,Km2,80572
+2016,Flood,Flash flood,New Zealand,-42.169,172.21,2016,3,23,NA,25000,NA,NA,Km2,39334
+2016,Earthquake,Ground movement,Pakistan,36.473,71.13,2016,4,10,6,NA,NA,NA,Richter,7
+2016,Flood,Flash flood,Pakistan,361.038,727.93,2016,7,3,46,NA,NA,NA,Km2,31431
+2016,Earthquake,Ground movement,Peru,-15.64,-71.68,2016,8,14,4,NA,NA,NA,Richter,5
+2016,Flood,NA,Russian Federation (the),61.967,59.803,2016,4,16,NA,2000,NA,NA,Km2,1834048
+2016,Landslide,Landslide,Rwanda,-20.565,300.12,2016,5,7,50,NA,NA,NA,NA,18269
+1902,Earthquake,Ground movement,Azerbaijan,40.7,48.6,1902,2,13,86,NA,NA,NA,Richter,7
+1902,Earthquake,Ground movement,China,39.88,76.2,1902,8,22,2500,NA,NA,NA,Richter,8
+1904,Earthquake,Ground movement,Greece,37.75,27,1904,8,11,4,NA,NA,NA,Richter,6
+1905,Earthquake,Ground movement,Albania,42.1,19600,1905,6,1,120,23800,NA,NA,Richter,7
+1906,Earthquake,Ground movement,China,43.5,85.5,1906,12,23,280,NA,NA,NA,Richter,8
+1909,Earthquake,Ground movement,China,24.4,103,1909,5,11,21,NA,NA,NA,Richter,7
+2014,Earthquake,Ground movement,United States of America (the),38.2151667,-122.3123333,2014,8,24,1,700000,NA,Fire,Richter,6
+2014,Flood,Riverine flood,South Africa,-21.5153,25.61,2014,3,1,32,85000,NA,"Slide (land, mud, snow, rock)",Km2,1037639
+2014,Flood,Riverine flood,"Tanzania, United Republic of",7.19301,38.97,2014,4,18,28,NA,NA,NA,Km2,18498
+2014,Earthquake,Ground movement,South Africa,-26.9899,26.7048,2014,8,5,1,NA,NA,NA,Richter,5
+2015,Flood,Flash flood,Viet Nam,20.8137,106.86,2015,7,25,32,204000,NA,"Slide (land, mud, snow, rock)",Km2,24337
+2015,Flood,NA,United States of America (the),356.658,-910.83,2015,12,15,31,600000,NA,Storm,Km2,NA
+2015,Storm,Convective storm,"Tanzania, United Republic of",-4.31417,33.75,2015,3,3,47,NA,NA,Flood,Kph,40007
+2015,Storm,Tropical cyclone,United States of America (the),335.033,-804.93,2015,10,1,25,2000000,Joaquin,Flood,Kph,NA
+2015,Flood,Flash flood,United States of America (the),34.193600000000004,-97.99,2015,5,23,32,2700000,NA,Lightening,Km2,849465
+2015,Earthquake,Ground movement,Tajikistan,38.211,72.78,2015,12,7,2,5000,NA,NA,Richter,7
+2015,Flood,NA,"Tanzania, United Republic of",-5.06017,36.89,2015,5,7,12,NA,NA,NA,Km2,194128
+2015,Flood,NA,Viet Nam,205.669,104.76,2015,9,7,2,NA,NA,NA,Km2,192887
+2015,Earthquake,Ground movement,Congo (the Democratic Republic of the),-2.091,28.952,2015,8,6,3,NA,NA,NA,Richter,6
+2015,Earthquake,Ground movement,Timor-Leste,-8.3381,124.8754,2015,11,4,NA,4000,NA,NA,Richter,7
+2016,Storm,Convective storm,United States of America (the),349.452,805.54,2016,6,22,25,1000000,NA,Flood,Kph,NA
+2016,Flood,NA,Uruguay,-324.347,-561.95,2016,4,12,8,3000,NA,Storm,Km2,126653
+2016,Flood,Riverine flood,Dominican Republic (the),18.92,-70.125,2016,11,7,15,NA,NA,"Slide (land, mud, snow, rock)",Km2,NA
+2016,Earthquake,Ground movement,Taiwan (Province of China),22.938,120.6,2016,2,6,117,700000,NA,Collapse,Richter,6
+2016,Flood,NA,United States of America (the),308.574,-955.37,2016,5,27,15,300000,NA,Storm,Km2,NA
+2016,Earthquake,Ground movement,"Tanzania, United Republic of",1.036,31.618,2016,9,10,17,458000,NA,NA,Richter,6
+2016,Flood,NA,"Tanzania, United Republic of",-476.168,355.05,2016,1,17,3,NA,NA,NA,Km2,182022
+2016,Flood,NA,"Tanzania, United Republic of",-689.427,360,2016,4,22,13,NA,NA,NA,Km2,84215
+2016,Earthquake,Ground movement,Uganda,-1.036,31.618,2016,9,10,4,NA,NA,NA,Richter,6
+2016,Flood,NA,United States of America (the),29.988,-91.8,2016,8,9,13,10000000,NA,NA,Km2,19554
+2016,Flood,NA,Albania,42.254,19.446,2016,11,7,2,NA,NA,NA,Km2,16543
+2016,Flood,NA,Australia,-33.277,139.898,2016,9,10,1,25000,NA,NA,Km2,634200
+2016,Earthquake,Ground movement,China,39.238,74.047,2016,11,25,1,5500,NA,NA,Richter,7
+2016,Earthquake,Ground movement,China,43.823,86.345,2016,12,8,NA,135000,NA,NA,Richter,6
+2016,Earthquake,Ground movement,China,26.077,99.539,2016,5,18,2,60000,NA,NA,Richter,5
+2017,Flood,Flash flood,Albania,449.847,152.152,2017,11,30,1,8900,NA,"Slide (land, mud, snow, rock)",Km2,10463
+2017,Flood,Riverine flood,Brazil,-8.096,-38.231,2017,5,26,14,100000,NA,"Slide (land, mud, snow, rock)",Km2,266010
+2017,Flood,NA,Chile,-30.939,-70.249,2017,2,24,3,2000,NA,"Slide (land, mud, snow, rock)",Km2,NA
+2017,Earthquake,Ground movement,China,33.193,103.855,2017,8,8,29,500000,NA,"Slide (land, mud, snow, rock)",Richter,7
+2017,Earthquake,Ground movement,Greece,38.915,26.371,2017,6,12,1,NA,NA,"Slide (land, mud, snow, rock)",Richter,6
+2017,Flood,Flash flood,Greece,38.261,23.529,2017,11,11,23,NA,NA,"Slide (land, mud, snow, rock)",Km2,2571
+2017,Earthquake,Ground movement,Greece,36.925,27.414,2017,7,21,2,NA,NA,Tsunami/Tidal wave,Richter,7
+2017,Flood,Flash flood,Angola,-8.718,13.656,2017,3,21,11,2000,NA,NA,Km2,24003
+2017,Flood,NA,Argentina,-45.953,-67.939,2017,4,5,1,NA,NA,NA,Km2,27377
+2017,Flood,NA,Canada,45.575,-74.406,2017,5,5,2,200000,NA,NA,Km2,79149
+2017,Flood,Flash flood,Chile,-27.122,-69.952,2017,5,11,2,NA,NA,NA,Km2,157699
+2017,Flood,NA,China,29.612,113.645,2017,9,24,16,361000,NA,NA,Km2,283444
+2017,Flood,NA,Colombia,3.723,-72.674,2017,2,23,1,NA,NA,NA,Km2,128597
+2017,Flood,Flash flood,France,45.486,3.338,2017,6,13,1,NA,NA,NA,Km2,NA
+2018,Flood,NA,Brazil,-22.479,-44.095,2018,2,14,4,10000,NA,Collapse,Km2,55139
+2018,Flood,Flash flood,Bolivia (Plurinational State of),-14.405,-64.013,2018,2,10,6,NA,NA,"Slide (land, mud, snow, rock)",Km2,245648
+2018,Flood,NA,Ghana,9.538,-1.066,2018,8,31,34,NA,NA,Broken Dam/Burst bank,Km2,83998
+2018,Storm,Convective storm,Argentina,-35.21,-58.199,2018,4,28,2,NA,NA,Flood,Kph,130
+2018,Flood,NA,Afghanistan,34.94,68.216,2018,5,9,72,NA,NA,NA,Km2,184397
+2018,Flood,Flash flood,Angola,-11.247,16.007,2018,2,22,8,NA,NA,NA,Km2,462991
+2018,Flood,NA,Australia,-17.015,145.218,2018,3,9,NA,11400,NA,NA,Km2,105583
+2018,Flood,NA,Bangladesh,23.226,92.13,2018,5,20,21,NA,NA,NA,Km2,3882
+2018,Flood,NA,Brazil,-24.206,-48.623,2018,3,20,3,43000,NA,NA,Km2,131278
+2018,Earthquake,Ground movement,China,45.279,124.557,2018,5,28,NA,29000,NA,NA,Richter,5
+2018,Earthquake,Ground movement,China,24.332,102.941,2018,8,13,NA,50000,NA,NA,Richter,5
+2018,Flood,NA,China,23.812,108.795,2018,5,7,5,NA,NA,NA,Km2,109610
+2018,Flood,Flash flood,Algeria,33.907,3.215,2018,4,24,6,NA,NA,NA,Km2,132889
+2018,Flood,NA,Spain,39.591,2.936,2018,10,9,13,150000,NA,NA,Km2,2882
+2018,Flood,NA,France,48.511,1.606,2018,1,24,NA,372000,NA,NA,Km2,72016
+2019,Flood,NA,Afghanistan,31.991,67.078,2019,3,2,63,NA,NA,"Slide (land, mud, snow, rock)",Km2,441236
+2019,Flood,NA,Brazil,-23.539,-46.124,2019,3,10,12,NA,NA,"Slide (land, mud, snow, rock)",Km2,20310
+2019,Flood,Riverine flood,Spain,43.284,-6.225,2019,1,22,4,58000,NA,"Slide (land, mud, snow, rock)",Km2,6802
+2019,Flood,Flash flood,Afghanistan,34.668,67.894,2019,5,22,24,NA,NA,NA,Km2,133360
+2019,Earthquake,Ground movement,Chile,-30.074,-71.423,2019,1,19,2,NA,NA,NA,Richter,7
+2019,Flood,NA,Chile,-21.965,-69.245,2019,2,1,6,NA,NA,NA,Km2,272110
+2019,Earthquake,Ground movement,China,29.498,104.632,2019,2,25,2,2000,NA,NA,Richter,5
+2019,Earthquake,Ground movement,China,28.405,104.957,2019,6,17,13,1300000,NA,NA,Richter,6
+1903,Earthquake,Ground movement,Iran (Islamic Republic of),35.2,58.2,1903,9,25,350,NA,NA,NA,Richter,7
+1903,Earthquake,Ground movement,Israel,32.2,35.3,1903,3,30,20,NA,NA,NA,Richter,6
+1905,Earthquake,Ground movement,Japan,34,132,1905,6,2,11,NA,NA,NA,Richter,8
+1909,Earthquake,Ground movement,Japan,35.4,136.3,1909,8,14,41,NA,NA,Tsunami/Tidal wave,Richter,7
+1909,Earthquake,Ground movement,Portugal,38.9,-8.8,1909,4,23,30,NA,NA,NA,Richter,7
+2016,Earthquake,Tsunami,New Zealand,-42.725,173.064,2016,11,14,2,3900000,NA,Tsunami/Tidal wave,Richter,8
+2016,Flood,Flash flood,Mexico,23.273,-99.793,2016,11,3,2,NA,NA,Hail,Km2,322162
+2016,Flood,Riverine flood,Haiti,19.739,-72.587,2016,11,5,13,NA,NA,"Slide (land, mud, snow, rock)",Km2,4534
+2016,Flood,NA,Indonesia,0.649,123.245,2016,10,23,2,NA,NA,"Slide (land, mud, snow, rock)",Km2,11225
+2016,Earthquake,Ground movement,Indonesia,5.281,96.108,2016,12,7,104,100000,NA,NA,Richter,7
+2016,Flood,NA,India,17.654,80.34,2016,9,21,28,589000,NA,NA,Km2,137435
+2016,Earthquake,Ground movement,Italy,42.934,13.043,2016,10,26,1,200000,NA,NA,Richter,6
+2016,Earthquake,Ground movement,Italy,42.855,13.088,2016,10,30,NA,200000,NA,NA,Richter,7
+2016,Earthquake,Ground movement,Japan,35.37,133.812,2016,10,21,NA,100000,NA,NA,Richter,6
+2016,Earthquake,Ground movement,Myanmar,20.923,94.569,2016,8,24,4,10000,NA,NA,Richter,7
+2016,Flood,NA,Malaysia,4.7,102.411,2016,12,26,NA,132000,NA,NA,Km2,43580
+2016,Earthquake,Ground movement,Peru,-15.321,-70.823,2016,12,1,1,NA,NA,NA,Richter,6
+2017,Earthquake,Ground movement,Mexico,15.022,-93.899,2017,9,8,98,2300000,NA,Tsunami/Tidal wave,Richter,8
+2017,Flood,NA,Oman,243.598,559.677,2017,12,16,3,NA,NA,Lightening,Km2,50430
+2017,Earthquake,Ground movement,Mexico,18.55,-98.489,2017,9,17,369,6000000,NA,Fire,Richter,7
+2017,Flood,NA,Indonesia,-7.229,109.117,2017,11,3,9,NA,NA,"Slide (land, mud, snow, rock)",Km2,27068
+2017,Flood,Flash flood,Iran (Islamic Republic of),37.704,46.169,2017,4,15,42,353000,NA,"Slide (land, mud, snow, rock)",Km2,40808
+2017,Flood,NA,Nepal,27.295,86.427,2017,6,30,11,NA,NA,"Slide (land, mud, snow, rock)",Km2,NA
+2017,Flood,NA,Nepal,27.941,83.878,2017,8,10,176,595000,NA,"Slide (land, mud, snow, rock)",Km2,64677
+2017,Flood,NA,New Zealand,-38.204,176.79,2017,4,5,NA,71000,NA,"Slide (land, mud, snow, rock)",Km2,23531
+2017,Flood,NA,Peru,-11.004,-75.148,2017,3,15,184,3100000,NA,"Slide (land, mud, snow, rock)",Km2,810942
+2017,Earthquake,Ground movement,Philippines (the),13.77,120.935,2017,4,8,NA,2000,NA,"Slide (land, mud, snow, rock)",Richter,6
+2017,Flood,NA,Honduras,15.581,-85.367,2017,1,7,7,NA,NA,NA,Km2,13364
+2017,Flood,NA,Indonesia,-7.029,107.162,2017,2,21,2,NA,NA,NA,Km2,40254
+2017,Flood,Flash flood,India,10.489,79.004,2017,10,30,21,NA,NA,NA,Km2,50536
+2017,Earthquake,Ground movement,Iran (Islamic Republic of),37.772,57.204,2017,5,13,3,2000,NA,NA,Richter,6
+2017,Earthquake,Ground movement,Iran (Islamic Republic of),34.911,45.959,2017,11,12,444,740000,NA,NA,Richter,7
+2017,Earthquake,Ground movement,Iran (Islamic Republic of),35.649,50.962,2017,12,20,2,NA,NA,NA,Richter,5
+2017,Earthquake,Ground movement,Iraq,34.911,45.959,2017,11,12,10,NA,NA,NA,Richter,7
+2017,Flood,Riverine flood,Italy,45.457,105.881,2017,12,11,NA,125000,NA,NA,Km2,27560
+2017,Storm,Tropical cyclone,Japan,33.2,134,2017,8,5,2,2000,Typhoon 'Noru',NA,Kph,120
+2017,Flood,Riverine flood,Kenya,-2.879,37.88,2017,5,8,26,NA,NA,NA,Km2,55028
+2017,Flood,NA,Sri Lanka,8.604,80.637,2017,11,3,9,NA,NA,NA,Km2,22923
+2017,Flood,Riverine flood,Mexico,23.917,-98.308,2017,9,26,2,NA,NA,NA,Km2,57675
+2017,Flood,NA,Malaysia,5.247,101.026,2017,11,3,7,NA,NA,NA,Km2,37944
+2017,Flood,NA,Niger (the),14.617,4.402,2017,8,26,56,10000,NA,NA,Km2,184437
+2017,Flood,NA,Peru,-5.251,-77.573,2017,2,1,1,NA,NA,NA,Km2,288499
+2017,Earthquake,Ground movement,Philippines (the),9.907,125.452,2017,2,10,8,13974,NA,NA,Richter,7
+2017,Earthquake,Ground movement,Philippines (the),11.111,124.619,2017,7,6,3,4364,NA,NA,Richter,7
+2017,Flood,NA,Philippines (the),7.59,124.062,2017,2,1,13,NA,NA,NA,Km2,30389
+2018,Earthquake,Tsunami,Indonesia,-178,119.84,2018,9,28,4140,1450000,NA,Tsunami/Tidal wave,Richter,8
+2018,Flood,Flash flood,Iran (Islamic Republic of),35.606,52.429,2018,10,5,9,166000,NA,"Slide (land, mud, snow, rock)",Km2,340197
+2018,Flood,NA,Japan,35.65,137.895,2018,6,29,246,9500000,NA,"Slide (land, mud, snow, rock)",Km2,109672
+2018,Flood,NA,Sri Lanka,6.806,80.637,2018,10,6,12,NA,NA,"Slide (land, mud, snow, rock)",Km2,29246
+2018,Earthquake,Ground movement,Papua New Guinea,-6.149,142.766,2018,2,26,145,61000,NA,"Slide (land, mud, snow, rock)",Richter,8
+2018,Earthquake,Ground movement,Indonesia,-8.287,116.452,2018,8,5,564,790000,NA,Tsunami/Tidal wave,Richter,7
+2018,Flood,Flash flood,Guatemala,15.88,-90.217,2018,5,18,2,NA,NA,NA,Km2,67482
+2018,Earthquake,Ground movement,Haiti,20.034,-73.013,2018,10,6,17,NA,NA,NA,Richter,6
+2018,Earthquake,Ground movement,Indonesia,-7.196,105.918,2018,1,23,1,80000,NA,NA,Richter,6
+2018,Earthquake,Ground movement,Indonesia,-8.274,116.491,2018,7,29,14,29000,NA,NA,Richter,6
+2018,Earthquake,Ground movement,Indonesia,-8.325,116.577,2018,8,19,10,5000,NA,NA,Richter,7
+2018,Earthquake,Ground movement,Iran (Islamic Republic of),34.645,46.179,2018,7,22,NA,10000,NA,NA,Richter,6
+2018,Earthquake,Ground movement,Iran (Islamic Republic of),34.663,46.277,2018,8,26,2,NA,NA,NA,Richter,6
+2018,Earthquake,Ground movement,Iran (Islamic Republic of),34.304,45.74,2018,11,25,NA,10000,NA,NA,Richter,6
+2018,Flood,Flash flood,Israel,31.164,34.861,2018,4,24,12,NA,NA,NA,Km2,17900
+2018,Earthquake,Ground movement,Japan,34.826,135.64,2018,6,18,5,3250000,NA,NA,Richter,6
+2018,Flood,NA,Myanmar,18.191,95.434,2018,7,15,16,NA,NA,NA,Km2,46815
+2018,Flood,NA,Malawi,-10.351,33.847,2018,2,1,1,NA,NA,NA,Km2,25660
+2018,Flood,NA,Malawi,-11.158,34.02,2018,4,11,4,NA,NA,NA,Km2,37320
+2018,Flood,NA,Malaysia,365.883,102.337,2018,1,1,2,NA,NA,NA,Km2,117492
+2018,Flood,NA,Nigeria,10.475,8.238,2018,9,20,199,275000,NA,NA,Km2,257477
+2018,Flood,Flash flood,Nepal,28.238,84.398,2018,7,1,15,NA,NA,NA,Km2,85852
+2018,Earthquake,Ground movement,Peru,-15.759,74.71,2018,1,14,2,NA,NA,NA,Richter,7
+2018,Earthquake,Ground movement,Papua New Guinea,-6.307,142.62,2018,3,5,11,NA,NA,NA,Richter,NA
+2018,Earthquake,Ground movement,Papua New Guinea,-6.294,142.607,2018,3,7,25,NA,NA,NA,Richter,7
+2018,Flood,NA,Korea (the Democratic People's Republic of),38.531,126.573,2018,8,24,148,25000,NA,NA,Km2,25734
+2019,Flood,NA,Mexico,20.176,-103.182,2019,6,2,7,NA,NA,"Slide (land, mud, snow, rock)",Km2,34620
+2019,Earthquake,Ground movement,Indonesia,-0.586,128.034,2019,7,14,8,NA,NA,Tsunami/Tidal wave,Richter,7
+2019,Earthquake,Ground movement,Indonesia,-8.418,116.52,2019,3,17,9,NA,NA,NA,Richter,6
+2019,Earthquake,Ground movement,Indonesia,-7.282,104.791,2019,8,2,6,NA,NA,NA,Richter,7
+2019,Earthquake,Ground movement,Iran (Islamic Republic of),31.775,49.542,2019,7,8,1,NA,NA,NA,Richter,6
+2019,Flood,NA,Japan,32.591,130.866,2019,6,29,2,NA,NA,NA,Km2,32382
+2019,Flood,NA,Libya,24.555,12.691,2019,5,28,4,7100,NA,NA,Km2,151027
+2019,Flood,NA,Mongolia,47.204,111.071,2019,6,15,12,NA,NA,NA,Km2,85984
+2019,Flood,NA,Malawi,-14.53,34.317,2019,3,4,60,NA,NA,NA,Km2,77813
+2019,Earthquake,Ground movement,Peru,-5.812,-75.27,2019,5,26,2,NA,NA,NA,Richter,8
+2019,Earthquake,Ground movement,Philippines (the),14.99,120.35,2019,4,22,25,50000,NA,NA,Richter,6
+2019,Earthquake,Ground movement,Philippines (the),20.807,121.986,2019,7,27,9,5258,NA,NA,Richter,6
+1900,Earthquake,Ground movement,Turkey,40.3,43.1,1900,7,12,140,NA,NA,NA,Richter,6
+1903,Earthquake,Ground movement,Turkey,39.1,42.4,1903,4,19,1700,NA,NA,NA,Richter,NA
+1903,Earthquake,Ground movement,Turkey,40.9,42.7,1903,5,28,1000,NA,NA,NA,Richter,6
+1904,Earthquake,Ground movement,Taiwan (Province of China),23.5,120.5,1904,4,24,3,NA,NA,NA,Richter,6
+1904,Earthquake,Ground movement,Taiwan (Province of China),23.5,120.3,1904,11,6,145,NA,NA,NA,Richter,6
+1906,Earthquake,Ground movement,Taiwan (Province of China),23.4,120.4,1906,4,13,15,NA,NA,NA,Richter,7
+1909,Earthquake,Ground movement,Taiwan (Province of China),25,121.5,1909,4,15,9,NA,NA,NA,Richter,7
+1910,Earthquake,Ground movement,Costa Rica,10,-84,1910,5,4,700,NA,NA,NA,Richter,NA
+1913,Earthquake,Ground movement,China,24.15,102.45,1913,12,21,942,NA,NA,NA,Richter,7
+1915,Earthquake,Ground movement,China,29.5,91.5,1915,12,3,170,NA,NA,NA,Richter,7
+1920,Earthquake,Ground movement,Albania,40.2,20,1920,11,26,200,NA,NA,NA,Richter,6
+1920,Earthquake,Ground movement,Argentina,-32.7,-68.4,1920,12,17,400,NA,NA,NA,Richter,6
+1923,Earthquake,Ground movement,Colombia,1,-77.5,1923,12,14,300,NA,NA,NA,Richter,5
+1924,Earthquake,Ground movement,China,36.983,164,1924,7,3,100,NA,NA,NA,Richter,7
+1925,Earthquake,Ground movement,China,27,100,1925,10,15,12,NA,NA,NA,Richter,6
+1930,Earthquake,Ground movement,Albania,40.5,19.5,1930,11,21,35,NA,NA,NA,Richter,6
+1930,Earthquake,Ground movement,Albania,40.3,19.6,1930,12,2,25,NA,NA,NA,Richter,5
+1930,Earthquake,Ground movement,China,26.8,103,1930,5,14,42,NA,NA,NA,Richter,6
+1930,Earthquake,Ground movement,China,30,100,1930,8,24,200,NA,NA,NA,Richter,6
+1931,Earthquake,Ground movement,Albania,40.6,20.8,1931,1,28,90,NA,NA,NA,Richter,6
+1931,Earthquake,Ground movement,Armenia,39.2,46,1931,4,27,2890,NA,NA,NA,Richter,6
+1931,Earthquake,Ground movement,China,46.817,89.915,1931,8,11,10000,NA,NA,NA,Richter,8
+1933,Earthquake,NA,China,29.5,102.5,1933,9,20,200,NA,NA,NA,Richter,5
+1935,Earthquake,Ground movement,China,28.7,103.6,1935,12,18,100,NA,NA,NA,Richter,6
+1936,Earthquake,Ground movement,China,34.2,105.7,1936,8,1,115,NA,NA,NA,Richter,6
+1936,Earthquake,Ground movement,China,26.6,103,1936,8,17,30,NA,NA,NA,Richter,6
+1936,Earthquake,Ground movement,Colombia,1.2,-77.3,1936,8,14,18,NA,NA,NA,Richter,NA
+1937,Earthquake,Ground movement,China,35.259,115.184,1937,8,1,390,NA,NA,NA,Richter,NA
+1940,Earthquake,Ground movement,China,23.9,102.3,1940,4,6,181,NA,NA,NA,Richter,6
+1941,Earthquake,Ground movement,China,47,127.2,1931,5,6,132,NA,NA,NA,Richter,6
+1941,Earthquake,Ground movement,China,31.7,102.3,1941,10,8,15,NA,NA,NA,Richter,6
+1942,Earthquake,Ground movement,Albania,41.7,20.4,1942,8,27,43,NA,NA,NA,Richter,6
+1942,Earthquake,Ground movement,China,23.1,100.3,1942,2,2,90,NA,NA,NA,Richter,7
+1945,Earthquake,Ground movement,China,39.5,119,1945,9,23,17,NA,NA,NA,Richter,6
+1948,Earthquake,Ground movement,China,29.5,100.5,1948,5,25,800,NA,NA,NA,Richter,7
+1948,Earthquake,Ground movement,China,26.4,99.7,1948,6,27,110,NA,NA,NA,Richter,7
+1949,Earthquake,Ground movement,China,42,84,1949,2,23,21,NA,NA,NA,Richter,7
+1952,Earthquake,Ground movement,China,30.648,91.601,1952,8,17,54,NA,NA,NA,Richter,7
+1952,Earthquake,Ground movement,Costa Rica,10.3,-83.5,1952,12,30,29,NA,NA,NA,Richter,NA
+1955,Earthquake,Ground movement,Costa Rica,10,-84.5,1955,9,1,10,NA,NA,NA,Richter,6
+1958,Earthquake,Tsunami,Colombia,1.5,-79.5,1958,1,19,111,NA,NA,Tsunami/Tidal wave,Richter,8
+1967,Earthquake,Ground movement,Colombia,6.747,-73.032,1967,7,29,20,NA,NA,NA,Richter,7
+1967,Earthquake,Ground movement,Algeria,35.5,-0.1,1967,7,13,10,NA,NA,NA,Richter,5
+1969,Earthquake,Ground movement,Egypt,27.575,33.895,1969,3,31,2,NA,NA,Tsunami/Tidal wave,Richter,7
+1972,Earthquake,Ground movement,Afghanistan,36.278,69.681,1972,6,24,11,NA,NA,NA,Richter,6
+1974,Earthquake,NA,Colombia,7.747,-77.688,1974,7,12,11,NA,NA,NA,Richter,7
+2016,Flood,NA,Ukraine,47.256,31.348,2016,10,12,3,NA,NA,Storm,Km2,19889
+2016,Flood,Riverine flood,Romania,45.151,27.562,2016,10,9,1,NA,NA,NA,Km2,57183
+2016,Flood,NA,Thailand,14.867,100.395,2016,10,6,4,120000,NA,NA,Km2,17187
+2016,Flood,NA,Thailand,14.445,100.753,2016,12,1,14,25000,NA,NA,Km2,67395
+2016,Earthquake,Ground movement,United States of America (the),35.991,-96.803,2016,11,7,NA,20000,NA,NA,Richter,5
+2016,Flood,Riverine flood,Viet Nam,16.004,107.68,2016,10,9,35,104280,NA,NA,Km2,63642
+2017,Flood,Riverine flood,Taiwan (Province of China),24.302,121.216,2017,5,31,5,28100,NA,"Slide (land, mud, snow, rock)",Km2,16446
+2017,Flood,NA,Thailand,14.594,100.679,2017,10,10,9,1400,NA,Broken Dam/Burst bank,Km2,101670
+2017,Flood,NA,Saudi Arabia,22.707,39.365,2017,11,21,4,NA,NA,NA,Km2,181055
+2017,Flood,Riverine flood,Thailand,7.305,100.061,2017,1,1,96,1000000,NA,NA,Km2,50020
+2017,Flood,Flash flood,United States of America (the),34.349,-111.264,2017,7,15,10,NA,NA,NA,Km2,NA
+2017,Flood,NA,Viet Nam,11.664,108.399,2017,11,19,8,NA,NA,NA,Km2,27646
+2017,Flood,NA,South Africa,-28.362,29.715,2017,5,14,3,NA,NA,NA,Km2,213687
+2018,Flood,NA,Congo (the Democratic Republic of the),-4.355,15.116,2018,1,3,51,NA,NA,"Slide (land, mud, snow, rock)",Km2,5597
+2018,Flood,NA,Rwanda,-1.784,30.012,2018,4,23,24,11000,NA,"Slide (land, mud, snow, rock)",Km2,14768
+2018,Flood,NA,Russian Federation (the),52.883,84.596,2018,3,25,2,NA,NA,NA,Km2,172030
+2018,Flood,Flash flood,Sudan (the),13.487,31.942,2018,8,1,23,NA,NA,NA,Km2,629242
+2018,Earthquake,Ground movement,Taiwan (Province of China),24.136,121.658,2018,2,6,84,100000,NA,NA,Richter,6
+2018,Flood,NA,"Tanzania, United Republic of",-11.158,34.02,2018,4,14,15,NA,NA,NA,Km2,37320
+2018,Flood,Flash flood,Venezuela (Bolivarian Republic of),10.426,-66.55,2018,9,25,2,NA,NA,NA,Km2,3147
+2019,Flood,NA,Romania,45.624,26.653,2019,5,31,4,NA,NA,Hail,Km2,88755
+2019,Earthquake,Ground movement,El Salvador,13.243,-89.272,2019,5,30,1,NA,NA,"Slide (land, mud, snow, rock)",Richter,7
+2019,Flood,Flash flood,Tajikistan,37.42,69.354,2019,6,1,4,NA,NA,"Slide (land, mud, snow, rock)",Km2,106546
+2019,Flood,NA,Spain,38.05,-1.091,2019,9,11,7,2500000,NA,Storm,Km2,9115
+2019,Flood,NA,Russian Federation (the),58.911,102.485,2019,6,28,31,460000,NA,NA,Km2,413323
+2019,Flood,NA,Saudi Arabia,26.674,41.295,2019,1,27,12,NA,NA,NA,Km2,632316
+2019,Flood,NA,Saudi Arabia,18.54,45.254,2019,5,22,1,NA,NA,NA,Km2,238157
+2019,Flood,Flash flood,Turkey,40.706,41.047,2019,6,18,10,NA,NA,NA,Km2,12361
+2019,Earthquake,Ground movement,United States of America (the),35.77,-117.599,2019,7,5,NA,200000,NA,NA,Richter,7
+2019,Flood,Flash flood,Zimbabwe,-19.041,30.804,2019,2,11,26,NA,NA,NA,Km2,154678
+2019,Earthquake,Ground movement,Albania,41.381,19.454,2019,9,21,NA,45000,NA,NA,Richter,6
+2019,Earthquake,Ground movement,Albania,41.511,19.522,2019,11,26,51,700000,NA,NA,Richter,6
+2019,Earthquake,Ground movement,China,29.573,105.064,2019,9,8,1,NA,NA,NA,Richter,5
+2019,Earthquake,Ground movement,China,29.573,105.064,2019,9,8,1,NA,NA,NA,Richter,5
+2020,Flood,NA,Brazil,-19.398,-45.901,2020,1,17,61,300000,NA,"Slide (land, mud, snow, rock)",Km2,115220
+2020,Flood,Flash flood,Egypt,290.213,307.541,2020,3,11,40,76000,NA,Transport accident,Km2,22124
+2020,Flood,Flash flood,Angola,-913.908,142.007,2020,4,18,30,NA,NA,NA,Km2,77632
+2020,Earthquake,Ground movement,China,27.296,103.281,2020,5,18,4,17000,NA,NA,Richter,5
+2020,Flood,NA,Djibouti,116.851,426.804,2020,4,20,8,NA,NA,NA,Km2,10322
+2021,Earthquake,Ground movement,China,41.816,81.164,2021,3,24,3,NA,NA,NA,Richter,5
+2021,Earthquake,Ground movement,China,25.761,100.011,2021,5,21,3,49000,NA,NA,Richter,6
+2021,Earthquake,Ground movement,China,29.182,105.391,2021,9,16,3,NA,NA,NA,Richter,5
+1909,Earthquake,Ground movement,Pakistan,30,68,1909,10,21,231,NA,NA,NA,Richter,7
+1910,Earthquake,Ground movement,Taiwan (Province of China),25.5,122.5,1910,4,12,60,NA,NA,NA,Richter,8
+1911,Earthquake,Ground movement,Iran (Islamic Republic of),32.23,57.03,1911,4,18,700,NA,NA,NA,Richter,7
+1911,Earthquake,Ground movement,Japan,28,130,1911,6,15,12,NA,NA,NA,Richter,8
+1911,Earthquake,Ground movement,Kazakhstan,43.5,77.5,1911,1,4,450,NA,NA,NA,Richter,8
+1911,Earthquake,Ground movement,Mexico,17.5,-102.5,1911,6,7,45,NA,NA,NA,Richter,8
+1911,Earthquake,Ground movement,Tajikistan,38.2,72.8,1911,2,18,90,NA,NA,NA,Richter,7
+1913,Earthquake,Ground movement,Indonesia,5.354,126.121,1913,3,14,138,NA,NA,Tsunami/Tidal wave,Richter,8
+1914,Earthquake,Ground movement,Greece,38.8,20.6,1930,11,27,14,NA,NA,Tsunami/Tidal wave,Richter,6
+1914,Earthquake,Ground movement,Italy,37.7,15.2,1914,5,8,120,NA,NA,NA,Richter,5
+1914,Earthquake,Ground movement,Peru,-15.2,-73.2,1914,12,2,34,NA,NA,NA,Richter,NA
+1914,Earthquake,Ground movement,Turkey,37.82,30.27,1914,10,4,4000,NA,NA,NA,Richter,7
+1916,Earthquake,Ground movement,Taiwan (Province of China),23.7,120.9,1916,8,28,180,NA,NA,NA,Richter,7
+1916,Earthquake,Ground movement,Taiwan (Province of China),24,121,1916,11,15,1,NA,NA,NA,Richter,6
+1917,Earthquake,Ground movement,Taiwan (Province of China),23.9,120.9,1917,1,5,54,NA,NA,NA,Richter,6
+1920,Earthquake,Ground movement,Mexico,19.26,-96.97,1920,1,3,648,NA,NA,NA,Richter,8
+1922,Earthquake,Ground movement,Taiwan (Province of China),24.5,122,1922,9,2,5,NA,NA,Tsunami/Tidal wave,Richter,8
+1922,Earthquake,Ground movement,Japan,32.7,130.3,1922,12,8,27,NA,NA,NA,Richter,NA
+1923,Earthquake,Ground movement,Iran (Islamic Republic of),36.617,57.046,1923,9,17,157,NA,NA,NA,Richter,6
+1923,Earthquake,Ground movement,Iran (Islamic Republic of),29.196,56.833,1923,9,23,290,NA,NA,NA,Richter,7
+1924,Earthquake,Ground movement,Indonesia,-7.3,109.8,1924,11,12,60,NA,NA,NA,Richter,NA
+1924,Earthquake,Ground movement,Turkey,39.7,42.8,1924,5,13,50,NA,NA,NA,Richter,5
+1924,Earthquake,Ground movement,Turkey,39.897,41.891,1924,9,13,60,NA,NA,NA,Richter,7
+1925,Earthquake,Ground movement,Philippines (the),9.782,123.064,1925,8,7,17,NA,NA,Tsunami/Tidal wave,Richter,7
+1925,Earthquake,Ground movement,Iran (Islamic Republic of),34.6,58.1,1925,12,14,500,NA,NA,NA,Richter,6
+1925,Earthquake,Ground movement,Japan,35.423,135.007,1925,5,23,395,NA,NA,NA,Richter,7
+1925,Earthquake,Ground movement,Turkey,41.2,42.8,1925,1,9,200,NA,NA,NA,Richter,6
+1925,Earthquake,Ground movement,Turkey,38,30.5,1925,8,7,3,NA,NA,NA,Richter,6
+1930,Earthquake,Ground movement,Italy,43.667,13.267,1930,10,30,18,NA,NA,NA,Richter,6
+1930,Earthquake,Ground movement,Myanmar,17.4,95.5,1930,7,18,50,NA,NA,NA,Richter,NA
+1930,Earthquake,Ground movement,Nicaragua,12.1,-86.2,1930,3,31,1000,15000,NA,NA,Richter,NA
+1930,Earthquake,Ground movement,Tajikistan,38.4,68.5,1930,9,22,175,NA,NA,NA,Richter,6
+1930,Earthquake,Ground movement,Taiwan (Province of China),23.261,120.277,1930,12,8,4,NA,NA,NA,Richter,6
+1932,Earthquake,Ground movement,Greece,40.5,23.9,1932,9,26,151,NA,NA,Tsunami/Tidal wave,Richter,7
+1932,Earthquake,Ground movement,Mexico,19.5,-104.25,1932,6,3,400,NA,NA,Tsunami/Tidal wave,Richter,8
+1932,Earthquake,Ground movement,Iran (Islamic Republic of),36.6,53.4,1932,5,20,1070,NA,NA,NA,Richter,5
+1933,Earthquake,Ground movement,Italy,42,14.2,1933,9,26,10,NA,NA,NA,Richter,NA
+1934,Earthquake,Ground movement,Turkey,37.919,40.211,1934,11,27,100,NA,NA,NA,Richter,NA
+1934,Earthquake,Ground movement,Turkey,37.919,40.211,1934,12,15,20,NA,NA,NA,Richter,NA
+1935,Earthquake,Ground movement,Iran (Islamic Republic of),36.3,53.3,1935,3,5,60,NA,NA,NA,Richter,6
+1935,Earthquake,Ground movement,Iran (Islamic Republic of),36.3,53.5,1935,4,12,690,NA,NA,NA,Richter,6
+1935,Earthquake,Ground movement,Turkey,39.3,40.6,1935,5,1,540,NA,NA,NA,Richter,6
+1936,Earthquake,Ground movement,Iran (Islamic Republic of),33,60,1936,6,30,12,NA,NA,NA,Richter,6
+1936,Earthquake,Ground movement,El Salvador,13.2,-88.7,1936,12,19,400,NA,NA,NA,Richter,NA
+1936,Earthquake,Ground movement,Taiwan (Province of China),22.3,120.8,1936,8,22,10,NA,NA,NA,Richter,7
+1937,Earthquake,Ground movement,Philippines (the),14.575,121.68,1937,8,20,1,NA,NA,Tsunami/Tidal wave,Richter,8
+1937,Earthquake,Ground movement,Mexico,18.8,-97.5,1937,7,25,34,NA,NA,NA,Richter,8
+1939,Earthquake,Ground movement,Japan,39.945,139.682,1939,5,1,27,NA,NA,Tsunami/Tidal wave,Richter,7
+1939,Earthquake,Ground movement,Peru,-12.5,-72,1939,6,23,37,NA,NA,NA,Richter,NA
+1940,Earthquake,Ground movement,Turkey,41.7,43.8,1940,5,8,16,NA,NA,NA,Richter,6
+1941,Earthquake,Ground movement,Iran (Islamic Republic of),33.482,58.785,1941,2,16,730,NA,NA,NA,Richter,6
+1941,Earthquake,Ground movement,Turkey,39.5,43.3,1941,9,11,430,NA,NA,NA,Richter,6
+1941,Earthquake,Ground movement,Turkey,39.7,39.4,1941,11,12,15,NA,NA,NA,Richter,6
+1941,Earthquake,Ground movement,Taiwan (Province of China),23.304,120.393,1941,12,17,319,NA,NA,NA,Richter,7
+1942,Earthquake,Ground movement,Peru,-14.819,-74.708,1942,8,24,30,NA,NA,Tsunami/Tidal wave,Richter,8
+1942,Earthquake,Ground movement,Turkey,39.2,28.2,1942,11,15,16,NA,NA,NA,Richter,6
+1942,Earthquake,Ground movement,Turkey,40.3,34.6,1942,11,21,17,NA,NA,NA,Richter,NA
+1943,Earthquake,Ground movement,Turkey,40.8,30.5,1943,1,20,285,NA,NA,NA,Richter,7
+1943,Earthquake,Ground movement,Turkey,40.6,30.5,1943,6,20,285,NA,NA,NA,Richter,6
+1943,Earthquake,Ground movement,Turkey,40,40,1943,12,5,550,NA,NA,NA,Richter,NA
+1944,Earthquake,Ground movement,Iran (Islamic Republic of),36.8,54.5,1944,4,5,20,NA,NA,NA,Richter,5
+1944,Earthquake,Ground movement,Turkey,38.9,29.3,1944,6,25,21,NA,NA,NA,Richter,6
+1945,Earthquake,Ground movement,Iran (Islamic Republic of),35.2,52.1,1945,5,11,20,NA,NA,NA,Richter,NA
+1945,Earthquake,Ground movement,Turkey,37.4,35.8,1945,3,20,300,NA,NA,NA,Richter,6
+1945,Earthquake,Ground movement,Turkey,38.5,43.3,1945,7,29,300,NA,NA,NA,Richter,NA
+1946,Earthquake,Ground movement,Turkey,38.2,31.8,1946,2,21,12,NA,NA,NA,Richter,6
+1946,Earthquake,Ground movement,Taiwan (Province of China),26.19,121.086,1946,12,5,58,NA,NA,NA,Richter,7
+1947,Earthquake,Ground movement,Greece,36.728,21.897,1947,10,6,3,NA,NA,Tsunami/Tidal wave,Richter,8
+1948,Earthquake,Ground movement,Greece,38.532,20.425,1948,4,22,2,NA,NA,Tsunami/Tidal wave,Richter,7
+1950,Earthquake,Ground movement,Indonesia,-6,113,1950,6,19,16,NA,NA,NA,Richter,7
+1950,Earthquake,Ground movement,Iran (Islamic Republic of),27.3,53.2,1950,1,19,20,NA,NA,NA,Richter,NA
+1950,Earthquake,Ground movement,Turkey,40,40,1950,2,4,20,NA,NA,NA,Richter,NA
+1951,Earthquake,Ground movement,Papua New Guinea,-9.3,147.1,1951,2,18,3000,NA,NA,NA,Richter,NA
+1951,Earthquake,Ground movement,Taiwan (Province of China),23.8,121.7,1951,10,22,68,NA,NA,NA,Richter,7
+1951,Earthquake,Ground movement,Taiwan (Province of China),22.9,121.5,1951,11,25,17,NA,NA,NA,Richter,8
+1952,Earthquake,Ground movement,Turkey,39.8,39.5,1952,6,3,94,NA,NA,NA,Richter,NA
+1953,Earthquake,Ground movement,Iran (Islamic Republic of),28.5,52.3,1953,1,16,11,NA,NA,NA,Richter,NA
+1953,Earthquake,Ground movement,Turkey,41.4,26.3,1953,6,18,37,NA,NA,NA,Richter,NA
+1954,Earthquake,Ground movement,Greece,39.8,22.1,1954,4,20,25,NA,NA,NA,Richter,NA
+1955,Earthquake,Ground movement,Greece,39.4,23.1,1955,4,19,8,NA,NA,Tsunami/Tidal wave,Richter,NA
+1955,Earthquake,Ground movement,Pakistan,30.5,67,1955,2,19,12,NA,NA,NA,Richter,NA
+1959,Earthquake,Ground movement,Taiwan (Province of China),22.078,121.105,1959,8,15,16,NA,NA,NA,Richter,7
+1961,Earthquake,Ground movement,Iran (Islamic Republic of),27.861,54.528,1961,6,11,60,NA,NA,NA,Richter,6
+1961,Earthquake,Ground movement,Japan,36,136.7,1961,8,19,10,NA,NA,NA,Richter,7
+1963,Earthquake,Ground movement,Taiwan (Province of China),24.411,122.094,1963,2,13,15,NA,NA,NA,Richter,7
+1965,Earthquake,Ground movement,Greece,37.7,21.8,2020,4,5,32,NA,NA,NA,Richter,6
+1965,Earthquake,Ground movement,Iran (Islamic Republic of),37.6,47.1,1965,2,10,20,NA,NA,NA,Richter,5
+1966,Earthquake,Ground movement,India,28.7,78.9,1966,8,15,15,NA,NA,NA,Richter,6
+1966,Earthquake,Ground movement,Turkey,39.1,41.6,1966,3,7,10,NA,NA,NA,Richter,6
+1966,Earthquake,Ground movement,Turkey,38.9,41.3,1966,7,12,12,NA,NA,NA,Richter,5
+1967,Earthquake,Ground movement,Indonesia,5.121,96.286,1967,4,12,14,NA,NA,Tsunami/Tidal wave,Richter,7
+1967,Earthquake,Ground movement,Turkey,39.5,40.4,1967,7,26,97,NA,NA,NA,Richter,6
+1968,Earthquake,Ground movement,Iran (Islamic Republic of),34,58.2,1968,9,1,700,NA,NA,NA,Richter,7
+1968,Earthquake,Ground movement,Mexico,16.519,-97.739,1968,8,2,18,2400,NA,NA,Richter,7
+1969,Earthquake,Ground movement,Portugal,36.033,-10.613,1969,2,28,2,NA,NA,Tsunami/Tidal wave,Richter,8
+1969,Earthquake,Ground movement,Morocco,36.033,-10.613,1969,2,28,11,NA,NA,NA,Richter,8
+1970,Earthquake,Ground movement,Peru,-9.9,-75.6,1970,2,14,12,NA,NA,NA,Richter,5
+1971,Earthquake,Ground movement,Indonesia,-7.2,109.1,1971,6,16,1,NA,NA,NA,Richter,5
+1972,Earthquake,Ground movement,Italy,43.8,13.3,1972,6,21,2,300000,NA,NA,Richter,4
+1973,Earthquake,Ground movement,Japan,43.233,145.785,1973,6,17,NA,5000,NA,Tsunami/Tidal wave,Richter,8
+1974,Earthquake,NA,Peru,-12.299,-76.352,1974,1,5,10,NA,NA,NA,Richter,6
+1976,Earthquake,Ground movement,Italy,46.302,13.197,1976,9,15,11,NA,NA,NA,Richter,NA
+1977,Earthquake,Ground movement,Solomon Islands,-9.965,160.731,1977,4,21,18,NA,NA,NA,Richter,8
+1982,Earthquake,Ground movement,Mexico,17.25,-93.21,1982,3,27,10,NA,NA,Volcanic activity,Richter,4
+2019,Flood,Flash flood,Indonesia,-6.533,107.508,2019,12,31,66,1200000,NA,"Slide (land, mud, snow, rock)",Km2,24987
+2019,Flood,NA,Japan,32.951,130.545,2019,8,27,1,100000,NA,"Slide (land, mud, snow, rock)",Km2,10883
+2019,Flood,NA,Japan,36.739,140.269,2019,10,25,10,NA,NA,"Slide (land, mud, snow, rock)",Km2,23764
+2019,Flood,Flash flood,Kenya,0.728,39.414,2019,10,10,90,NA,NA,"Slide (land, mud, snow, rock)",Km2,232028
+2019,Flood,NA,Mozambique,-16.223,36.866,2019,12,27,28,NA,NA,Storm,Km2,401250
+2019,Earthquake,Ground movement,Indonesia,-3.45,128.347,2019,9,26,31,NA,NA,NA,Richter,7
+2019,Earthquake,Ground movement,Iran (Islamic Republic of),37.808,47.558,2019,11,8,6,90000,NA,NA,Richter,6
+2019,Flood,NA,Sri Lanka,7.922,80.835,2019,12,18,3,NA,NA,NA,Km2,44782
+2019,Flood,NA,Mexico,-107.661,28.484,2019,11,27,3,NA,NA,NA,Km2,397450
+2019,Flood,NA,Malaysia,102.584,4.415,2019,11,30,2,NA,NA,NA,Km2,38171
+2019,Earthquake,Ground movement,Pakistan,33.106,73.766,2019,9,24,39,17000,NA,NA,Richter,6
+2019,Earthquake,Ground movement,Philippines (the),6.714,125.009,2019,10,16,7,NA,NA,NA,Richter,6
+2019,Earthquake,Ground movement,Philippines (the),6.754,124.985,2019,10,29,10,NA,NA,NA,Richter,7
+2019,Earthquake,Ground movement,Philippines (the),6.905,125.187,2019,10,31,23,NA,NA,NA,Richter,7
+2019,Earthquake,Ground movement,Philippines (the),6.708,125.188,2019,12,15,14,NA,NA,NA,Richter,7
+2019,Flood,Flash flood,Sudan (the),14.826,33.921,2019,7,NA,78,NA,NA,NA,Km2,228504
+2019,Flood,NA,Senegal,15.52,-15.516,2019,9,10,6,NA,NA,NA,Km2,60942
+2019,Earthquake,Ground movement,Turkey,40.89,28.173,2019,9,26,1,NA,NA,NA,Richter,6
+2020,Flood,NA,Japan,326.655,131.039,2020,6,29,82,5800000,NA,"Slide (land, mud, snow, rock)",Km2,28548
+2020,Flood,NA,Kenya,116.343,365.935,2020,4,18,285,10000,NA,"Slide (land, mud, snow, rock)",Km2,154390
+2020,Flood,NA,Madagascar,-18.95,47.184,2020,1,1,40,NA,NA,"Slide (land, mud, snow, rock)",Km2,443086
+2020,Earthquake,Ground movement,Puerto Rico,17.937,-66.727,2020,5,2,NA,150000,NA,"Slide (land, mud, snow, rock)",Richter,5
+2020,Flood,NA,"Tanzania, United Republic of",-451.236,342.182,2020,4,22,2,NA,NA,"Slide (land, mud, snow, rock)",Km2,184333
+2020,Flood,Riverine flood,Uganda,0.013,310.263,2020,5,21,11,NA,NA,"Slide (land, mud, snow, rock)",Km2,47454
+2020,Earthquake,Ground movement,Puerto Rico,17.935,-66.883,2020,1,7,4,800000,NA,Tsunami/Tidal wave,Richter,6
+2020,Storm,Tropical cyclone,Madagascar,-144.876,487.673,2020,3,13,4,NA,Cyclone 'Herold',Flood,Kph,148
+2020,Flood,NA,Rwanda,-199.445,298.633,2020,3,2,3,NA,NA,Lightening,Km2,15283
+2020,Earthquake,Ground movement,Greece,37.913,26.779,2020,10,30,2,NA,NA,NA,Richter,7
+2020,Earthquake,Ground movement,Croatia,45.897,15.966,2020,3,22,1,6800000,NA,NA,Richter,5
+2020,Earthquake,Ground movement,Croatia,45.422,16.255,2020,12,29,8,469444,NA,NA,Richter,6
+2020,Flood,NA,Iran (Islamic Republic of),330.386,541.614,2020,4,10,8,NA,NA,NA,Km2,216987
+2020,Earthquake,Ground movement,Mexico,15.916,-95.953,2020,6,23,10,75000,NA,NA,Richter,7
+2020,Flood,NA,Mongolia,463.877,106.222,2020,6,21,2,NA,NA,NA,Km2,423250
+2020,Flood,NA,Mozambique,-180.132,352.821,2020,2,11,2,NA,NA,NA,Km2,172917
+2020,Flood,NA,Oman,183.982,545.326,2020,5,27,3,NA,NA,NA,Km2,95375
+2020,Earthquake,Ground movement,Philippines (the),12.021,124.123,2020,8,18,1,2500,NA,NA,Richter,7
+2020,Flood,NA,Somalia,614.157,470.848,2020,4,20,26,NA,NA,NA,Km2,428331
+2020,Earthquake,Ground movement,Turkey,38.39,44.367,2020,1,24,41,88000,NA,NA,Richter,7
+2020,Earthquake,Ground movement,Turkey,38.543,44.447,2020,2,23,9,NA,NA,NA,Richter,6
+2020,Earthquake,Ground movement,Turkey,39.421,40.697,2020,6,14,1,NA,NA,NA,Richter,6
+2020,Earthquake,Ground movement,Turkey,37.913,26.779,2020,10,30,115,450000,NA,NA,Richter,7
+2021,Earthquake,Ground movement,Indonesia,-2.976,118.901,2021,1,15,110,58700,NA,"Slide (land, mud, snow, rock)",Richter,6
+2021,Earthquake,Ground movement,Greece,39.789,22.119,2021,3,3,NA,10000,NA,NA,Richter,59
+2021,Earthquake,Ground movement,Haiti,18.408,-73.475,2021,8,14,2577,NA,NA,NA,Richter,7
+2021,Earthquake,Ground movement,Indonesia,-8.562,112.519,2021,4,11,9,NA,NA,NA,Richter,6
+2021,Earthquake,Ground movement,India,26.781,92.457,2021,4,28,2,NA,NA,NA,Richter,6
+2021,Earthquake,Ground movement,Japan,37.745,141.749,2021,2,13,1,7500000,NA,NA,Richter,7
+2021,Earthquake,Ground movement,Japan,38.475,141.633,2021,3,20,NA,550000,NA,NA,Richter,7
+2021,Earthquake,Ground movement,Pakistan,30.22,68.014,2021,10,7,20,NA,NA,NA,Richter,6
+1925,Earthquake,Ground movement,United States of America (the),34.3,-119.8,1925,6,29,13,8000,NA,NA,Richter,6
+1943,Earthquake,Ground movement,Yugoslavia,44.3,17,1943,1,29,19,NA,NA,NA,Richter,NA
+1973,Earthquake,Ground movement,United States of America (the),34.1,-119,1973,2,21,NA,1000,NA,NA,Richter,6
+1973,Earthquake,Ground movement,United States of America (the),19.936,-155.098,1973,4,26,NA,5750,NA,NA,Richter,7
+1975,Earthquake,Ground movement,United States of America (the),42.06,-122.55,1975,3,27,NA,1000,NA,NA,Richter,6
+2019,Flood,NA,Yemen,43.571,15.118,2019,7,31,12,NA,NA,"Slide (land, mud, snow, rock)",Km2,30369
+2019,Flood,NA,Venezuela (Bolivarian Republic of),9.772,-72.228,2019,10,5,6,NA,NA,NA,Km2,24681
+2020,Flood,NA,Uzbekistan,412.451,55.844,2020,5,1,4,NA,NA,Broken Dam/Burst bank,Km2,84662
+2020,Storm,Extra-tropical storm,Viet Nam,20.691,105.183,2020,3,2,5,1500,NA,Lightening,Kph,NA
+2020,Flood,NA,Ukraine,492.688,23.628,2020,6,22,3,153861,NA,NA,Km2,33791
+2020,Flood,Flash flood,Yemen,132.586,444.372,2020,4,15,10,10000,NA,NA,Km2,18949
